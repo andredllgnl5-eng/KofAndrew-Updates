@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
-    "publishedAt":  "2026-08-06T03:45:06.5535054Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.4/KofAndrew-Client-v1.0.4.zip",
-    "packageSha256":  "244802A2497DA0F6BF34A2C444B2ABBB60747057C956A88474FD20F470BB245B",
+    "version":  "1.0.5",
+    "publishedAt":  "2026-08-06T03:54:34.5191491Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.5/KofAndrew-Client-v1.0.5.zip",
+    "packageSha256":  "DCAB292D35D49B084E6ADAD1F8D946292A24F81F781162A1707166A2223F86F3",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "KOF Online.exe",
-                      "size":  148407834,
-                      "sha256":  "4E760E7DAE294D952492E6B1412F22A2FE026764100CD0480C3A90C5AD67BA80"
+                      "size":  156805393,
+                      "sha256":  "58EADCCC5C6F2EAB01B49F9ED918AE875D37CBAC6FDF334AD6DBD0630E608D46"
                   },
                   {
                       "path":  "KOF Updater.exe",
@@ -4931,8 +4931,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  71501,
-                      "sha256":  "2B9EAF5728F095C20161D03F9E39156A81EE71AF70FA8C073D512110DE901F0C"
+                      "size":  71512,
+                      "sha256":  "2CB33610D0C246ADCF79997766D108E33864E269C116AB5676D6B1ED7AEF5AD7"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
@@ -5136,8 +5136,8 @@
                   },
                   {
                       "path":  "game/external/script/main.lua",
-                      "size":  134126,
-                      "sha256":  "5AFAB986D5F71CE5D3FBB842D4D55445E1A479669214B260B7DA4942FBE2E790"
+                      "size":  134696,
+                      "sha256":  "69E04AF5716D408A85F68179983F18508C5C831DA04DD942E91079DE80CBECD4"
                   },
                   {
                       "path":  "game/external/script/menu.lua",
