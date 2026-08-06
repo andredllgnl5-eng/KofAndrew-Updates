@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.11",
-    "publishedAt":  "2026-08-06T10:23:35.1686015Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.11/KofAndrew-Client-v1.0.11.zip",
-    "packageSha256":  "4498BEEE7840D0B7DBC6801D6794AB54A2C4CD38918B2CD298C2DEC7939473A0",
+    "version":  "1.0.12",
+    "publishedAt":  "2026-08-06T22:53:43.2560728Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.12/KofAndrew-Client-v1.0.12.zip",
+    "packageSha256":  "C6153819CD484DC1F9FE6CE9B09F849C655524829931DC217BA438CD0E4F3EFA",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
                       "size":  584,
-                      "sha256":  "DC611E94C8030EEDDB46CF92240D27579F909B28E9456F02A58979052A243F60"
+                      "sha256":  "10C630B38322BF5B71AA28662D110815DD60197FCBC350322705071CA74E3A16"
                   },
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -21,8 +21,8 @@
                   },
                   {
                       "path":  "KOF Online.exe",
-                      "size":  148408858,
-                      "sha256":  "62026B86498C4F8F6B0C2E5FC7E83F8D67C227A1D27F350F650E22483E1D8DFF"
+                      "size":  148409370,
+                      "sha256":  "E620F2C4B4E5DA7D0455D92EA6C8694DF80E25995C88CD41F03558C29DAC05F9"
                   },
                   {
                       "path":  "KOF Updater.exe",
@@ -57,7 +57,7 @@
                   {
                       "path":  "game/KofRoomBridge.exe",
                       "size":  62449520,
-                      "sha256":  "1CA3ECB5E26FB87BFD2CA5B50874CFAF531A10073FCE5D9E8128F293680BA02B"
+                      "sha256":  "64FB9D66F2E168A0FB48FBC3A617DF3F72D8287F23B444E85CF6B2909668A843"
                   },
                   {
                       "path":  "game/LICENSES.txt",
