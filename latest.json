@@ -1,8 +1,8 @@
-﻿{
+{
     "version":  "1.0.0",
-    "publishedAt":  "2026-08-06T02:46:55.3906546Z",
+    "publishedAt":  "2026-08-06T02:53:14.6266183Z",
     "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.0/KofAndrew-Client-v1.0.0.zip",
-    "packageSha256":  "C4FFAD9B85CB7124FD868C27672100B6AFD9FF00BC552677535D834F16EDB981",
+    "packageSha256":  "B9672782774D685C33A6D8C15413F735424CD14E2EE149A75129A270C78115C7",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -17,7 +17,7 @@
                   {
                       "path":  "KOF Online.exe",
                       "size":  148403226,
-                      "sha256":  "8D6842A2125154B6B99966F84874FD7C92EAC2B90120AFF6A8D8F97BC0149214"
+                      "sha256":  "BD243D0A7AD784FEA2AA4F6C8BB12B0DDBE6F91BB943A61328CCDFDF79B63189"
                   },
                   {
                       "path":  "KOF Updater.exe",
