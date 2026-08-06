@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.8",
-    "publishedAt":  "2026-08-06T05:38:25.8905944Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.8/KofAndrew-Client-v1.0.8.zip",
-    "packageSha256":  "46E933DFFD166792F4933B741CC0FB49BA2612A9FD1509A3DB3606D8F4A9CB5A",
+    "version":  "1.0.9",
+    "publishedAt":  "2026-08-06T05:53:46.6353021Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.9/KofAndrew-Client-v1.0.9.zip",
+    "packageSha256":  "D51FD4C9F2D759C65BA39C6BB1A11E83FC65F6D457D4E9A24CA79224FA838604",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -116,8 +116,8 @@
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel-2-3.cns",
-                      "size":  34841,
-                      "sha256":  "84B0F577008271DDFC4EF55916A757B40ABBC821F0EFB03C83E040828CA392DB"
+                      "size":  34839,
+                      "sha256":  "0196DAA3EE4762819979B4B8F7FB1116B80B60317B85034EB1B332F1C935B00B"
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel-AIHelPer.cns",
@@ -131,13 +131,13 @@
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel-H.cns",
-                      "size":  296844,
-                      "sha256":  "6C06FA1FC843ECFECAE19F0ABD6C4BB42E3D63918DC0B20CB9A9E55BD4E2A6DE"
+                      "size":  296802,
+                      "sha256":  "C9AB7AFD92BBF0CF91566DF2E12109BC94D2D1BD40C541F7E8153167B6A9AB7F"
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel-N.cns",
                       "size":  29117,
-                      "sha256":  "22D0841D7A95CEDB83690A5119D80699F01152004DEBB5A0D455316E66C2AAD6"
+                      "sha256":  "C4C87CBCA7DA42ECF4E3CA4FD28498F81EF7BF3FED1CBFAF3CCBBAABA7206C73"
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel-Null.cns",
@@ -146,8 +146,8 @@
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel-S.cns",
-                      "size":  86425,
-                      "sha256":  "945C9EC7765CD972B950B666E413E0991F34BFBE5CE3DD3D5D331F8EC7DBD8A1"
+                      "size":  86419,
+                      "sha256":  "A46EC869E30FF1A730CA45CB2AA964917C8B309F6F2FE8316136EA053F64C33E"
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel.air",
@@ -162,7 +162,7 @@
                   {
                       "path":  "game/chars/Adel-BOSS/CNS/Adel.cns",
                       "size":  29451,
-                      "sha256":  "412813FA46DEAE58A801AF6B4E6909FDB47E4DED8C68A92D6484EEA8BA822541"
+                      "sha256":  "758E9DCA71174B64E41A439F15E5730686676C1F58C49A74955F4EE20AFD5450"
                   },
                   {
                       "path":  "game/chars/Adel-BOSS/SFF/Adel.sff",
@@ -221,8 +221,8 @@
                   },
                   {
                       "path":  "game/chars/ageha-kofa/ageha.cns",
-                      "size":  47497,
-                      "sha256":  "307CCC08F3EE21F2CC4E4C7F13659EE757F2F0482C1396CBDE6C65E748DFF98D"
+                      "size":  47496,
+                      "sha256":  "F7E16FE5F43159308B5CE52137A4F17AB21CB84B97CAA3957A1EC34C131877E0"
                   },
                   {
                       "path":  "game/chars/ageha-kofa/ageha.sff",
@@ -247,12 +247,12 @@
                   {
                       "path":  "game/chars/ageha-kofa/hayate_H.cns",
                       "size":  57169,
-                      "sha256":  "2A0EF74CCFD3844898220900DD6C3A44B4F87F5813E43C99368D563CF5AEED35"
+                      "sha256":  "D23614D2F02C369C0972BC2622131F14E63F8CC3734C08981D5FCF08F8D52765"
                   },
                   {
                       "path":  "game/chars/ageha-kofa/hayate_S.cns",
                       "size":  42449,
-                      "sha256":  "4773E5018BEE283C01FA1D08D96C48600D9E5133092856A530983A1BDDBCEA71"
+                      "sha256":  "FB9F3D1F32206EFB89D4653ACE8F3CAC4D59CBC2906C07E7A5150BA54A9D6F38"
                   },
                   {
                       "path":  "game/chars/Akatsuki/-2-3.cns",
@@ -276,8 +276,8 @@
                   },
                   {
                       "path":  "game/chars/Akatsuki/Akatsuki.cns",
-                      "size":  345895,
-                      "sha256":  "8EF9084D0183641F26D79AAF1D247EFB59F6F31ABE5AF7E51670CFE5898894B5"
+                      "size":  345890,
+                      "sha256":  "12282849A5AA8754E43EC9D41DD1B2867B49F5C70BF40695493C96AAE5089D10"
                   },
                   {
                       "path":  "game/chars/Akatsuki/Akatsuki.def",
@@ -307,7 +307,7 @@
                   {
                       "path":  "game/chars/Akatsuki/Helpers.cns",
                       "size":  57168,
-                      "sha256":  "F5CD6824493EAB2C5596517AB488C7DBF2C901E3421511F83A462A055C984B7E"
+                      "sha256":  "4461EC853E35E569B25FF9008AFFDCD70323F11FA09FDC5C2E8782D5CD6405E1"
                   },
                   {
                       "path":  "game/chars/Akatsuki/Movelist.png",
@@ -442,7 +442,7 @@
                   {
                       "path":  "game/chars/akira-ogake-kofa/akira.cns",
                       "size":  10006,
-                      "sha256":  "3AA1489845A759B50D22A5C53B9D16731F0B5073445AACCD842D20435C6E1660"
+                      "sha256":  "CAE3516491CC1DEDA73B00A6F3D591838AB59402F3BF4C978A40B49D12D762F3"
                   },
                   {
                       "path":  "game/chars/akira-ogake-kofa/akira.sff",
@@ -461,23 +461,23 @@
                   },
                   {
                       "path":  "game/chars/akira-ogake-kofa/extras.st",
-                      "size":  55926,
-                      "sha256":  "2B69B6242B0103BED4AB8256504AB2EA2EF9F93C7C074ADC7C499F0EE8E5C042"
+                      "size":  55920,
+                      "sha256":  "9F731EC0381CDBF276F319FF631A4CA13E0D1020CC5FD96BA1E20965497C8011"
                   },
                   {
                       "path":  "game/chars/akira-ogake-kofa/hypers.st",
-                      "size":  101156,
-                      "sha256":  "ED3DE9109A3BD9B8B0024CB52F091E8CBCB87C2EE39BF69AA2C2CB70941672DA"
+                      "size":  101150,
+                      "sha256":  "8FE4F622D829A37CBB28866CBD2950CCC4613D09FB0FFC4BD0293F6DA683484D"
                   },
                   {
                       "path":  "game/chars/akira-ogake-kofa/normal.st",
-                      "size":  26944,
-                      "sha256":  "D4F7A4CFA7660DD2AE8AD3959598EAE5F3D55B795B41F8EDDA23FBE4F82056A8"
+                      "size":  26942,
+                      "sha256":  "F618B994FAF76C66AC2E9B112D977BA362B954CA9DB7B1E0BBE2AFC3753C08FB"
                   },
                   {
                       "path":  "game/chars/akira-ogake-kofa/supers.st",
-                      "size":  96674,
-                      "sha256":  "544EA23C0DDC6335534517739BB767E88587C9B29C1D70D13B0F95D8110E4C2C"
+                      "size":  96663,
+                      "sha256":  "B0BA168C46C9EFABE88A3CCE077C44320C8191508922E731C0A969C827003949"
                   },
                   {
                       "path":  "game/chars/alfredkofstyle/alfred1.act",
@@ -516,8 +516,8 @@
                   },
                   {
                       "path":  "game/chars/alfredkofstyle/alfredkofstyle-N.cns",
-                      "size":  31172,
-                      "sha256":  "B6045C3C81E5652C9213AC9B4E9FCF9A752E5DF83FF1C5E58C6A2B1C1234200D"
+                      "size":  31171,
+                      "sha256":  "C9EC73FC5C9F626DD3536979640FFD7B4ED9FAF4A5BD12DADF3C95364891F2F0"
                   },
                   {
                       "path":  "game/chars/alfredkofstyle/alfredkofstyle.air",
@@ -532,7 +532,7 @@
                   {
                       "path":  "game/chars/alfredkofstyle/alfredkofstyle.cns",
                       "size":  12236,
-                      "sha256":  "E82B15C08F834EDE7E0BD772E15EBD4A416E5099A203FDDD7845A638D645D4B0"
+                      "sha256":  "363F8171F3CBCCCC425896651BCAFBF00CEE024CC9E5C37501468F40473EC7C4"
                   },
                   {
                       "path":  "game/chars/alfredkofstyle/alfredkofstyle.def",
@@ -577,17 +577,17 @@
                   {
                       "path":  "game/chars/alfredkofstyle/NAOK-XI-A.cns",
                       "size":  17402,
-                      "sha256":  "0AAC6B8F3E68234397B5A5D73A586C5DF931B62EA55C1CFA564AA212C67E7189"
+                      "sha256":  "B28D2BC2464F673E2B062E26447AE639D74A3683622BE565F5454972EEF94BD2"
                   },
                   {
                       "path":  "game/chars/alfredkofstyle/NAOK-XI-H.cns",
                       "size":  10187,
-                      "sha256":  "984677A029A4660148DE4C6BB470F0AFC8504F2C107C6FE04BB8A30255FEEE6C"
+                      "sha256":  "45226255D03CF7659201DB681F55AE997D5B8172EF9F18BFB9B8641405C2476F"
                   },
                   {
                       "path":  "game/chars/alfredkofstyle/NAOK-XI-S.cns",
-                      "size":  33391,
-                      "sha256":  "9A141199D8C3505939F7746118777582591426DE39880B0C8D20F9867C4FF77E"
+                      "size":  33385,
+                      "sha256":  "90AE2E113C19BE2C0E81A8BC94C54DADF0FD7FB8B76FD702E491D007EB37CF0E"
                   },
                   {
                       "path":  "game/chars/alice-nakata-kofa/alice-nakata-kofa.def",
@@ -607,7 +607,7 @@
                   {
                       "path":  "game/chars/alice-nakata-kofa/Alice.cns",
                       "size":  101299,
-                      "sha256":  "8B4B49767878B061A930E790388C8014AF362C62972F7CAA8A19CD976B28BF87"
+                      "sha256":  "393917484535266DDE94188BE2CC06AB59702DDAF918C8900771A4D2701E9BA9"
                   },
                   {
                       "path":  "game/chars/alice-nakata-kofa/alice.sff",
@@ -661,8 +661,8 @@
                   },
                   {
                       "path":  "game/chars/ash/ash.cns",
-                      "size":  173192,
-                      "sha256":  "7D43946E60761ECB93E7D9039455CC6E236DC106A43718F06E397896655A2028"
+                      "size":  173177,
+                      "sha256":  "35DB2DCD01C8E67B1C887CB49287B994C51BE2EEF183970FCC32FBA7FE9E4058"
                   },
                   {
                       "path":  "game/chars/ash/ash.def",
@@ -731,18 +731,18 @@
                   },
                   {
                       "path":  "game/chars/asura-rugal-kofa/Rugal-KOFM-H.st",
-                      "size":  118920,
-                      "sha256":  "09D84F33F65F3520BCCFA34CDB6838D4D7388A6B1BDD0186155FF981C23DDD6E"
+                      "size":  118916,
+                      "sha256":  "ADEFD1201E97184D59E69871F0CA36CE6871AA707CE124934A5DF330707D895C"
                   },
                   {
                       "path":  "game/chars/asura-rugal-kofa/Rugal-KOFM-N.st",
                       "size":  42835,
-                      "sha256":  "8FDC314D148A53DE90572204EBA037E7414E0F9AB76CF4D9E3CC4F796325FD12"
+                      "sha256":  "FFB63C3D0501C753D2C3E447873E30D8E1EB57082F1EA5799ED3E78DE14210CE"
                   },
                   {
                       "path":  "game/chars/asura-rugal-kofa/Rugal-KOFM-S.st",
-                      "size":  115014,
-                      "sha256":  "CEE3270A851FA681BDD392F5C80F7C433758AA02B9B077F45D7D3CBB183ECB55"
+                      "size":  115012,
+                      "sha256":  "1E3BBF69DF2374CF3965A9F3EFF919367B7BB81C004BA6E1DF60949A34097770"
                   },
                   {
                       "path":  "game/chars/asura-rugal-kofa/Rugal-KOFM.air",
@@ -757,7 +757,7 @@
                   {
                       "path":  "game/chars/asura-rugal-kofa/Rugal-KOFM.cns",
                       "size":  41774,
-                      "sha256":  "4C3E3105620F694FFDF30524D814F7A99FDF08B12F304D7CFC855E984A591809"
+                      "sha256":  "D1C2968B3CB88C23A33481E2769166D2A78FA8DCE38D50DD2E364FF6076C36CD"
                   },
                   {
                       "path":  "game/chars/asura-rugal-kofa/Rugal-KOFM.sff",
@@ -836,8 +836,8 @@
                   },
                   {
                       "path":  "game/chars/baiken-kofa/baiken.cns",
-                      "size":  89227,
-                      "sha256":  "30FF1ACE9D676E224DEC5339D0B283BAEB47AF8C7B566F82B4EF364D7E9C98B3"
+                      "size":  89217,
+                      "sha256":  "7B6F6443E2B1C7225760F1C3496AC0239CF590DB8F66360C8EDF90ED8B55050D"
                   },
                   {
                       "path":  "game/chars/baiken-kofa/baiken.sff",
@@ -861,8 +861,8 @@
                   },
                   {
                       "path":  "game/chars/Bao/bao.cns",
-                      "size":  994189,
-                      "sha256":  "96B7BBDC05B1DC3F6E5C9CBF8821DB23C2270DEA6ADB5703027A36353BEC1B33"
+                      "size":  994120,
+                      "sha256":  "68FFF3137B28315C1B0D2596928EEB8279B45C503C685B32569442DE7DEA1288"
                   },
                   {
                       "path":  "game/chars/Bao/Bao.def",
@@ -956,13 +956,13 @@
                   },
                   {
                       "path":  "game/chars/billy/billy-1.cns",
-                      "size":  36549,
-                      "sha256":  "1271A45B57EF74E3522938DAF47D14F833CE478AB6C5758FA70F4FC6D2B9D78A"
+                      "size":  36546,
+                      "sha256":  "1D3F24999AB74E26D2E77C5E793E09973DD593D1C2459D7502D2B0B9D7550A6E"
                   },
                   {
                       "path":  "game/chars/billy/billy-2.cns",
-                      "size":  29646,
-                      "sha256":  "44D37E6066E33FB65331B66E6292A989EC39B29E1561B28611B156546CC4E6CB"
+                      "size":  29642,
+                      "sha256":  "25DCEE5F8C2DB8DAD49D29C4E12AB1BB5FF460475EE400263248ADA73AD307D5"
                   },
                   {
                       "path":  "game/chars/billy/billy.air",
@@ -976,8 +976,8 @@
                   },
                   {
                       "path":  "game/chars/billy/billy.cns",
-                      "size":  87633,
-                      "sha256":  "809584318C31F1C0A14D78DC09B4E9C2A7FC2BB47F73B83905552185DB7F7A02"
+                      "size":  87632,
+                      "sha256":  "E51FA45F32E7D1EA91044D7854D4F9260BB5B2900FB889FF19988F6F0752F9EE"
                   },
                   {
                       "path":  "game/chars/billy/billy.DEF",
@@ -1041,18 +1041,18 @@
                   },
                   {
                       "path":  "game/chars/bluemary-rb-kofa/mary-H.cns",
-                      "size":  296524,
-                      "sha256":  "4A5484960E05959F215A7FE61A8F250EE22203E96D27A69CD680E79ABD98787D"
+                      "size":  296522,
+                      "sha256":  "EB2B91AABFAE7EAB6FDD237908081DB4DD48A0E0EC79BBE3F5455EE4C9666EC0"
                   },
                   {
                       "path":  "game/chars/bluemary-rb-kofa/mary-N.cns",
                       "size":  43958,
-                      "sha256":  "1A001849E521AD8E2EBBCDA7F07C22DD5F98E653283B79114679FD2CB26AFD11"
+                      "sha256":  "ADB2B8A10CAD4E02E80E2BB65BBF4CDA891124E1A8317155607A6BF45ACCD90E"
                   },
                   {
                       "path":  "game/chars/bluemary-rb-kofa/mary-S.cns",
                       "size":  82825,
-                      "sha256":  "2D743FA1B03E9A950699FB671B7CD480BA37B21E30C676339DBC18B19C92C381"
+                      "sha256":  "76955B75DC04F0E8A2C6A8756A517B6134DA3CE2BB9A5DA81EAB33A85B941DAA"
                   },
                   {
                       "path":  "game/chars/bluemary-rb-kofa/mary.air",
@@ -1067,7 +1067,7 @@
                   {
                       "path":  "game/chars/bluemary-rb-kofa/mary.cns",
                       "size":  28584,
-                      "sha256":  "290D43E0E2F3F22F23DFED7DC8107B51AABF9ECDE93C4C81CC31CBBA7EA9A55C"
+                      "sha256":  "058BE4BC1DFA324F5FA8A07B86ECDA086EE54C79298522C802DF47D43280CF4F"
                   },
                   {
                       "path":  "game/chars/bluemary-rb-kofa/mary.sff",
@@ -1167,7 +1167,7 @@
                   {
                       "path":  "game/chars/bryce_-kofa/Bryce.cns",
                       "size":  141032,
-                      "sha256":  "90C5F32D54EBAA7678F42AA48C41BAA5BD0A195C28F366C59D0903B5D75FDF44"
+                      "sha256":  "4647CD92E5CE1844A88FEE3CC4945709C325B97159D21C9BDCDC7D1B76782C38"
                   },
                   {
                       "path":  "game/chars/bryce_-kofa/Bryce.sff",
@@ -1216,13 +1216,13 @@
                   },
                   {
                       "path":  "game/chars/buntaro-kofa/Buntaro-H.cns",
-                      "size":  25366,
-                      "sha256":  "6718B58E8C271EBD234AF15326A13DDF305286D7C6345F6505223707285090E1"
+                      "size":  25363,
+                      "sha256":  "7A8450F282F80A4442AD0DF1B229DE82FCD1CCB995898B5AF09D843E72BC81F2"
                   },
                   {
                       "path":  "game/chars/buntaro-kofa/Buntaro-N.cns",
-                      "size":  57815,
-                      "sha256":  "33CAE85309917F7907945549C00EF3D6B0E7084CEBB7F1678EAF413672D088DF"
+                      "size":  57812,
+                      "sha256":  "D0806173826BC765F3DB3D50571679A4A47EDB35BFFFE1F2B2FD00F1DB1D9AE8"
                   },
                   {
                       "path":  "game/chars/buntaro-kofa/buntaro-pim@duracelleur.def",
@@ -1231,8 +1231,8 @@
                   },
                   {
                       "path":  "game/chars/buntaro-kofa/Buntaro-S.cns",
-                      "size":  30948,
-                      "sha256":  "1ACD87E55A4A6EC43D895CE9316A555A2C3B787BD377F52C278773F185CF12B1"
+                      "size":  30941,
+                      "sha256":  "287510D0291F6C5731C799C8F4C00FE8C9974094636DA46A37EFF98CDFC8AECA"
                   },
                   {
                       "path":  "game/chars/buntaro-kofa/Buntaro.air",
@@ -1347,7 +1347,7 @@
                   {
                       "path":  "game/chars/burai-kofa/Constants.cns",
                       "size":  3322,
-                      "sha256":  "C7375945323B05B3D292B49AA1A10F53AA0BEF9A5EC4644253FD59A9839A23F8"
+                      "sha256":  "9230B711723EB7344D8ECA8F49E5340AE689A60007EC8121C66C5158AEA3A8DF"
                   },
                   {
                       "path":  "game/chars/burai-kofa/States/Customs.cns",
@@ -1401,8 +1401,8 @@
                   },
                   {
                       "path":  "game/chars/Charlotte/Charlotte.cns",
-                      "size":  301166,
-                      "sha256":  "20677917FEF65F18B59AA557ADF9170FEDD1295C901F85EA2E4B82A66B2A3E86"
+                      "size":  301159,
+                      "sha256":  "FE1C0D08650829ED6A3653C45AD428432A81AC639CF798B88186B6F1E5AB5AE3"
                   },
                   {
                       "path":  "game/chars/Charlotte/Charlotte.def",
@@ -1526,8 +1526,8 @@
                   },
                   {
                       "path":  "game/chars/clara-kofa/attacks.cns",
-                      "size":  18489,
-                      "sha256":  "4C9E4E2FE78201181F462F0C833EF13AA6FA2DEA3E11D43CE9DD8B2CBA29D42B"
+                      "size":  18486,
+                      "sha256":  "B0DA1183B26262C87112D25FF77EF4B6C6A8FA31EE34C01F0675FA2845782385"
                   },
                   {
                       "path":  "game/chars/clara-kofa/clara-kofa.def",
@@ -1547,7 +1547,7 @@
                   {
                       "path":  "game/chars/clara-kofa/clara.cns",
                       "size":  18677,
-                      "sha256":  "2B8EBB6059C8F987AC268BB0365D0A4F4898D0096D0F4B704D75E5DB352F4C80"
+                      "sha256":  "DC7DFD1CB31780AA72D96E6E59D6386F183421D8E5A8A603EE65E54CD03A6E96"
                   },
                   {
                       "path":  "game/chars/clara-kofa/clara.sff",
@@ -1561,8 +1561,8 @@
                   },
                   {
                       "path":  "game/chars/clara-kofa/hypers.cns",
-                      "size":  36306,
-                      "sha256":  "85880C88B683B8B349C148F09F6EBF1180DE7ABBE6013346B87C4637433853F4"
+                      "size":  36304,
+                      "sha256":  "FB420B519C87E9A6D59409460801B19E598743B21734BEB1EEAD39A8D34B9A60"
                   },
                   {
                       "path":  "game/chars/clara-kofa/misc.cns",
@@ -1571,8 +1571,8 @@
                   },
                   {
                       "path":  "game/chars/clara-kofa/specials.cns",
-                      "size":  12547,
-                      "sha256":  "21887803ED3FF5D2A0617ADA1C0060CA35E0AF7C37BA81E73BAA4222B2E8B7CD"
+                      "size":  12541,
+                      "sha256":  "8F5CAFD517DC8FCFE365AC8F49871AB4D8A05A28615D3DEB84D81A8038493E94"
                   },
                   {
                       "path":  "game/chars/Dante/1.act",
@@ -1747,7 +1747,7 @@
                   {
                       "path":  "game/chars/dao-long-kofa/Daolong-N.cns",
                       "size":  71475,
-                      "sha256":  "D30D658E54E1E665C07E284AB24029976837795A89A4651C0CECCEAF8935EF32"
+                      "sha256":  "853C469304C3618FD02B02C2FAED4755D718270B9A53564F4ABDA20EEBE48B85"
                   },
                   {
                       "path":  "game/chars/dao-long-kofa/Daolong.air",
@@ -1762,7 +1762,7 @@
                   {
                       "path":  "game/chars/dao-long-kofa/Daolong.cns",
                       "size":  13619,
-                      "sha256":  "EBA4ED6D907DD98E04001B0813C16AF7248D90CCE0C11B5FC36B038327AF222F"
+                      "sha256":  "9E6BD9DE3EC3B113F3B35EF3D21C6600EEC6F1D67E8E84DD39CABDD4AD84282B"
                   },
                   {
                       "path":  "game/chars/dao-long-kofa/Daolong.sff",
@@ -1807,17 +1807,17 @@
                   {
                       "path":  "game/chars/deejay-kofa/SF2_normal.st",
                       "size":  49776,
-                      "sha256":  "5C7D728F780DACC6D33F255877CBCBA4CCD81018161E25950205C0FACE3C7633"
+                      "sha256":  "85C9D9EDB1BB9A4D3784296E90363354E5FC6894DA5554A321D4F07172A93545"
                   },
                   {
                       "path":  "game/chars/deejay-kofa/SF2_special.cns",
                       "size":  35749,
-                      "sha256":  "D5CECA095734E6B65E68B4EAA9CE7B1660A862D6DAB95C0495AB34A7EF7E9868"
+                      "sha256":  "16185DD465A4C701A2F9F36F50A28A9A4DD39239FD9E2827CE82AF2320889330"
                   },
                   {
                       "path":  "game/chars/deejay-kofa/SF2_super.cns",
                       "size":  19135,
-                      "sha256":  "59449832EC6FA39FB587B312569D769742C75507ADA305BBBA9B2945EF6FF075"
+                      "sha256":  "AE59E60C36175BF4134F04D5BB63E65F2136D9ACBFD4C09BE17E3717D668BD88"
                   },
                   {
                       "path":  "game/chars/deejay-kofa/SF2_throw.st",
@@ -1921,18 +1921,18 @@
                   },
                   {
                       "path":  "game/chars/DG.Rugal-KOFM/Rugal-KOFM-H.st",
-                      "size":  251386,
-                      "sha256":  "B1DF45915D2AACD2699BA078DC6A403D50B0A406860DE4F650AE05F99838D440"
+                      "size":  251372,
+                      "sha256":  "95D447DA7FA7DB6F70DF4464D70AA6A2AB848636AD552AD16533C310AA559DAB"
                   },
                   {
                       "path":  "game/chars/DG.Rugal-KOFM/Rugal-KOFM-N.st",
-                      "size":  58502,
-                      "sha256":  "C62246A6A6DB52600AF0F16BE5C59E43E0F034F12BD9C414FE63DA8ABDB288EA"
+                      "size":  58500,
+                      "sha256":  "0E253ED199F441C4347B2F9A8D31AFF4EA1AB4FAABDCD0DE45C961A856ED839E"
                   },
                   {
                       "path":  "game/chars/DG.Rugal-KOFM/Rugal-KOFM-S.st",
-                      "size":  147008,
-                      "sha256":  "6B2BA02619709988629623F9B7653BE752A368CEABB2204620E2481F48DE8D0C"
+                      "size":  146989,
+                      "sha256":  "B5F18E63F95642FDDBB2E6DDF0CCC0790AB49C4939DF0D1595FF36E45CB5BF59"
                   },
                   {
                       "path":  "game/chars/DG.Rugal-KOFM/Rugal-KOFM.air",
@@ -1947,7 +1947,7 @@
                   {
                       "path":  "game/chars/DG.Rugal-KOFM/Rugal-KOFM.cns",
                       "size":  60857,
-                      "sha256":  "973F460FD685BFDAFA3D46B023D14913D07EB50AA5C756842A4675A7E1C3EF67"
+                      "sha256":  "5E4724EF0D134A6E83A62687B35EE93EEEE9347FF1F0A782071B48D7BB2D76CE"
                   },
                   {
                       "path":  "game/chars/DG.Rugal-KOFM/Rugal-KOFM.sff",
@@ -2112,7 +2112,7 @@
                   {
                       "path":  "game/chars/DivineRobert/Coding/Specials.cns",
                       "size":  86638,
-                      "sha256":  "53DB37B7D7D723364148F9DB0DADA194903E2FBFD17860D340FD2651D1BEE131"
+                      "sha256":  "D22AC20BDC7AA9975DB82A4796663BE8C84367C5EF4E87C514479BE9C3F5F602"
                   },
                   {
                       "path":  "game/chars/DivineRobert/Coding/Supers.cns",
@@ -2121,8 +2121,8 @@
                   },
                   {
                       "path":  "game/chars/DivineRobert/Coding/System.cns",
-                      "size":  79544,
-                      "sha256":  "B522516A9E820E503FB9D0FDBE91D09445BBCE00971FE2338914354C7006E53C"
+                      "size":  79542,
+                      "sha256":  "CD1C7E5081B37517D45EA6EB417DF69CAF0BB99B8A71E8AB9B8D5BD67091B07F"
                   },
                   {
                       "path":  "game/chars/DivineRobert/Coding/tinybuffering.txt",
@@ -2482,22 +2482,22 @@
                   {
                       "path":  "game/chars/dong-hwan-motw-kofa/Hwan-C.cns",
                       "size":  165704,
-                      "sha256":  "9C7F85AA5AC8489F63F5DAA45A893E36DD40606E57E141AD7B1083941200E80A"
+                      "sha256":  "6B8FF33D0F9255245F563B4F8653FA4001628BBB420A61F1F7C5B44AED2FFB6A"
                   },
                   {
                       "path":  "game/chars/dong-hwan-motw-kofa/Hwan-H.cns",
                       "size":  68953,
-                      "sha256":  "3AD94A99BADCD445AF5B2E24D686EC2A9F5C848E67A9036BCA4EB12EC438C5C0"
+                      "sha256":  "D17123BF1DB74B3181AD6F755C16EF74F7CB4BE2F2F5F60C6EC7CF4C67344295"
                   },
                   {
                       "path":  "game/chars/dong-hwan-motw-kofa/Hwan-N.cns",
                       "size":  26703,
-                      "sha256":  "6CA3E873D2C26E96C1B5914415335FFBDC977950AB2402E6726D6E0206B3EAC2"
+                      "sha256":  "7D5228F1FC77CDE84AEBFFC02166621E43006D6E098CCBF3DBA48622CC9BAD18"
                   },
                   {
                       "path":  "game/chars/dong-hwan-motw-kofa/Hwan-S.cns",
                       "size":  31841,
-                      "sha256":  "30DCEB2A5F6379F5E9BC8CDF701F66EC901336F1216BA75A35A267D03BB10DD1"
+                      "sha256":  "59115A5203AC27EC60FBBDABDC0F3E148AABEEE74D261B2884D6945F087A905D"
                   },
                   {
                       "path":  "game/chars/dong-hwan-motw-kofa/Hwan.air",
@@ -2576,8 +2576,8 @@
                   },
                   {
                       "path":  "game/chars/eater-of-souls-kofa/cns/Exile-KOFM(Dark).cns",
-                      "size":  526080,
-                      "sha256":  "8B60CA8BEEDFD04BCB8BA7F429306F5098624DA60F44F4E290838D924CF12ECA"
+                      "size":  526061,
+                      "sha256":  "F40D54236B528A4B575B368CE24785D0175FE405BB686D75B9A09E45B3D52839"
                   },
                   {
                       "path":  "game/chars/eater-of-souls-kofa/cns/Exile-KOFM.cmd",
@@ -2646,8 +2646,8 @@
                   },
                   {
                       "path":  "game/chars/eiji_xi/Eiji_XI.cns",
-                      "size":  96540,
-                      "sha256":  "B0AC1F860102FA8566D18982C49300DDAA77DE70A12815D11629750AA9872EDF"
+                      "size":  96529,
+                      "sha256":  "7E60230369DABEEA32F56E33DFE16BCC2FBC2D54AB7B7466B7094F0D71C5A3A1"
                   },
                   {
                       "path":  "game/chars/eiji_xi/Eiji_XI.def",
@@ -2671,8 +2671,8 @@
                   },
                   {
                       "path":  "game/chars/eiji_xi/Eiji_XI2.cns",
-                      "size":  33835,
-                      "sha256":  "F70F0121BBD979482A946DCD93FD0601A8CB582207691458351801B5152561B7"
+                      "size":  33832,
+                      "sha256":  "9743B1AA7E7EC945D9C9AFF26E7F327353C8F3E94B6BA53FE80136DA0F8CB74E"
                   },
                   {
                       "path":  "game/chars/eiji_xi/Eiji_XI3.act",
@@ -2711,18 +2711,18 @@
                   },
                   {
                       "path":  "game/chars/EX-Kyo/EX-Kyo-H.cns",
-                      "size":  39798,
-                      "sha256":  "528FE847050E8D6DA33B8032674FA915AE9799C96670A0A008F98783C7DDA950"
+                      "size":  39797,
+                      "sha256":  "8D59BABB4175203C50F69A8BC8E4BC33160BA53E1249E3A4B4225FEF8C76B5B9"
                   },
                   {
                       "path":  "game/chars/EX-Kyo/EX-Kyo-N.cns",
-                      "size":  35176,
-                      "sha256":  "F10232B9372DBCD0EF800F71E07D4748AB8907D5C03CCB33CB4A49B86DD494FF"
+                      "size":  35175,
+                      "sha256":  "AD7D98B62D2EC7FCE7E5E1F4CD31A1E32A0DA631C60974136435A92D216C8929"
                   },
                   {
                       "path":  "game/chars/EX-Kyo/EX-Kyo-S.cns",
-                      "size":  49016,
-                      "sha256":  "031807D663D3566D54C4858DEA6BD5468948BD7039C81337C4B0A02206A667E3"
+                      "size":  49012,
+                      "sha256":  "298488450346E4C134099565D1A85076F9508A0510A114E7D61EE408EBEC5978"
                   },
                   {
                       "path":  "game/chars/EX-Kyo/EX-Kyo.air",
@@ -2737,7 +2737,7 @@
                   {
                       "path":  "game/chars/EX-Kyo/EX-Kyo.cns",
                       "size":  24992,
-                      "sha256":  "18417B97A0C0B52785F2736A24C603A9D67805B019B8EC688D10AFA716433238"
+                      "sha256":  "2007890B527E3B970DEB84CBAB0DF7E2F3268727D02987C32531DCC3D4BE7ED2"
                   },
                   {
                       "path":  "game/chars/EX-Kyo/EX-Kyo.def",
@@ -2801,18 +2801,18 @@
                   },
                   {
                       "path":  "game/chars/G-Adel/G-Adel-H.cns",
-                      "size":  122938,
-                      "sha256":  "BF69F4AD86320EAF5A43751BDC0C95613494826E0B3FE25A102BCDEFD550E52F"
+                      "size":  122937,
+                      "sha256":  "9E1E695F6A1058BBC85E2C15EEEB7FBA95ED531FB9D16C458E47B17029F46A16"
                   },
                   {
                       "path":  "game/chars/G-Adel/G-Adel-N.cns",
                       "size":  41491,
-                      "sha256":  "8E149C1B614D1DD92C532F14B04213289981B3081BA3A78E3224EB85015A2584"
+                      "sha256":  "C2CE046672A3AA9D903083F92F9E4054BB083E96C7A278AC79E2C43E4ECE3F1C"
                   },
                   {
                       "path":  "game/chars/G-Adel/G-Adel-S.cns",
                       "size":  90887,
-                      "sha256":  "7A021DD55C84ADD14E28F559239011CF45720386569475B1757D23A98971ED8F"
+                      "sha256":  "A3B5C2B00DC3061790E077C674C62C713CCCBC0ECEC452CD89D91971D0F9F7A8"
                   },
                   {
                       "path":  "game/chars/G-Adel/G-Adel.air",
@@ -2827,7 +2827,7 @@
                   {
                       "path":  "game/chars/G-Adel/G-Adel.cns",
                       "size":  29430,
-                      "sha256":  "6B0B06715E63ADFD6B2C0B0865958BC4723FDC592DC058A4357CCD718D629D93"
+                      "sha256":  "89A90810B87A68EB2FE86F5312FE8926710E3CE915D269948DE30DC180911477"
                   },
                   {
                       "path":  "game/chars/G-Adel/G-Adel.def",
@@ -2927,17 +2927,17 @@
                   {
                       "path":  "game/chars/gars-kofa/Kyo 17 Toxic-H.cns",
                       "size":  100931,
-                      "sha256":  "FAF3E1C612921ACABC5CB1E305BD3ECC8829F636CA47DA79911581D2139CA44E"
+                      "sha256":  "86334781D80DAD899EC07149F60CC52A9A25F2163316DD8A695A222A2420942D"
                   },
                   {
                       "path":  "game/chars/gars-kofa/Kyo 17 Toxic-N.cns",
                       "size":  29104,
-                      "sha256":  "D3AD3A398C28D97BC20D373355670F2D25DB9F06992D6396FFD95E4ADBB6AC89"
+                      "sha256":  "06940B780A102DE02815E7DD6299578C880E449114341980DF89B0EBEFB615DB"
                   },
                   {
                       "path":  "game/chars/gars-kofa/Kyo 17 Toxic-S.cns",
                       "size":  63813,
-                      "sha256":  "72726ED304BBC2F33DEB2052B562CE8490EE6CBEB88FB97652BED3511CC91789"
+                      "sha256":  "AF1BDBC98FB5A64232A4ECE3A9B725FE12D4925B621C963F5CA9B4ECD3A7450B"
                   },
                   {
                       "path":  "game/chars/gars-kofa/Kyo 17 Toxic.air",
@@ -2952,7 +2952,7 @@
                   {
                       "path":  "game/chars/gars-kofa/Kyo 17 Toxic.cns",
                       "size":  78759,
-                      "sha256":  "4C85A3FB795714FC881028537DB0D40B6E65A7BA9BC3128B52033D4F748FFB2F"
+                      "sha256":  "C174601636B27C8DF2779C6D29CBD6364EBA28C3082852969238740AC6EAC9D8"
                   },
                   {
                       "path":  "game/chars/gars-kofa/Kyo 17 Toxic.sff",
@@ -3046,13 +3046,13 @@
                   },
                   {
                       "path":  "game/chars/graves-kofa/Graves-1.cns",
-                      "size":  148083,
-                      "sha256":  "8074D7A8EAEAA27D2F97030A5235E48E46D95DA2A490B25A460A311BC248C18B"
+                      "size":  148079,
+                      "sha256":  "3098F06CD474FBA9213580487EBDA1648A2E2C251AC0887DDBA2A2560BA2A5BB"
                   },
                   {
                       "path":  "game/chars/graves-kofa/Graves-2.cns",
-                      "size":  125321,
-                      "sha256":  "C740F701848A04AA96FD886492A308E390CB74022C6742DD5F23BCEB621AC269"
+                      "size":  125320,
+                      "sha256":  "A1C70FF61F9646A91BBCCD9AEF68D4CED7CBC5A7CEF88F3FFABF2C11316CC819"
                   },
                   {
                       "path":  "game/chars/graves-kofa/graves-kofa.def",
@@ -3071,8 +3071,8 @@
                   },
                   {
                       "path":  "game/chars/graves-kofa/Graves.cns",
-                      "size":  94639,
-                      "sha256":  "7C2521BCB597B78D16823145E35503394146990CD938EB2053C3B2464B57DA0D"
+                      "size":  94638,
+                      "sha256":  "54AE71B105B8671E3CAC67A78B97F6023EF90F53D267BBD6D51A0CCBDF8E5639"
                   },
                   {
                       "path":  "game/chars/graves-kofa/Graves.sff",
@@ -3116,8 +3116,8 @@
                   },
                   {
                       "path":  "game/chars/gustabson-kofa/Gustabson.cns",
-                      "size":  51607,
-                      "sha256":  "3873CEB70A95A7F4D8B6D6B8DEFD39E458773E5FD314EC24D8F2BBEC68D6BC37"
+                      "size":  51608,
+                      "sha256":  "9D72A96988CD2A65EEFAC6FC9AD420309004E72B45AEBD26F7263BBD925A46AB"
                   },
                   {
                       "path":  "game/chars/gustabson-kofa/Gustabson.sff",
@@ -3132,17 +3132,17 @@
                   {
                       "path":  "game/chars/gustabson-kofa/GustabsonHelpers.cns",
                       "size":  9221,
-                      "sha256":  "C8987F3FCA0CC2449324FA1AC1FB20894B0649258E27985DBBCBEB372B77EE1B"
+                      "sha256":  "BC8B3F132E122063BBB129649111ABE779A6849047C8747E0A42DAA550AD0A36"
                   },
                   {
                       "path":  "game/chars/gustabson-kofa/GustabsonHypers.cns",
-                      "size":  57809,
-                      "sha256":  "2AEA37CEC3F1DD1FFA41C8DECF93BD35A4ECF660BCEF49311462DBC6142C51BC"
+                      "size":  57806,
+                      "sha256":  "155D363C226462887B760AEBB7C810471B97772206873B1F4E37EDCB4059CA3D"
                   },
                   {
                       "path":  "game/chars/gustabson-kofa/GustabsonSpecials.cns",
                       "size":  42259,
-                      "sha256":  "B1981FD5A6621F52891E572419378D7CF08973C360DFE3219E441429A4CA4C6B"
+                      "sha256":  "31FB8AB6CBC18B6E2A388BDC4EF9F626DDEA5A6449E0A92089CE5C04B7AAC860"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/Config.txt",
@@ -3241,38 +3241,38 @@
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/add.cns",
-                      "size":  50581,
-                      "sha256":  "9456DA3957500E698774EB96ED0C8AFA525CC3B1FD977853314CEDF60AE71ED2"
+                      "size":  50580,
+                      "sha256":  "4F5CFDBEE1FE8C4A2E3A7087E40778C96269AD18E5A27757A3CC6FDFFCA0A714"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/Hotaru.cns",
                       "size":  45070,
-                      "sha256":  "2D6FE80002E0D75C81A21855B24AD7153CF70DDB3BA7AF643FC1F092AEE14933"
+                      "sha256":  "EF59CC29B25A7E632FFEA6E2B1779F7FFC7CF8E7C47F1FF446034191E6B06313"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/Hotaru_E.cns",
-                      "size":  26777,
-                      "sha256":  "BE46817DB4B3BE811F9D07FCB5966E8D1232336EE50FF155EB7C683A929B9C29"
+                      "size":  26774,
+                      "sha256":  "55E6A799BE81ACB7C17C9323486479963B186D8B2D3D535D055BF306C8517B5F"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/Hotaru_H.cns",
-                      "size":  40649,
-                      "sha256":  "E53FA5E20BC47043D4A76B57989BBFE5AD02D1052C849279EFE92AB3A1A0553B"
+                      "size":  40647,
+                      "sha256":  "A20099AC9A6E31729CC9B02721887CAEFB5A06B42F528A6E1E5D1232F65B8B6A"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/Hotaru_N.cns",
-                      "size":  71796,
-                      "sha256":  "E049E214C92B0FD91F081D3F44443B023B62D0C95BC94356BE0D868BC9B03DFA"
+                      "size":  71793,
+                      "sha256":  "0AC344F2606F37B3BD5738B6E5D542B3FD7379A3D1B3D0FCD88EA2788EBAF50C"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/Hotaru_R.cns",
-                      "size":  17875,
-                      "sha256":  "50820BFBFE11F3FD90F0E9AD777352775FACD7B68B45AA0461666CEEEB1E5A67"
+                      "size":  17874,
+                      "sha256":  "0954040D8D34402CB0AAEDDF82D1F45C6EC8DE7799A8940EFB0B2CF0E273098A"
                   },
                   {
                       "path":  "game/chars/hotaru-kofa/cns/Hotaru_S.cns",
-                      "size":  48909,
-                      "sha256":  "222F0FDA5607900188EF35D81B7EB8C3512B3A81D45B45D28D463DF9A5012196"
+                      "size":  48907,
+                      "sha256":  "BE8CC95567C681EEA8165E701B2B93F9BBDAB195A232DAF1196E4A204D8E7E2F"
                   },
                   {
                       "path":  "game/chars/Hyde/-2-3.cns",
@@ -3302,7 +3302,7 @@
                   {
                       "path":  "game/chars/Hyde/Hyde.cns",
                       "size":  323948,
-                      "sha256":  "DF50BFBF268F3D4C6F946C63C1FEDA9C74E2C1FF176D78AEA2565C0F9777E244"
+                      "sha256":  "5B550594DCFC6D45AD56895511928DEB5C68C69548236F55A30CDCE56A04DA82"
                   },
                   {
                       "path":  "game/chars/Hyde/Hyde.def",
@@ -3552,12 +3552,12 @@
                   {
                       "path":  "game/chars/jun-lee-kofa/extras.st",
                       "size":  41845,
-                      "sha256":  "C752DE90D83B8AD2A868AD027632C5278721F9F78249CB56B96F1C16ED6A11A7"
+                      "sha256":  "12164B503FE95CF972A274EA7233EC51B708D3B6594CB0BE3EF809F38485BE65"
                   },
                   {
                       "path":  "game/chars/jun-lee-kofa/hypers.st",
-                      "size":  76347,
-                      "sha256":  "B7762D8B0A295A5CCC98BB5F4034185D8D17D7471D8341E1A9526C7A8FA8DBD9"
+                      "size":  76346,
+                      "sha256":  "2F41286FA1AFAC247BADCDCD3F01466CEF83CEE7733F31D298BD5A3FC632ED38"
                   },
                   {
                       "path":  "game/chars/jun-lee-kofa/jun-lee-kofa.def",
@@ -3577,7 +3577,7 @@
                   {
                       "path":  "game/chars/jun-lee-kofa/jun-lee.cns",
                       "size":  6068,
-                      "sha256":  "415F581EC9882AD22C5ECF72C47A1E413DE530143A5DF5C0A16420E602A619F3"
+                      "sha256":  "1193FAC6A51E3734D82F48C94C33F6CF4EF7736E18C110B6E36AABCA3EDD9FEB"
                   },
                   {
                       "path":  "game/chars/jun-lee-kofa/jun-lee.sff",
@@ -3591,8 +3591,8 @@
                   },
                   {
                       "path":  "game/chars/jun-lee-kofa/normal.st",
-                      "size":  26698,
-                      "sha256":  "EA8CD673F42B8C5E7303D108394384F284F5C30E65FC383AF42E3FD50804D819"
+                      "size":  26696,
+                      "sha256":  "D2117A86315ABE058EB7540E7B38A1906B6B054DA2D1BBB9C72BEC28CFEAD913"
                   },
                   {
                       "path":  "game/chars/jun-lee-kofa/pal-1.act",
@@ -3631,8 +3631,8 @@
                   },
                   {
                       "path":  "game/chars/jun-lee-kofa/supers.st",
-                      "size":  41124,
-                      "sha256":  "2E78585555D47B1A14148C1574A5771B3F052231AF1F8839B4BAD506FCD3487F"
+                      "size":  41115,
+                      "sha256":  "916044565D7E016225FFE07E0184C5AA7EE01D62F2ECC60A7938DB07BC2306C4"
                   },
                   {
                       "path":  "game/chars/keith-wayne-kofa/01.act",
@@ -3682,7 +3682,7 @@
                   {
                       "path":  "game/chars/keith-wayne-kofa/keith.cns",
                       "size":  114658,
-                      "sha256":  "6A400BB983F956B747CB74876AE4AAB707514E0F5E5F0F02A38E23077E72C6ED"
+                      "sha256":  "D911C7904A51B0617D3A4C09F0DA13F7834E6BA30405F44A316D7B0BD344EC51"
                   },
                   {
                       "path":  "game/chars/keith-wayne-kofa/keith.sff",
@@ -3792,22 +3792,22 @@
                   {
                       "path":  "game/chars/kensouAct/kensouAct_H.cns",
                       "size":  106800,
-                      "sha256":  "1BD939A8D01C62711139C292C9A55D2C19A7B05F419329E3B6BE43FC5C1AF49D"
+                      "sha256":  "C6E1D9178279D0118F7A474F3111629B39F57833EF881845FCF7EB82682C8491"
                   },
                   {
                       "path":  "game/chars/kensouAct/kensouAct_Helper.cns",
                       "size":  66215,
-                      "sha256":  "95DB8D9A1F5E212D9B2534DF9761099536993A01F006E663AE1A256FEE026BAC"
+                      "sha256":  "11A9371F0CC603DB5179D65D2F2D32B93A104518018A85F36824440904031D21"
                   },
                   {
                       "path":  "game/chars/kensouAct/kensouAct_N.cns",
-                      "size":  140803,
-                      "sha256":  "7CC31C5BBE86B80B48E7C8CB76FC4E5E66BA89E8503FE40309E695DD239F0BD0"
+                      "size":  140804,
+                      "sha256":  "0746C91046352656CDDA55FF910ACF4112B0E3103076C7503300A08BF11B1AD4"
                   },
                   {
                       "path":  "game/chars/kensouAct/kensouAct_S.cns",
                       "size":  67025,
-                      "sha256":  "8B05CE5D19F4C82056C40076CD88D35F9A55D6DF6593723215FC3506636FF331"
+                      "sha256":  "8F7C1AE552A00B40E9346A7F8651EDADEE2F1A6E7E913EC3B03778DFAF69A6DF"
                   },
                   {
                       "path":  "game/chars/kensouAct/end/kof2k1kensouending.def",
@@ -4121,8 +4121,8 @@
                   },
                   {
                       "path":  "game/chars/kisarah-kofa/kisarah.cns",
-                      "size":  121574,
-                      "sha256":  "8A464235314173B363ABCECA44C506EE8CC3E4C5C35E3C6B1DDD4BC5DE929858"
+                      "size":  121550,
+                      "sha256":  "C05EDE7F9D96E1B66D1D2CAFF56F29BB50A54F58F31B9F7AAEF7CAF87D7DCFC2"
                   },
                   {
                       "path":  "game/chars/kisarah-kofa/kisarah.sff",
@@ -4277,12 +4277,12 @@
                   {
                       "path":  "game/chars/kureha-kofa/hayate_H.cns",
                       "size":  64188,
-                      "sha256":  "5362A556A7DB3669266A632B2C4F3DB9F374369D5CC965405162CB46246DE058"
+                      "sha256":  "02DB3CB0E1AA439EF794338B9FB9EC11728BA1FA8D068898021A45B603CA7FD0"
                   },
                   {
                       "path":  "game/chars/kureha-kofa/hayate_S.cns",
-                      "size":  44186,
-                      "sha256":  "2BC3C24B29808AD1E2260322964953AE3721525CB0CBB5BB3284CA47FAEA9FA6"
+                      "size":  44183,
+                      "sha256":  "78C9BF824E59B6DC7663CFE9AF258BEDD28DFEC063B8ADFD36A9186756FCAAD7"
                   },
                   {
                       "path":  "game/chars/kureha-kofa/kureha-kofa.def",
@@ -4301,8 +4301,8 @@
                   },
                   {
                       "path":  "game/chars/kureha-kofa/kureha.cns",
-                      "size":  37034,
-                      "sha256":  "2EBDF3A41E836F321BE67699EFC357BB548FAE7428B6BC6D9E9594385298C090"
+                      "size":  37032,
+                      "sha256":  "51FF799F98BDCAEB592433C342F46D44604D2C0B0A4D5B176F294C1F85BDD747"
                   },
                   {
                       "path":  "game/chars/kureha-kofa/kureha.sff",
@@ -4331,8 +4331,8 @@
                   },
                   {
                       "path":  "game/chars/lenny-kofa/lenny.cns",
-                      "size":  105242,
-                      "sha256":  "48BD12E1C2888437BD78D837500C89AD85A29A0202135D15F8BF046C0684228F"
+                      "size":  105241,
+                      "sha256":  "D6E5E4AD884FF20F43715F8B8F2D00218520A1DDCF16F700C4396FD8B10890D1"
                   },
                   {
                       "path":  "game/chars/lenny-kofa/lenny.sff",
@@ -4412,7 +4412,7 @@
                   {
                       "path":  "game/chars/leona-xii-kofa/Constants.cns",
                       "size":  2567,
-                      "sha256":  "66C69CA5E200B136D94CE920A4E0C05EC98F80233B830C09C503122AC9BEFB36"
+                      "sha256":  "167B82A9A2CAF7749C4F47A74D77F10170E15821F7C7C4AA0EBA02BE3E16ECBC"
                   },
                   {
                       "path":  "game/chars/leona-xii-kofa/leona-xii-kofa.def",
@@ -4446,23 +4446,23 @@
                   },
                   {
                       "path":  "game/chars/leona-xii-kofa/States/Helpers.cns",
-                      "size":  83283,
-                      "sha256":  "AAF6AB4773545D9DA3318562285E3878D983A69BDEFE625016D3EB1BB13EE780"
+                      "size":  83279,
+                      "sha256":  "3FFDDE8F30D8BA4B6D1EF35202386654E860B6B2BE8D73002388616E06D00998"
                   },
                   {
                       "path":  "game/chars/leona-xii-kofa/States/Normal.cns",
-                      "size":  38074,
-                      "sha256":  "3FFE8211166BF0FA2971C0AF54C5BBFD62BFDDE4606477DEC92A7296EDD0FF4D"
+                      "size":  38072,
+                      "sha256":  "D75C5FC7004DEFCE0E34218ECB6F6A6D46B26AFD98FE5945ED4E016EAB1AFCC2"
                   },
                   {
                       "path":  "game/chars/leona-xii-kofa/States/Specials.cns",
-                      "size":  24537,
-                      "sha256":  "8737B57F24759DC034B3E9D2675368EC22C3C3E38EA01D97FB9D8385372415EF"
+                      "size":  24533,
+                      "sha256":  "70163843A4D3601C6A6F101D6CFFC06C3C779A40D2518BC8520C591418CFFA5A"
                   },
                   {
                       "path":  "game/chars/leona-xii-kofa/States/Supers.cns",
-                      "size":  69229,
-                      "sha256":  "00E5EF3362F4614B8D1C4E3DBD8C080CD91D4C21200CB6755CF279D08AACC672"
+                      "size":  69225,
+                      "sha256":  "32D1568FCA34DC07A68A735E1AB65D56080A0EBE9AD222C8DAAEEA7C45598DB7"
                   },
                   {
                       "path":  "game/chars/leona-xii-kofa/States/System.cns",
@@ -4576,8 +4576,8 @@
                   },
                   {
                       "path":  "game/chars/malin/malin.cns",
-                      "size":  808122,
-                      "sha256":  "70C4B1B89A83648553DDD49B93D509EDFBD86C6AC738CA538746143AB139ABCA"
+                      "size":  808110,
+                      "sha256":  "6EC289D9B3493C3F5C3A83FA3DADC211015D1E44E44DDE63D091AA2B81283581"
                   },
                   {
                       "path":  "game/chars/malin/malin.def",
@@ -4917,12 +4917,12 @@
                   {
                       "path":  "game/chars/MasterRyu/States/EX-Specials.st",
                       "size":  13104,
-                      "sha256":  "0A3AECE64AA989A3762A05531C25E6045C0989EA3DC2528F4C3CD20644575727"
+                      "sha256":  "295EE401808C69FB55B5D29DAC54C35A54F84332980F2F6A1752E9658F09D1BD"
                   },
                   {
                       "path":  "game/chars/MasterRyu/States/Helpers.st",
                       "size":  58384,
-                      "sha256":  "D63EE9E80E50AD6E47816BDB3B1283F27900B8877FC2559E67B1640F4E74A07D"
+                      "sha256":  "6200E8D41DD0496F1A417058F5D06E219B3F680D7A93F2F15431DF9EEAB38E2E"
                   },
                   {
                       "path":  "game/chars/MasterRyu/States/MasterRyu.st",
@@ -4932,7 +4932,7 @@
                   {
                       "path":  "game/chars/MasterRyu/States/Normal.st",
                       "size":  48313,
-                      "sha256":  "02011B079E58F5BD6ABA55A38ACEAFC0F9684C8B6B8F4453F87A56429207C88F"
+                      "sha256":  "6BC09D74697956F58A68519180B606C834B59BE8649C6D08C372AB7174D87105"
                   },
                   {
                       "path":  "game/chars/MasterRyu/States/NormalRyu.st",
@@ -4947,12 +4947,12 @@
                   {
                       "path":  "game/chars/MasterRyu/States/Specials.st",
                       "size":  19985,
-                      "sha256":  "F6AF577316DEB84219E66494687AC9DD6C4B536EF683D4115132C64FA8B4FB32"
+                      "sha256":  "285B5B3DF6AD40C0740EE968E3189EBE5B00CEF42B0048B9D02D5C6E7C99E25E"
                   },
                   {
                       "path":  "game/chars/MasterRyu/States/Supers.st",
                       "size":  65350,
-                      "sha256":  "BF05DC44373922346A5F74334716E1DB388FBD46CB0ACAA9F46D20593BC14435"
+                      "sha256":  "249273DF4BD23053A60F45A81B7A22ADBB59639C9A1882CCD2C1EB75B3243789"
                   },
                   {
                       "path":  "game/chars/MasterRyu/States/System.st",
@@ -4976,8 +4976,8 @@
                   },
                   {
                       "path":  "game/chars/Mika/Helpers.cns",
-                      "size":  20032,
-                      "sha256":  "DD6AD6DBEEE9B8AB62E5694DF6E2469BC829C96C9336A8C12040BD3EBF1737E0"
+                      "size":  20031,
+                      "sha256":  "4708E372D4F49849BCF79CF421A62F97497BB2DCA381BBF5DF2A3A8267AAB8B2"
                   },
                   {
                       "path":  "game/chars/Mika/Mika.air",
@@ -4992,7 +4992,7 @@
                   {
                       "path":  "game/chars/Mika/Mika.cns",
                       "size":  214026,
-                      "sha256":  "AA287FA1AB070F03C8E229E6A58AFE62D832A528CF990EE563590C3CCBE77EFF"
+                      "sha256":  "AF47540E233C23B1BD285F0FF48785EF4A4E772A189862202A59939C11E77924"
                   },
                   {
                       "path":  "game/chars/Mika/Mika.def",
@@ -5242,12 +5242,12 @@
                   {
                       "path":  "game/chars/murakumo-kofa/cns/MURA-H.cns",
                       "size":  31555,
-                      "sha256":  "5F49D7C337531446573EB26C398F23736BE74A7DC82A598F4BE3BEB57507A4FA"
+                      "sha256":  "4F7C6F4C3C0B1637DC75646EBF2CE955760FBD4EA199E439688264F268604D66"
                   },
                   {
                       "path":  "game/chars/murakumo-kofa/cns/MURA-Helper.cns",
-                      "size":  90461,
-                      "sha256":  "2AE866C6CFCE967B7172DB2D7733C5512B657D9F50DA49AFDF642DA33B25702D"
+                      "size":  90459,
+                      "sha256":  "14006471224A78F16D617D6A1995318BCDC94FBFC8529C65B30870A36F350863"
                   },
                   {
                       "path":  "game/chars/murakumo-kofa/cns/MURA-KS.cns",
@@ -5256,18 +5256,18 @@
                   },
                   {
                       "path":  "game/chars/murakumo-kofa/cns/MURA-N.cns",
-                      "size":  27499,
-                      "sha256":  "7CE1183A7951912036D75F0BCAC23DC28C7AD2F6179BB1D39177D0CCDE5A8AE2"
+                      "size":  27498,
+                      "sha256":  "5BAB44CEB11FC8BD9E024546CBEA631ADDC1843DC399CA5F316CB5E495D02590"
                   },
                   {
                       "path":  "game/chars/murakumo-kofa/cns/MURA-S.cns",
-                      "size":  43020,
-                      "sha256":  "76EA3A4468F3559158B789249212EA519A9CD1965D31F370CFA1A686E055A93F"
+                      "size":  43018,
+                      "sha256":  "11A657E59F0A3B3E67A536C71C42CEF2437A4EF89AC40C92BD8EB97E16039905"
                   },
                   {
                       "path":  "game/chars/murakumo-kofa/cns/MURA.cns",
                       "size":  33503,
-                      "sha256":  "0179B475E6F30C5085CB26CB475A06B5CEAB3561570F154335E2F585C6C878B8"
+                      "sha256":  "88871337F12360EC9E713B71A13A8497C506A4D8B576682EE5E2DC18A1E7F207"
                   },
                   {
                       "path":  "game/chars/o-chris/Chris.act",
@@ -5286,8 +5286,8 @@
                   },
                   {
                       "path":  "game/chars/o-chris/Chris.cns",
-                      "size":  164753,
-                      "sha256":  "75470612E0140690FBD3733C9A531018F4790C81CCCDABC7E3077433C4E8574D"
+                      "size":  164744,
+                      "sha256":  "76E748143AB02599183BAF1016BA9E0CEC1B86F7A51ABECBD47BF303D0709480"
                   },
                   {
                       "path":  "game/chars/o-chris/Chris.sff",
@@ -5306,8 +5306,8 @@
                   },
                   {
                       "path":  "game/chars/o-chris/Chris2.cns",
-                      "size":  137589,
-                      "sha256":  "629CFEBF3A3603AA7C853700B087F73FC70AD722A867FF0EDDB64B06E8EF2C3E"
+                      "size":  137580,
+                      "sha256":  "1DDEDB4D7B29FE372986C28975A72C3189E252B2E165EA806AD509625AB0AE8F"
                   },
                   {
                       "path":  "game/chars/o-chris/Chris3.ACT",
@@ -5456,8 +5456,8 @@
                   },
                   {
                       "path":  "game/chars/o-yashiro/Yashiro_Nanakase.cns",
-                      "size":  176768,
-                      "sha256":  "CC84C5EFECFA805EECE672B53D86943D7594276C9F5EFEFA76604BB7E2022863"
+                      "size":  176758,
+                      "sha256":  "798A4DE9CE3CBC49ED7A7773F0EA696D6A72E78A7D1598F3B06040D09B1EF326"
                   },
                   {
                       "path":  "game/chars/o-yashiro/Yashiro_Nanakase.snd",
@@ -5471,8 +5471,8 @@
                   },
                   {
                       "path":  "game/chars/o-yashiro/Yashiro_Nanakase2.cns",
-                      "size":  145802,
-                      "sha256":  "F96F3B8846A982733F714338D0251B12D1386CF4D1F6971AD12617A2400F231C"
+                      "size":  145801,
+                      "sha256":  "E21E24C7D4A3153A4FD1515949838439EDEAE92D16B3A37F6D51579B06BAC347"
                   },
                   {
                       "path":  "game/chars/o-yashiro/Yashiro_Nanakase3.ACT",
@@ -5507,7 +5507,7 @@
                   {
                       "path":  "game/chars/poison-kofa/FREEHUGO.cns",
                       "size":  13969,
-                      "sha256":  "4E011F4766A300A71D4954FA6CAA73F013DC31C5C505738E28C9DB21CA9101BF"
+                      "sha256":  "B3613BE87A7A75964E9036ED8AE39779F274130755015561B0C560F08268C3C2"
                   },
                   {
                       "path":  "game/chars/poison-kofa/poison-kofa.def",
@@ -5532,22 +5532,22 @@
                   {
                       "path":  "game/chars/poison-kofa/poison_C.cns",
                       "size":  13294,
-                      "sha256":  "C5AF4C66683EEC8ACA0FA19A06435C3160782F3AE934330736ECD7411B560AC9"
+                      "sha256":  "7029120BC5F2998BC795B1F576CC39FB952A8A1F8A3B378C09D40A3A1ABC0E45"
                   },
                   {
                       "path":  "game/chars/poison-kofa/poison_H.cns",
-                      "size":  32501,
-                      "sha256":  "A87CFFBF0035369F397F5761E6BE3C12CC56C8985AD24EF11516D29DE093FF11"
+                      "size":  32500,
+                      "sha256":  "77047D9E737C906B731BF1C29D68AF7D69F437F311B4E1399C3F0C8B804FDF70"
                   },
                   {
                       "path":  "game/chars/poison-kofa/poison_N.cns",
-                      "size":  25491,
-                      "sha256":  "DC5730762DF6C9E671AA0E134D4421D7CEE3846BB8A49CD47303D408883A866C"
+                      "size":  25490,
+                      "sha256":  "1662301FBB02AEBEB5776F08A8BB7B7708D3DCEC8AE8E81B06BDD90728A229F1"
                   },
                   {
                       "path":  "game/chars/poison-kofa/poison_S.cns",
-                      "size":  19308,
-                      "sha256":  "7F71D194E7E92C58E222FEE0CAFFADDD9C56A1946A4C06FC92C348AAC5BE1ACA"
+                      "size":  19301,
+                      "sha256":  "95EAA1C7AEB789CA4F04848C8027BB934A9A01DA1E0C0008BFE4FC02AA279DD8"
                   },
                   {
                       "path":  "game/chars/poison-kofa/pals/9000-1.pcx",
@@ -5622,7 +5622,7 @@
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/H.st",
                       "size":  27139,
-                      "sha256":  "633216DD3DE552756025AA487C460B3D772E0E17169EDFE3EF84476022AFB6A5"
+                      "sha256":  "6496ED7BEE5ED7851E212609A8C0B574621F2CEF98BCC360FA110F9BA0A81C49"
                   },
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/H.st.bak",
@@ -5632,7 +5632,7 @@
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/N.st",
                       "size":  20225,
-                      "sha256":  "1FB9EF8321D0D5CF1C8212D880E573D2F445F534BF1BD9F380D704E09A30959F"
+                      "sha256":  "5CAECA048B750AF8FCAD230E20584BDA8F6236EA86D61FDF6D0F05765ACB10B3"
                   },
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/N.st.bak",
@@ -5667,7 +5667,7 @@
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/pretty clone-zero.cns",
                       "size":  24192,
-                      "sha256":  "EEB408FDAC9B2DC3AE3352C8A9AE7ECBDDEAAD1505F4BF169E6E51C4B2BE6023"
+                      "sha256":  "5647EB30F97F727A2524EB33CC4128327DA105A712284F3D81571DA72524F1B9"
                   },
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/pretty clone-zero.cns.bak",
@@ -5701,8 +5701,8 @@
                   },
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/S.st",
-                      "size":  18897,
-                      "sha256":  "68B4661A65FCDD44BE15C09123DFC059A58BD4D2282BA5E27DF25964E9057947"
+                      "size":  18896,
+                      "sha256":  "9534FB23DB71DAC05EE7F0D6FF489EDDBB167E16E0C59D4F78476A9C3905C28B"
                   },
                   {
                       "path":  "game/chars/pretty_clone-zero-kofa/S.st.bak",
@@ -5871,8 +5871,8 @@
                   },
                   {
                       "path":  "game/chars/Ragna/Ragna.cns",
-                      "size":  257090,
-                      "sha256":  "688D79523895213496F673837F88C73F8915206302C68F91E79E66A0796563B8"
+                      "size":  257091,
+                      "sha256":  "DFD6D710311EA4EEAFD5F49A03366C8C31510E552BD252CA00B1EE82A0230E2F"
                   },
                   {
                       "path":  "game/chars/Ragna/Ragna.def",
@@ -5986,8 +5986,8 @@
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus-H.cns",
-                      "size":  34662,
-                      "sha256":  "58C7CC99ABDF67EB9365DFDB3258E5D873BB2E43D178E8728F7A3B0C20C11254"
+                      "size":  34658,
+                      "sha256":  "CDA43BE91E838213057CA91162C37659A8A324A3B23AAE36D8652B2863C0E67C"
                   },
                   {
                       "path":  "game/chars/remus-kofa/remus-kofa.def",
@@ -5996,28 +5996,28 @@
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus-MAX-1.cns",
-                      "size":  49280,
-                      "sha256":  "557F6C19B76B8885514F89788F5B6242ADAFED6B18D3020789A5BB79CF16A44D"
+                      "size":  49278,
+                      "sha256":  "30BDF2A46AEE0BD9F435CB92A49FDE62B7701DF237763D224667E3DFD470AD59"
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus-MAX-2.cns",
-                      "size":  62606,
-                      "sha256":  "5F1E1A170CD011CA04349BF79986C6B24566C90CBE6B5292123C40F2200EB98E"
+                      "size":  62604,
+                      "sha256":  "289159975E902339ED274A20C2956B10BFB6293F6901477CB123FC45D391CC83"
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus-MAX-3.cns",
-                      "size":  50070,
-                      "sha256":  "1C80DD3E77196972A0AA9C9E978956723C5007EE4208389FC78AD80246DA6D72"
+                      "size":  50068,
+                      "sha256":  "3064BD7BE5534ECFA6E2E34EB21485FCB864E8699121255313A909E4A22364A1"
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus-N.cns",
-                      "size":  53857,
-                      "sha256":  "56B6E811054A9E7CC755B6FBFABE50168598CB555FA649FBC6B5F28D569495C3"
+                      "size":  53855,
+                      "sha256":  "AA575B8AE2757DEEEFE440EF8291B8E6723D6EEAD512A2301786A2D3CC615AD4"
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus-S.cns",
-                      "size":  165741,
-                      "sha256":  "2B2330EC43A7AB31F51808454C8E3F06BFB0E08E932568048E239C9BE8ACD560"
+                      "size":  165737,
+                      "sha256":  "30B4394383A441BE8FC0B50E756E3F10B6D8DEB7D5B73E0B3B923304EC3FBA25"
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus.air",
@@ -6032,7 +6032,7 @@
                   {
                       "path":  "game/chars/remus-kofa/Remus.cns",
                       "size":  27621,
-                      "sha256":  "AED40DCEF3D66673D95422A56F5AE53AA4CCFAAC311CC1CF26995FD9775F01BC"
+                      "sha256":  "390D0E67153A67AB1476B617EF948983E9E4E2B655F194093596D95D8444CF69"
                   },
                   {
                       "path":  "game/chars/remus-kofa/Remus.sff",
@@ -6152,7 +6152,7 @@
                   {
                       "path":  "game/chars/rin-oyama-kofa/Rin_Oyama.cns",
                       "size":  50067,
-                      "sha256":  "786F573623E131111826A146FA00A16D04C471EE03C32325A891F1D2968535DF"
+                      "sha256":  "D51372BCE8814596B948E0DF645AFC5701D456AE31F0FBF54229C1C039D60268"
                   },
                   {
                       "path":  "game/chars/rin-oyama-kofa/Rin_Oyama.sff",
@@ -6177,22 +6177,22 @@
                   {
                       "path":  "game/chars/rin-oyama-kofa/Rin_Oyama_H.cns",
                       "size":  34249,
-                      "sha256":  "6673FB7F65224A319653E5332C22CB35D1507172CAAA6959962C4A07868CC3B2"
+                      "sha256":  "7C6B98C8E9E86F430F51A1F477793565271E1B222D2847B0425C503FF2B29042"
                   },
                   {
                       "path":  "game/chars/rin-oyama-kofa/Rin_Oyama_Helper.cns",
                       "size":  55174,
-                      "sha256":  "0635517C17721D0E57C78960940CE2C6FFA1CCB83952347CA4A71929483C3AC5"
+                      "sha256":  "17555CC19D5E07DC69DE1679170DE65811AEC303142FFC670E1A955D7297CD8C"
                   },
                   {
                       "path":  "game/chars/rin-oyama-kofa/Rin_Oyama_N.cns",
                       "size":  92913,
-                      "sha256":  "F4D9839335FF042CFDFF71781AA0ECCCF15D69C58D003A2B518A2DBAFE3C1B69"
+                      "sha256":  "172E56705C25A56575D4FEF125ECDDF8819A86AC231339387E817B2AB42CFE62"
                   },
                   {
                       "path":  "game/chars/rin-oyama-kofa/Rin_Oyama_S.cns",
                       "size":  108085,
-                      "sha256":  "EC0AB19DFE4840586F3C6F3D60C3632A804597B3B92D2294060FDB456FE908C3"
+                      "sha256":  "E9E1EEA0DC86F64DC8413FF763B355719E602908703F5CAEF58F55A2C728C174"
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/common1.cns",
@@ -6211,18 +6211,18 @@
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/Kyo Kusanagi-H.cns",
-                      "size":  55153,
-                      "sha256":  "FDAA31BB2AEB056D4006A897989CFEEBD5BCFF59594F23A68A2073CFB27F5631"
+                      "size":  55151,
+                      "sha256":  "009EC280D5A5596616B58DE7C3179B1354FBDB967AD4E9FF65EB663E46F0DBBB"
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/Kyo Kusanagi-N.cns",
-                      "size":  40371,
-                      "sha256":  "67F90D92FC8D7D2A36B19433F988E9C4363B3396AAA8BFFAF85266AAA94473BF"
+                      "size":  40370,
+                      "sha256":  "133FB6D70C1132ACA623220D6BB681410E5099A962316F05B58C307FAD19979E"
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/Kyo Kusanagi-S.cns",
-                      "size":  35200,
-                      "sha256":  "2935037660A6387BE5758A1836C7934E5F967750C3E42B35E06BD788C541F9BE"
+                      "size":  35199,
+                      "sha256":  "7BAD9C827FDBC4E9CCA07470C150AEC2B34C2BDB6F9FEC6AB98F7DA14502A828"
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/Robo Kyo2.cns",
@@ -6246,8 +6246,8 @@
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/Robo-Kyo2.cns",
-                      "size":  43612,
-                      "sha256":  "DD2783C1AFD22FEF264C168E4CCF211D370D1F46010DDF9BCF15CC6B19CFB539"
+                      "size":  43610,
+                      "sha256":  "36B86AA35C0145AD0303CD30208F21469CF71C2C88634765BDE3BA6BA18C406C"
                   },
                   {
                       "path":  "game/chars/robo-kyo-kofa/Robo-Kyo2.sff",
@@ -6346,8 +6346,8 @@
                   },
                   {
                       "path":  "game/chars/sf4juri/juri.cns",
-                      "size":  520817,
-                      "sha256":  "28210891F50BB3D326F440B45BAC80D69DDAE745CCA8F531EA8EA6BE30EF1BCE"
+                      "size":  520801,
+                      "sha256":  "F79509EB1672DE119990428ED104EBD2D6F247E28057B3BE0C35677D82D0096F"
                   },
                   {
                       "path":  "game/chars/sf4juri/juri.sff",
@@ -6431,8 +6431,8 @@
                   },
                   {
                       "path":  "game/chars/Shermie/Shermie.cns",
-                      "size":  258209,
-                      "sha256":  "8C2E5E01B2B5C31D87AA30278000A4E3D6B8FF49B87897831EEB36288C478280"
+                      "size":  258192,
+                      "sha256":  "B75D95D36CFF79027EB76797E639439AB745B9E0CEC0BB0A94EF4B6EBC1217D3"
                   },
                   {
                       "path":  "game/chars/Shermie/Shermie.def",
@@ -6456,8 +6456,8 @@
                   },
                   {
                       "path":  "game/chars/Shermie/Shermie2.cns",
-                      "size":  161205,
-                      "sha256":  "73BBF171129FED48C361477697EEA97B5A0B13843F7CEE814B8D23D02F99C17B"
+                      "size":  161197,
+                      "sha256":  "1A70977082B141557ECDA7BFD392558567239BED63CB6F6127B4398F7D1D978A"
                   },
                   {
                       "path":  "game/chars/Shermie/Shermie3.ACT",
@@ -6492,7 +6492,7 @@
                   {
                       "path":  "game/chars/shermie-kofa/02um.cns",
                       "size":  32559,
-                      "sha256":  "3BE5819AD2D45595D6C9F79ABC2BE6C1B2E4A873342FB96B3994CAF970E09848"
+                      "sha256":  "7E286E6A27696A4ED3DD940FB1719BF19B61CB9E969443890B1C143297BDC8CD"
                   },
                   {
                       "path":  "game/chars/shermie-kofa/s.gif",
@@ -6517,7 +6517,7 @@
                   {
                       "path":  "game/chars/shermie-kofa/shermie.cns",
                       "size":  92199,
-                      "sha256":  "5A3477050435134B796EE909ADEFEE6C1D14D9E83C42D3B446E1336DF79926B5"
+                      "sha256":  "28D26462D9F955B9E28D74EBA78822E525EA4665C5EB39A709B52AA42FBF99DF"
                   },
                   {
                       "path":  "game/chars/shermie-kofa/Shermie.png",
@@ -6537,12 +6537,12 @@
                   {
                       "path":  "game/chars/shermie-kofa/shermie_H.cns",
                       "size":  117523,
-                      "sha256":  "3819BB533EC761F9F98BE9BF8C92D052F0E81B43CE135F2FF84FF104E0EE25A2"
+                      "sha256":  "1D008467366F40843E13874CCE6A98962105904AA3665AD573B5226575C00895"
                   },
                   {
                       "path":  "game/chars/shermie-kofa/shermie_S.cns",
-                      "size":  69558,
-                      "sha256":  "019FE0C4A3D90615084349DA1485D0437AD723E5A2303105875C00D491387F1A"
+                      "size":  69559,
+                      "sha256":  "3549275F0CDE0A847BF640EC8754B8E5E9EE1DCB04DCF1AA4CFC39E8E8DDC61B"
                   },
                   {
                       "path":  "game/chars/shermie-kofa/act/02shermie.act",
@@ -6662,17 +6662,17 @@
                   {
                       "path":  "game/chars/shintaro-kofa/Shintaro-H.cns",
                       "size":  25271,
-                      "sha256":  "A6679182FD4A4CEA595DFBB18992C1C87EEF5066121598CBD5CCCDA127E32B15"
+                      "sha256":  "1AA8C98F961709F77C2D760ED4BD71E28ECF7E018FB8149DF839E0247C73F6CF"
                   },
                   {
                       "path":  "game/chars/shintaro-kofa/Shintaro-N.cns",
                       "size":  49836,
-                      "sha256":  "EF4BF5482AF70B8410A72AD42B53E6BEAA283B4DFBE0E4ED01CF4180212F02EB"
+                      "sha256":  "2A1D50F2366606B4BEBA258583344997BB8C9DCDAABE233261649DA74316FE5F"
                   },
                   {
                       "path":  "game/chars/shintaro-kofa/Shintaro-P.cns",
                       "size":  3167,
-                      "sha256":  "A6952267EA967B55417242510573D0936FB2912A7358378CCA82A7E7F7550D62"
+                      "sha256":  "D358B905205E3A0F9CA5956DEF899E819FBE755EE321FC45882FBF4689675E12"
                   },
                   {
                       "path":  "game/chars/shintaro-kofa/shintaro-pim@duracelleur.def",
@@ -6681,8 +6681,8 @@
                   },
                   {
                       "path":  "game/chars/shintaro-kofa/Shintaro-S.cns",
-                      "size":  37666,
-                      "sha256":  "37CE2A7FAC2821CB025C9C89C070626C81943AEF9C043F441EBEE1B272C6250C"
+                      "size":  37667,
+                      "sha256":  "223BFBDFB8AAC16F37107AF598F178A1FD6C15850DCC4F1F9569636EFC7E3072"
                   },
                   {
                       "path":  "game/chars/shintaro-kofa/Shintaro.air",
@@ -6722,7 +6722,7 @@
                   {
                       "path":  "game/chars/Shun\u0027ei/Helpers.cns",
                       "size":  88193,
-                      "sha256":  "FF512257A96EBC9F73D445C3C37797D2D0256FEF35595A52182D3C042739A693"
+                      "sha256":  "51E0382B6224F73F58AA740094C4939733DE6A124E86DF14CAE323AE71E2D50E"
                   },
                   {
                       "path":  "game/chars/Shun\u0027ei/Readme.txt",
@@ -6741,8 +6741,8 @@
                   },
                   {
                       "path":  "game/chars/Shun\u0027ei/Shun\u0027ei.cns",
-                      "size":  481372,
-                      "sha256":  "BE24EA1D44E6FE60C05B455E12337010DE27B05B1D78A6A00D419B766DE2B478"
+                      "size":  481348,
+                      "sha256":  "AEA72A53AA03CABA7D2990CFB29C0A63D66C15B11EE32CECDAA0E7B50DE72B0D"
                   },
                   {
                       "path":  "game/chars/Shun\u0027ei/Shun\u0027ei.def",
@@ -6856,8 +6856,8 @@
                   },
                   {
                       "path":  "game/chars/soiree-meira-kofa/soiree.cns",
-                      "size":  116485,
-                      "sha256":  "CE8CE06F26F46119D1D30CF4EA005604B7089CE41463BA2053DF4869C5794EA4"
+                      "size":  116484,
+                      "sha256":  "8163CB8B4E54E48A092A42D7B1E790A5075622C04D8B78E4F4E8F2E7D36835BB"
                   },
                   {
                       "path":  "game/chars/soiree-meira-kofa/soiree.sff",
@@ -6922,17 +6922,17 @@
                   {
                       "path":  "game/chars/sylvie-paula-paula-kofa/sylvi-paula-paula-H.cns",
                       "size":  41751,
-                      "sha256":  "501A88E8A923F0F932B633B30247324BECADD443BF13011E392E5E0E972BCC59"
+                      "sha256":  "87520932A3D6D3FEDB9BC59DE5005052B3D384AD1B92E4AFB3CCD2A4DE255B91"
                   },
                   {
                       "path":  "game/chars/sylvie-paula-paula-kofa/sylvi-paula-paula-N.cns",
                       "size":  45231,
-                      "sha256":  "23E56298E07D4B9C8EE647915BEC6101DE7AA8F2733D0BA7040266DF57AEEF78"
+                      "sha256":  "4632FABFD5F3EE17F7B09715832C832DF42D3F6C508806CD9955313462FD8024"
                   },
                   {
                       "path":  "game/chars/sylvie-paula-paula-kofa/sylvi-paula-paula-S.cns",
                       "size":  46097,
-                      "sha256":  "1186B940CEB9CBC99EF91E1696790E2493388B96A653F6FF05513E00F30E2E28"
+                      "sha256":  "9775018DDCB52A0664A60472AE808564FBE6A70B2C383E1E771CD1EBAA22E761"
                   },
                   {
                       "path":  "game/chars/sylvie-paula-paula-kofa/sylvi-paula-paula.air",
@@ -6947,7 +6947,7 @@
                   {
                       "path":  "game/chars/sylvie-paula-paula-kofa/sylvi-paula-paula.cns",
                       "size":  40219,
-                      "sha256":  "589DD92AE5249B897AB280C0854924D9D8278CFE87BF8A67E620693076979997"
+                      "sha256":  "32ECB9880B5617502889BBE9DD66BE933C481AA7B4491E7795F7C40DB3F59A8B"
                   },
                   {
                       "path":  "game/chars/sylvie-paula-paula-kofa/sylvi-paula-paula.sff",
@@ -7066,8 +7066,8 @@
                   },
                   {
                       "path":  "game/chars/Terumi/Terumi.cns",
-                      "size":  296497,
-                      "sha256":  "BC3B09E9872AC7BAB84749D5A98F6F96E49A25B276272DAD151144359463EF8E"
+                      "size":  296496,
+                      "sha256":  "9A6CA82936565B7FE77F34999B79355157DAA80B889911B556BCF0827B56A0B4"
                   },
                   {
                       "path":  "game/chars/Terumi/Terumi.def",
@@ -7171,8 +7171,8 @@
                   },
                   {
                       "path":  "game/chars/tifa-kofa/tifa.cns",
-                      "size":  142554,
-                      "sha256":  "25DB668EA05CEA9A58B1F00653A05307FD0B51430BC4A9F6A7ED17E314D57195"
+                      "size":  142545,
+                      "sha256":  "ADBFE80C5CB2B247ED2BDAF3828BA7B1D282C89CCC1AD8DC6298096892EB6CD1"
                   },
                   {
                       "path":  "game/chars/tifa-kofa/tifa.sff",
@@ -7231,8 +7231,8 @@
                   },
                   {
                       "path":  "game/chars/vanessa/vanessa.cns",
-                      "size":  697654,
-                      "sha256":  "DA14EC78243729BB9B045D0AAD6E9EE5A9022C46F0FE58057551B5A85BCCB2F5"
+                      "size":  697635,
+                      "sha256":  "F01D7A14D3286377D4CECE9835E97AE7386E0A94B5FBAA0E7C8D884FF524D599"
                   },
                   {
                       "path":  "game/chars/vanessa/vanessa.def",
@@ -7361,8 +7361,8 @@
                   },
                   {
                       "path":  "game/chars/Vergil/Vergil.cns",
-                      "size":  362914,
-                      "sha256":  "929AF814B69462D983232A991A2C03F9FAE6966A807F9C582DC37F84DFF80371"
+                      "size":  362919,
+                      "sha256":  "02F26622F0978D9C607D57FDD34389C8F0192D6D9A1B264F072238E14586774D"
                   },
                   {
                       "path":  "game/chars/Vergil/Vergil.def",
@@ -7481,8 +7481,8 @@
                   },
                   {
                       "path":  "game/chars/vice/Normal.cns",
-                      "size":  27188,
-                      "sha256":  "0BD707ED6E0543BC902BE102C7BCB33D5D1AA67B6233E4759ED6016F7EF6656D"
+                      "size":  27181,
+                      "sha256":  "C94263199884D3F9A8B7C233495D4387EA1AA998E876B985F2CAF119B12DF949"
                   },
                   {
                       "path":  "game/chars/vice/orange.act",
@@ -7491,8 +7491,8 @@
                   },
                   {
                       "path":  "game/chars/vice/Orochi.cns",
-                      "size":  66275,
-                      "sha256":  "480D8FE4AD9A71C0C45692A0F73E5072E8B5A391CD69D9DAECC1194FD23BCA61"
+                      "size":  66274,
+                      "sha256":  "180F3882733212C841489491D74287261217FB9F312635BDF1860AA01871F95F"
                   },
                   {
                       "path":  "game/chars/vice/pale.act",
@@ -7512,12 +7512,12 @@
                   {
                       "path":  "game/chars/vice/Specials.cns",
                       "size":  31262,
-                      "sha256":  "29446C1F7EB5110418845F5579D85E85D05F2B05D77B3340E6296FF97369FED9"
+                      "sha256":  "BBA1475450C9A9194317C72D4BA12B34FAD96772382A5E050AB1BFF25394775D"
                   },
                   {
                       "path":  "game/chars/vice/Supers.cns",
-                      "size":  58510,
-                      "sha256":  "B71B6AB3A3A5FDFCA691450216DF903A09C91C642AEEEF09C4830B3D26D1D850"
+                      "size":  58509,
+                      "sha256":  "40E7433D159CD9B44D9F410CF13E480242450BA04D6CCD9F77A95AEAA4F901EA"
                   },
                   {
                       "path":  "game/chars/vice/vice.act",
@@ -7537,7 +7537,7 @@
                   {
                       "path":  "game/chars/vice/vice.cns",
                       "size":  26510,
-                      "sha256":  "57D574D5FF5E57CA479529C73976207FD2914EEB79AEE2773B00C24192B8539D"
+                      "sha256":  "5B100E919F5CCF859FA25335684FC9579C7AE8BFB5CAF66C4ADE500CE3B3C245"
                   },
                   {
                       "path":  "game/chars/vice/vice.def",
@@ -7596,28 +7596,28 @@
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper-MAX-1.cns",
-                      "size":  106503,
-                      "sha256":  "68902260F7931DD67D405395F960BDC70EDC6D3A8D7408B315ACAA3DF1ABAC5F"
+                      "size":  106498,
+                      "sha256":  "45E0A7EA5B9AD754F4BBD04829C83939A4A40B3EC119BBF449423F50390E2DBC"
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper-MAX-2.cns",
-                      "size":  64889,
-                      "sha256":  "BDA242BEAC64050D61D2ECFD0525F39A5FA38EB964150AE99A159ED091245A26"
+                      "size":  64885,
+                      "sha256":  "07CB3356375CD0ABAF48207190BA3D384696286307B54E5F148F598DCA73A472"
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper-MAX-3.cns",
                       "size":  52402,
-                      "sha256":  "19F886C4534F6C491C555F108493DB5B9798DF4728B896B87AFCBF66BF4D5079"
+                      "sha256":  "7C69102A85765C1EB0B5CFB4750DB0590645627C5F371A48C2F0A6473E4D1019"
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper-N.cns",
-                      "size":  85111,
-                      "sha256":  "A00136828B38DCB4A25EA20B4E11D8A1B947D741134747D717B13438E00F67DF"
+                      "size":  85108,
+                      "sha256":  "FCE5F5B57151B5377DA08C66CB48F8FFDD891C9D435FAEE1BA42CD14BA0F78AF"
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper-S.cns",
                       "size":  57031,
-                      "sha256":  "B2BC1518C0455F744E89CAE3D5CC6FD44F9722203B87511DAFC9DEE0BE81DED8"
+                      "sha256":  "C4D6CDD567655126A8554BFA03476962C963E01D9A48980B3AE0AF9CF0C28B0C"
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper.air",
@@ -7632,7 +7632,7 @@
                   {
                       "path":  "game/chars/viper-kofa/Viper.cns",
                       "size":  46419,
-                      "sha256":  "3D5378EDA171040CFD99BB944F336CD425B4FAA2A2CFE5ABA215ED7719A156AB"
+                      "sha256":  "01CE1F261693D675252FE87E7F4CB129DA0F8CB46AE169898AB6BC3AF46C900A"
                   },
                   {
                       "path":  "game/chars/viper-kofa/Viper.sff",
@@ -7841,8 +7841,8 @@
                   },
                   {
                       "path":  "game/chars/yeorin-kofa/Lee_Yeorin.cns",
-                      "size":  244908,
-                      "sha256":  "4FC8623F96A9CC6F5C80B1FA9B12D85656AB9A5D7F4F34AD7BF8E6D5ED55DAD3"
+                      "size":  244886,
+                      "sha256":  "D6964B235ED06E68386D586066D0C84BC07F80F41D972FE680F371DA374AA8E2"
                   },
                   {
                       "path":  "game/chars/yeorin-kofa/Lee_Yeorin.sff",
@@ -7917,12 +7917,12 @@
                   {
                       "path":  "game/chars/yuki-kofa/h.cns",
                       "size":  50111,
-                      "sha256":  "7B15A93BEA8B30495788910245C35A88826929DC86EA0711E2EFCDA9ACAA50D1"
+                      "sha256":  "8A3473FD23519D875D2C597D942B14CC74D5091225BF130D4E8A651B3381B795"
                   },
                   {
                       "path":  "game/chars/yuki-kofa/s.cns",
                       "size":  31838,
-                      "sha256":  "77AA25FFE37E8EA04B40AB53CE9E6B8367E6676C73CA91ED191AAFB6957EDE29"
+                      "sha256":  "56D622084F1234B464F4A78FBBD38D18E938CEC0B882B1A3E055BACC156CDD08"
                   },
                   {
                       "path":  "game/chars/yuki-kofa/yuki-kofa.def",
@@ -7942,7 +7942,7 @@
                   {
                       "path":  "game/chars/yuki-kofa/yuki.cns",
                       "size":  39102,
-                      "sha256":  "3CF5F06C798D4D4CBCC039D7E0C33FE3F4C68F3DFC9AFD133CDAA94827EF10E5"
+                      "sha256":  "F39755A80776CEDC8931FDA659C4777B1E774E9008AC7A5952EA128C013B5C3A"
                   },
                   {
                       "path":  "game/chars/yuki-kofa/yuki.sff",
@@ -7986,18 +7986,18 @@
                   },
                   {
                       "path":  "game/chars/yuki-kushinada-kofa/01N.cns",
-                      "size":  56175,
-                      "sha256":  "6AFDF58F90A8D840CA839963C5406D8FF2A3B8C2D9285E7C50378C6E9D162B3C"
+                      "size":  56173,
+                      "sha256":  "BA021F6133E055864521EA8909CEC6F136A694D421BB5F84B8C5057611F3B833"
                   },
                   {
                       "path":  "game/chars/yuki-kushinada-kofa/02S.cns",
-                      "size":  37354,
-                      "sha256":  "52A12370E4856C76A7799854936C692094F73FC10E9F0F4E55DDE62A33ED5ECE"
+                      "size":  37353,
+                      "sha256":  "C974006814940FB3E33905780ABDC24D2D75354F5AB7AF4BD34C861C9A50095C"
                   },
                   {
                       "path":  "game/chars/yuki-kushinada-kofa/03H.cns",
-                      "size":  86767,
-                      "sha256":  "5FF74A49988CCFBDAE63719ECC15BCD96687CF7491A2CCDC9A5D41C3093362F8"
+                      "size":  86764,
+                      "sha256":  "46CC611583770198B8E177F0FE22DA3D6B8F2E2CCE555350F3ED672D92A47B71"
                   },
                   {
                       "path":  "game/chars/yuki-kushinada-kofa/config.txt",
@@ -8022,7 +8022,7 @@
                   {
                       "path":  "game/chars/yuki-kushinada-kofa/yuki_kushinada.cns",
                       "size":  105280,
-                      "sha256":  "47731AF70FC24899F953AE00231BABDF1FFB34F00C478F684DDA39F390554BAC"
+                      "sha256":  "31CED2A31E459BFD9945CA8F1E0B5D7D723F947773E8F92452B6704D89C6FC3F"
                   },
                   {
                       "path":  "game/chars/yuki-kushinada-kofa/yuki_kushinada.sff",
@@ -8116,8 +8116,8 @@
                   },
                   {
                       "path":  "game/chars/yuki-ngbc-kofa/Yuki_nbc.cns",
-                      "size":  122590,
-                      "sha256":  "27458CC266AA54F6C282CCAF443A6D1CEFA6C034FE236FAF5BFDBF19225038CC"
+                      "size":  122580,
+                      "sha256":  "EC4041F8EC9B642FDE2B2BA47B4D0824CC9747FB9B876D6ABEA2742144FEC251"
                   },
                   {
                       "path":  "game/chars/yuki-ngbc-kofa/Yuki_nbc.sff",
@@ -8132,7 +8132,7 @@
                   {
                       "path":  "game/chars/yuki-ngbc-kofa/Yuki_nbc2.cns",
                       "size":  43288,
-                      "sha256":  "66BC192DE94347AE3F694FCC09A23F043E0FDDE645D5B8B47CDBEFC676EBD4A7"
+                      "sha256":  "1929879940CCF60C6826DA143B05E3AB1A9FA92E37F9DA8F0E803AAD66906D6F"
                   },
                   {
                       "path":  "game/chars/yuki-ngbc-kofa/Yuki_nbc3.cns",
@@ -8141,8 +8141,8 @@
                   },
                   {
                       "path":  "game/chars/yuki-ngbc-kofa/Yuki_nbc4.cns",
-                      "size":  20400,
-                      "sha256":  "C691F295F7A7F8BF381F7C1D695206C1F785CED8DB96646F8D7251DB65FC2FDE"
+                      "size":  20399,
+                      "sha256":  "F6D57E98517E6F9E7424B9F4EA93C3383AF9BFFE2592C3C459AE764DE37F4E63"
                   },
                   {
                       "path":  "game/chars/yuki-ngbc-kofa/pals/Yuki_nbc1.act",
@@ -8201,8 +8201,8 @@
                   },
                   {
                       "path":  "game/chars/Yukiko/Yukiko.cns",
-                      "size":  219124,
-                      "sha256":  "A3A46BD5F09D31D13076E54B0DFC20799E79EC9AC4E14EFD50F1D137F9C6280E"
+                      "size":  219125,
+                      "sha256":  "47AA0E525A8F9412D2FEAF482036CE4E487AA17C2BF317C02C2A4F1F46503E67"
                   },
                   {
                       "path":  "game/chars/Yukiko/Yukiko.def",
@@ -8291,8 +8291,8 @@
                   },
                   {
                       "path":  "game/chars/yuko-kofa/yuko-s.cns",
-                      "size":  17647,
-                      "sha256":  "977D29A123AC056DC43E8F882A87482666F131A61136655194C4E7EFD153BB32"
+                      "size":  17645,
+                      "sha256":  "36D58C50DC24BAF544955B1F82A436DEF2169B3B26A762F563439084C750ED64"
                   },
                   {
                       "path":  "game/chars/yuko-kofa/yuko.act",
@@ -8327,12 +8327,12 @@
                   {
                       "path":  "game/chars/yuko-kofa/yuko0.cns",
                       "size":  4551,
-                      "sha256":  "BF2D7E650425B7287BA21A7DC38B1A581DF6BBA06ED207BA97E6109EA178DC6D"
+                      "sha256":  "A13C6D62A47C9DB5D5551DC66DBB448149A11BFA2FEBF435E722DDA04B5C7180"
                   },
                   {
                       "path":  "game/chars/yuko-kofa/yuko1.cns",
-                      "size":  34480,
-                      "sha256":  "64099BDB180FAD39445181EC879005A148E38F9B4B6DD7A4446EC48CEA607CB6"
+                      "size":  34473,
+                      "sha256":  "F4E4494077470DE60ADFD4D8588D1D86C493439BDA49806EA800E0145C53A839"
                   },
                   {
                       "path":  "game/chars/yuko-kofa/yuko2.act",
@@ -8397,7 +8397,7 @@
                   {
                       "path":  "game/chars/Yumi/Yumi.cns",
                       "size":  287904,
-                      "sha256":  "2348E4B5691C8557C5F6904844D9D6E8811530E7D7E8D7A5FE3894CBE2B35770"
+                      "sha256":  "F649589576A864607081E677FE13B0FD320DB9BEAB16D1C8E94CABBF32FB6586"
                   },
                   {
                       "path":  "game/chars/Yumi/Yumi.def",
@@ -8511,8 +8511,8 @@
                   },
                   {
                       "path":  "game/chars/yumi-aisu-kofa/Yuimo.cns",
-                      "size":  184676,
-                      "sha256":  "00A2068EE1E31BEE293148AC0CC8083E8EAAD5D1C262B3D0B51A8509A1245E86"
+                      "size":  184657,
+                      "sha256":  "D8DDF20E4E0715A03F99971C48308A9FD61173F50A6F290BE19F77B8E6D0F7ED"
                   },
                   {
                       "path":  "game/chars/yumi-aisu-kofa/Yuimo.sff",
@@ -8546,8 +8546,8 @@
                   },
                   {
                       "path":  "game/chars/Yuri Sakazaki/xi_yuri.cns",
-                      "size":  200402,
-                      "sha256":  "DCC088B595F0CD81B8B6D02AE05C285D9F66C909104B2BBF033A547EDA603053"
+                      "size":  200393,
+                      "sha256":  "95B303C31168D533DBB1E8C77F17EA41698EA0430A346712EFDB54DF1361C499"
                   },
                   {
                       "path":  "game/chars/Yuri Sakazaki/xi_yuri.sff",
@@ -8827,7 +8827,7 @@
                   {
                       "path":  "game/chars/Zein_Dael/Zein_Dael.cns",
                       "size":  200701,
-                      "sha256":  "672B3766FBE190EB568BEE839A689C172A484DF451FAE188F20BFA2E118A34B4"
+                      "sha256":  "64039B3F9D6C910818C73B439E7D93DE337B6F60EAAD5705881366FFBF0FF18E"
                   },
                   {
                       "path":  "game/chars/Zein_Dael/Zein_Dael.def",
@@ -8892,7 +8892,7 @@
                   {
                       "path":  "game/chars/zelos-kofa/zelos.cns",
                       "size":  71571,
-                      "sha256":  "0770CFCA8AB01B5DB2B0659DADCA80CD6AAF7530E5131DD444FC35250931B905"
+                      "sha256":  "FA16F00131DBC05FDC4F87CE8FB141CD9C14358413F82AEA8CA4DE72C2E43A9D"
                   },
                   {
                       "path":  "game/chars/zelos-kofa/zelos.sff",
@@ -8922,7 +8922,7 @@
                   {
                       "path":  "game/chars/Zero_Athena/Athena.cns",
                       "size":  35330,
-                      "sha256":  "BBDF2A79CFD9688D8C9CDDDBE2841AE3AB262C0322EA9D1816A473B5A8A1BAE6"
+                      "sha256":  "8EAA4F87D2C6763693FD591789E96C53342ACFB482213D1279BB6B9D679ADFBF"
                   },
                   {
                       "path":  "game/chars/Zero_Athena/Athena.sff",
@@ -8982,17 +8982,17 @@
                   {
                       "path":  "game/chars/Zero_Athena/Athena_H.cns",
                       "size":  352623,
-                      "sha256":  "B96CBB6385BEB0A129D58A48C3ED4EA2DBDF99017EC0246DC9644D4644D1E27D"
+                      "sha256":  "606F0FE2309D5A018B85A3A14556816AFA3FE7F9AEB62D482BA8C9A522FD53D5"
                   },
                   {
                       "path":  "game/chars/Zero_Athena/Athena_N.cns",
                       "size":  135070,
-                      "sha256":  "293B799B7FB67433DD8D9F76968CBFA93D06502396FE1C6BB3230B3128687E12"
+                      "sha256":  "F7B60E15ECE948AF3658274040A112F5D81CA4F079E8E686152403487DB0BEE0"
                   },
                   {
                       "path":  "game/chars/Zero_Athena/Athena_S.cns",
                       "size":  113098,
-                      "sha256":  "D2BB6F48C8CF9DC55097301781E6CB9AA146020C9957CC2689E4D4B94C7E9423"
+                      "sha256":  "463EC3BBB27D5334E9655DA50A41999EE5532E091FA16AA8D94D4F9B34EA6F3C"
                   },
                   {
                       "path":  "game/chars/Zero_Athena/Read Me (English var.).txt",
@@ -9176,8 +9176,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  70933,
-                      "sha256":  "741188F27775A57CA3A03336CFAD7876F615A84355BADA4F0DB53BF4EDADCA5E"
+                      "size":  70976,
+                      "sha256":  "7450EEA6D00383CF355F9D01D1C022D7CAECE973C8C2D9964D6A8BB276723231"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
