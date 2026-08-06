@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.2",
-    "publishedAt":  "2026-08-06T03:30:07.5851557Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.2/KofAndrew-Client-v1.0.2.zip",
-    "packageSha256":  "DE57C17CAD769F0462B0C0A244AB320A6FDFEC95D7D77AFBD7F6E16909260023",
+    "version":  "1.0.3",
+    "publishedAt":  "2026-08-06T03:39:58.4038161Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.3/KofAndrew-Client-v1.0.3.zip",
+    "packageSha256":  "C1C9F02D04DF2FBD3AF26788449DEBAFF56FA5E3BCA2C6874E946FE5EB11AB17",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -4920,14 +4920,19 @@
                       "sha256":  "74E0313B33EC67D9CC5FB6007BB2DEFE17F730AD8A890C53BE370835721E9207"
                   },
                   {
+                      "path":  "game/data/ikemen1/ad-logo.sff",
+                      "size":  5945360,
+                      "sha256":  "495C8C923F37D35705F1A946FD35AB3DFC17C2958ED9C4AE1E4E950CA6300379"
+                  },
+                  {
                       "path":  "game/data/ikemen1/logo.def",
-                      "size":  264,
-                      "sha256":  "960676ADA6DA4D37120AED9D1D3E01CA72EBA9CD1B65E6C69EB170244208483B"
+                      "size":  416,
+                      "sha256":  "006D31ACA15D18D1AA419CC4AC01D781FFEB014AF5B636BBAE166B9050541D40"
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  71652,
-                      "sha256":  "9B13E34BAB9733866FB964578B3F6CF2FA94A1F54D34EC3AA566EA53DB3C71F7"
+                      "size":  71643,
+                      "sha256":  "B48AB92780DC83D3C66CA0601613626D049CAE2F3A3462AA1B841345BB87D6B7"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
@@ -5513,6 +5518,11 @@
                       "path":  "game/sound/.keep",
                       "size":  0,
                       "sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+                  },
+                  {
+                      "path":  "game/sound/dreamscape.mp3",
+                      "size":  4440812,
+                      "sha256":  "C007AF3F467F7C55E79CA4987F99D6A575A0B540DDACC3A080620A19EE6A14DC"
                   },
                   {
                       "path":  "game/sound/street.mp3",
