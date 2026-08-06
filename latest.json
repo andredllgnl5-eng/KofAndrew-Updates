@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.5",
-    "publishedAt":  "2026-08-06T03:54:34.5191491Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.5/KofAndrew-Client-v1.0.5.zip",
-    "packageSha256":  "DCAB292D35D49B084E6ADAD1F8D946292A24F81F781162A1707166A2223F86F3",
+    "version":  "1.0.6",
+    "publishedAt":  "2026-08-06T04:18:58.2965289Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.6/KofAndrew-Client-v1.0.6.zip",
+    "packageSha256":  "A13E0E4A223133D3F29ED5B74E81F534B818ECA438219D0180051C4770F77A42",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -15,9 +15,14 @@
                       "sha256":  "A05D04A270F68C8C6D6EA2D23BEBF8CD1D5453B26B5442FA54965F90F1C62082"
                   },
                   {
+                      "path":  "KOF Online Rooms.exe",
+                      "size":  152984373,
+                      "sha256":  "EFD137EAD5E11228E487B1BE92AD52D8FC44992B3F3CA0CA35B41B2E4DCBB861"
+                  },
+                  {
                       "path":  "KOF Online.exe",
-                      "size":  156805393,
-                      "sha256":  "58EADCCC5C6F2EAB01B49F9ED918AE875D37CBAC6FDF334AD6DBD0630E608D46"
+                      "size":  148407834,
+                      "sha256":  "4E760E7DAE294D952492E6B1412F22A2FE026764100CD0480C3A90C5AD67BA80"
                   },
                   {
                       "path":  "KOF Updater.exe",
@@ -4931,8 +4936,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  71512,
-                      "sha256":  "2CB33610D0C246ADCF79997766D108E33864E269C116AB5676D6B1ED7AEF5AD7"
+                      "size":  71469,
+                      "sha256":  "3337D6CC9635B81E8CA9A8A8296E5EB6F52F32792DCC55E3D035753609F6A0FE"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
@@ -5136,8 +5141,8 @@
                   },
                   {
                       "path":  "game/external/script/main.lua",
-                      "size":  134696,
-                      "sha256":  "69E04AF5716D408A85F68179983F18508C5C831DA04DD942E91079DE80CBECD4"
+                      "size":  135100,
+                      "sha256":  "562B8EA99230307DEB3B96E45FFFC4303E540B60C867A5F32FA6DF9B4CC7542C"
                   },
                   {
                       "path":  "game/external/script/menu.lua",
