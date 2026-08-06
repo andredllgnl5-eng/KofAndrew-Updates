@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1",
-    "publishedAt":  "2026-08-06T03:12:10.6456034Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.1/KofAndrew-Client-v1.0.1.zip",
-    "packageSha256":  "B20015E6B8BF0A9651201419B488324BAA3676F2436D86DBDEECAE6F55D5F2A3",
+    "version":  "1.0.2",
+    "publishedAt":  "2026-08-06T03:30:07.5851557Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.2/KofAndrew-Client-v1.0.2.zip",
+    "packageSha256":  "DE57C17CAD769F0462B0C0A244AB320A6FDFEC95D7D77AFBD7F6E16909260023",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -4871,8 +4871,8 @@
                   },
                   {
                       "path":  "game/data/select.def",
-                      "size":  1989,
-                      "sha256":  "DE4D6B9336375F08336624976233B1C59001A2A3D219049FF0F548B2E9DAC075"
+                      "size":  1135,
+                      "sha256":  "201A8D150F835005C3B3D32D96C8B357A0D012D3179DA34D8B02D9F8B585EE4F"
                   },
                   {
                       "path":  "game/data/system.base.def",
@@ -4926,13 +4926,23 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  71702,
-                      "sha256":  "612BB61E9115953E323B2A97BD0A3283F347DB58AD70D151D4040FE0EAD316B2"
+                      "size":  71652,
+                      "sha256":  "9B13E34BAB9733866FB964578B3F6CF2FA94A1F54D34EC3AA566EA53DB3C71F7"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
                       "size":  9160953,
                       "sha256":  "5F4F52303700FA100FC29A0FF6AA420152BCD146947C24C285DAC5109EB6D5F9"
+                  },
+                  {
+                      "path":  "game/data/ikemen1/andrew/loading.def",
+                      "size":  206,
+                      "sha256":  "1F9EDA84A4373C9F1D5149C197F1270FED149B13D2118B422A07C80C8EF2A766"
+                  },
+                  {
+                      "path":  "game/data/ikemen1/andrew/loading.sff",
+                      "size":  888863,
+                      "sha256":  "47100DD9256AE783F7A1147E0FC05A379D07AE85CFCC33F51E5B8AD0E816ADF2"
                   },
                   {
                       "path":  "game/data/ikemen1/andrew/selectbg.sff",
