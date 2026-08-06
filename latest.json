@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.3",
-    "publishedAt":  "2026-08-06T03:39:58.4038161Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.3/KofAndrew-Client-v1.0.3.zip",
-    "packageSha256":  "C1C9F02D04DF2FBD3AF26788449DEBAFF56FA5E3BCA2C6874E946FE5EB11AB17",
+    "version":  "1.0.4",
+    "publishedAt":  "2026-08-06T03:45:06.5535054Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.4/KofAndrew-Client-v1.0.4.zip",
+    "packageSha256":  "244802A2497DA0F6BF34A2C444B2ABBB60747057C956A88474FD20F470BB245B",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -4931,8 +4931,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  71643,
-                      "sha256":  "B48AB92780DC83D3C66CA0601613626D049CAE2F3A3462AA1B841345BB87D6B7"
+                      "size":  71501,
+                      "sha256":  "2B9EAF5728F095C20161D03F9E39156A81EE71AF70FA8C073D512110DE901F0C"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
