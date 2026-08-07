@@ -1,14 +1,9 @@
 {
-    "version":  "1.0.16",
-    "publishedAt":  "2026-08-07T13:06:04.0351089Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.16/KofAndrew-Client-v1.0.16.zip",
-    "packageSha256":  "CDE60FD3450E1C5CC934146035F0C1442BCE3B88DBB3A4B4FED560CB72996E3D",
+    "version":  "1.0.17",
+    "publishedAt":  "2026-08-07T19:23:37.3010290Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.17/KofAndrew-Client-v1.0.17.zip",
+    "packageSha256":  "4FC9B7D1C2CFDDE53976E8B1E2C9FDE6E57F2BBE1688CE6B93276B9869C9250A",
     "files":  [
-                  {
-                      "path":  "COMO ENTRAR.txt",
-                      "size":  582,
-                      "sha256":  "7754A57998EBAD33F92F7CFD187DA2B1C45FDAF2087F7AE66B9018593588A3BD"
-                  },
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
                       "size":  4916840,
@@ -71,8 +66,8 @@
                   },
                   {
                       "path":  "game/KofRoomBridge.exe",
-                      "size":  62456176,
-                      "sha256":  "AEA4224D32EC85CEA156D3B61BA91588AE1C8892F4BB276BB4F26DF4AEC2949A"
+                      "size":  62458736,
+                      "sha256":  "186392DE78A2D11ED96DC7EFE065945F28743A2FEE6195CE0B1D80EAA1C491B8"
                   },
                   {
                       "path":  "game/LICENSES.txt",
@@ -9191,8 +9186,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  70976,
-                      "sha256":  "7450EEA6D00383CF355F9D01D1C022D7CAECE973C8C2D9964D6A8BB276723231"
+                      "size":  70897,
+                      "sha256":  "B48052F9C6A7701441D950617DC51517E6D507DE2883D9CD0B1A27831838AB25"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
@@ -9446,8 +9441,8 @@
                   },
                   {
                       "path":  "game/external/script/main.lua",
-                      "size":  142258,
-                      "sha256":  "DB5FAE0EFB999C2A861B2D49DD4D53F4D507030D90503BDDAC70767EA7A7B4ED"
+                      "size":  147028,
+                      "sha256":  "8002A018A45911309BED99C9719A228417CAA330DCC81430B57AAEE0AA5A847D"
                   },
                   {
                       "path":  "game/external/script/menu.lua",
