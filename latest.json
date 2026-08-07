@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.14",
-    "publishedAt":  "2026-08-07T00:24:05.6179324Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.14/KofAndrew-Client-v1.0.14.zip",
-    "packageSha256":  "5CA7E03C4F2F801853429B67202F2EACE4A51551BC12C690AF3353175BC0D669",
+    "version":  "1.0.15",
+    "publishedAt":  "2026-08-07T12:35:07.5009425Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.15/KofAndrew-Client-v1.0.15.zip",
+    "packageSha256":  "4570F3A196A6C9013318F1F8F0217CF9CF81813CFE21A8E747FCE778D4F889F7",
     "files":  [
                   {
                       "path":  "COMO ENTRAR.txt",
@@ -15,19 +15,29 @@
                       "sha256":  "A05D04A270F68C8C6D6EA2D23BEBF8CD1D5453B26B5442FA54965F90F1C62082"
                   },
                   {
+                      "path":  "KOF Online.deps.json",
+                      "size":  475,
+                      "sha256":  "771EF9B8B99A050E25E46FFB3D3856FB773DD59E41932B571822E34C3CB90AFE"
+                  },
+                  {
                       "path":  "KOF Online.dll",
-                      "size":  3866112,
-                      "sha256":  "7E09DEA473C627FC769606ED9AF0DCE969E6F08AF41613D1FE6C02612E620F76"
+                      "size":  3868672,
+                      "sha256":  "AF3BE94970DDEDDA614F88D11F821904369801BF2E9EECFDF24D6CA0D946C2E9"
                   },
                   {
                       "path":  "KOF Online.exe",
-                      "size":  156806417,
-                      "sha256":  "6AA178C8D4361564901CB5DFA6717C3D139DE55B9E765A597D7B30754B527007"
+                      "size":  151040,
+                      "sha256":  "C01131B899F3D15CF7F15365706DB9F1AB4948B3EE45992DA31A9A8EFD55DFE6"
                   },
                   {
                       "path":  "KOF Online.pdb",
                       "size":  19228,
                       "sha256":  "9EC211E59934FD51784AB925FA675AEA73BC4358BB965654AABD5A94D453A87D"
+                  },
+                  {
+                      "path":  "KOF Online.runtimeconfig.json",
+                      "size":  372,
+                      "sha256":  "1ECA0F0C70070AA83BB609E4B749B26DCB4409784326032726394722224A098A"
                   },
                   {
                       "path":  "KOF Updater.exe",
