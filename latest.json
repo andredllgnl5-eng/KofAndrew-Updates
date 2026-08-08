@@ -1,8 +1,8 @@
 {
     "version":  "1.0.25",
-    "publishedAt":  "2026-08-08T13:47:46.2985714Z",
+    "publishedAt":  "2026-08-08T13:51:32.9966133Z",
     "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.25/KofAndrew-Client-v1.0.25.zip",
-    "packageSha256":  "9EF74AC93CC6F9AB6044E31A2A337E1A54F43969C7EDB9735FC5733FD904D3FC",
+    "packageSha256":  "D40DE3545CB4188BC24BD72215DF309C30EBB8D9FEFB46B5DB9E958B1D8D25FD",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -2107,7 +2107,7 @@
                   {
                       "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/���/���.txt",
                       "size":  7389,
-                      "sha256":  null
+                      "sha256":  "B86F41E228F0CA9AE2A2C02E851B6747C9AE27E319B565AC75B1B39351F7961E"
                   },
                   {
                       "path":  "game/chars/Fliz/AKOF������.txt",
@@ -2227,7 +2227,7 @@
                   {
                       "path":  "game/chars/Fliz/�����/.txt",
                       "size":  1943,
-                      "sha256":  null
+                      "sha256":  "A3266328A33F5BF5822B6B2A0586F5BA1EF96B4BACBC1BAB39CD5B42A8DA1567"
                   },
                   {
                       "path":  "game/chars/Geese/Geese-2-3.cns",
@@ -5217,297 +5217,297 @@
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/24507593_p7.jpg",
                       "size":  70913,
-                      "sha256":  null
+                      "sha256":  "6036B4C37FC02016D5F7549F1FE615E5A994C99290AA09FC20BD241FE320CADB"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/56569845_p0.jpg",
                       "size":  324073,
-                      "sha256":  null
+                      "sha256":  "3B5CCD6F0521DBBD3E99021541535E0D034E3680BC9F56D35FC67CD106EC853C"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57157640_p0.jpg",
                       "size":  410229,
-                      "sha256":  null
+                      "sha256":  "97051F474EE00F80D602256916FD4C29D2D40D8519EC92CBC07008D8509EE592"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57281684_p0.jpg",
                       "size":  248891,
-                      "sha256":  null
+                      "sha256":  "40D9525D4CA4102338D14382FEAD65D9EEB696C1B9D26D6DC82A513836AFF23F"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57376316_p0.jpg",
                       "size":  822953,
-                      "sha256":  null
+                      "sha256":  "252A4976F86B07902D32BA7EC48D18D36B9DBEE51203340D96ABA9E8B869407D"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57413669_p0.jpg",
                       "size":  1353740,
-                      "sha256":  null
+                      "sha256":  "7E22A57A2A9FE3AC661FDD22547F2C25DB09F4254D1EAB6EB153AD1239864C8B"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/60983612_p0.jpg",
                       "size":  102083,
-                      "sha256":  null
+                      "sha256":  "D578839BC3BBD154A6E74361C50E618855D1757A405F1C4DE222EB67AFF60B92"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/62891686_p0.png",
                       "size":  843146,
-                      "sha256":  null
+                      "sha256":  "46B0F70A4377FD64190F51061F46AFA9C40778B713D2E702E5BEEA48AA790B88"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/63618397_p0.jpg",
                       "size":  3488198,
-                      "sha256":  null
+                      "sha256":  "3F503F9BE2DCCD83916426DF791108914FB91947322A5B7B4043613DB4E20B6D"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/65826817_p0.jpg",
                       "size":  306233,
-                      "sha256":  null
+                      "sha256":  "7E2186454466072363BBA06E2A5FB39F0365D27AFF9EB5BAE2FFCEB36423E605"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/66209786_p0.jpg",
                       "size":  924504,
-                      "sha256":  null
+                      "sha256":  "4CA2A6D26661CFEC876D77D2948948C1D966E9D4AE6EF9D5E0F68A9B897234B0"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/66813052_p0.jpg",
                       "size":  1313943,
-                      "sha256":  null
+                      "sha256":  "74E0F73D44E6B17BF706AF4B5EBB71F58E865C76801BAEB93072023D392A0300"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/67055461_p0.png",
                       "size":  5681980,
-                      "sha256":  null
+                      "sha256":  "D458E11F84EAE70B9E797A8F22E11C7F4C9F580BF631F4F4AA765BA4E07DCA37"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/67229120_p0.jpg",
                       "size":  620942,
-                      "sha256":  null
+                      "sha256":  "63B3267BC0338844D87CA262D7C70D934E9856020001EF9C301EE77C3B57AC6E"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/68159646_p0.jpg",
                       "size":  3159523,
-                      "sha256":  null
+                      "sha256":  "85DCD9D473308F1A7BC5BFB5800090B153D7A1FC155DF3A73D34C73C7B238ACE"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/68859053_p0.jpg",
                       "size":  124078,
-                      "sha256":  null
+                      "sha256":  "590807950E811875EC5631701AA920A4D18DED91E4EB1FB2279CAEDB59C8C46E"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/70370266_p0.jpg",
                       "size":  316759,
-                      "sha256":  null
+                      "sha256":  "EDC4DC5C074A885763D4743E9195A21300BEF5003B3B633AC95E10BE4ED1E20D"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/70993351_p0.png",
                       "size":  7467598,
-                      "sha256":  null
+                      "sha256":  "801B112AE73A946525B00BF58E0F387B4A7FC2D10C7BD91A272C641CF2146E24"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/71193858_p0.png",
                       "size":  502687,
-                      "sha256":  null
+                      "sha256":  "4C3F535E333D3E81107739DC4329325D7D0BBB1A6BFA7AD515D76EA6909EEFA9"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/72587438_p0.png",
                       "size":  3518530,
-                      "sha256":  null
+                      "sha256":  "615C0BF1D36505B4CE86A38F608457D32E9207A150215F05955C8152C53A588F"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/72660965_p0.png",
                       "size":  793164,
-                      "sha256":  null
+                      "sha256":  "2DEDC30BB2C7153A7DCD397000160A6660274D9451B10C42D5FE5A0FE4F578C8"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/72709936_p0.jpg",
                       "size":  1013041,
-                      "sha256":  null
+                      "sha256":  "CFB7C61FB3B73A50A884F3D0DF8772BC8D4B8C4A63DD045FE7610653E652903B"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/73074244_p0.png",
                       "size":  373784,
-                      "sha256":  null
+                      "sha256":  "895D84F5E4A11BB12AA78374A9F53636E5924AE9AE622E9539C0F2624D745B37"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/8125341_p0.jpg",
                       "size":  324333,
-                      "sha256":  null
+                      "sha256":  "D2AB0EDD24BF8049648A43C67036B131DADE463B1E371C3252DCA28E6C47493F"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/all_star_leona_heidern_by_topdog4815_dck93u6-pre.png",
                       "size":  665392,
-                      "sha256":  null
+                      "sha256":  "349A42E960731F5153764A27D6E210E228CA867CF9BDD4C522A21AD87EF6DE54"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/Ba1vn-ICQAAW9VR.jpg",
                       "size":  22519,
-                      "sha256":  null
+                      "sha256":  "E0074CAD64454952B19F7D6E76E8B1411434FCEC83069FEF4C39959F45074CCF"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/D0LZfTxUwAIqKmM.jpg",
                       "size":  180759,
-                      "sha256":  null
+                      "sha256":  "50376BCA63337831D87ECADC698D4A7609D3B7CD09922B8C6E84EF3310490C47"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d3brxj7-1e45c706-2835-41ca-94aa-bb3f6591fff5.jpg",
                       "size":  60893,
-                      "sha256":  null
+                      "sha256":  "E30B6F8EB31650A5A67C93FBE4F7A57956A965DD6B5F61FBC9787B8F2BF66836"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d4t2hs1-ef9f4367-70a7-4528-8f25-faedd1e5fd5f.png",
                       "size":  234939,
-                      "sha256":  null
+                      "sha256":  "1413FAF3760856B824ABDF13C40A472E082C9215D1856D538068DA2370A93ED1"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5ca4qe-dac23de2-6e76-4f95-b4d2-c43de57ccf85.png",
                       "size":  577028,
-                      "sha256":  null
+                      "sha256":  "60E3806AD725AAD004C06750706D233686F74D36AE348CE5DF3F92729BB44C6A"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5i37hl-4718ab1a-1f90-4991-8cac-3702519b00a5.png",
                       "size":  212333,
-                      "sha256":  null
+                      "sha256":  "CC5773F09FBEAD6B35BEF0D986408C48599F1EFF24C44FB22D1B94464F179ECD"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5k48pp-c3dfcaa8-1a95-44b0-8409-f0f5e5874590.jpg",
                       "size":  81711,
-                      "sha256":  null
+                      "sha256":  "9A0AB79BA1C82659639408D83F3BC358D1076290B6E8641B7BA7EE08AD125F4C"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5p2cvc-43e7ca45-f553-4ae4-b63a-e91e9b88bae7.jpg",
                       "size":  49238,
-                      "sha256":  null
+                      "sha256":  "CBC80AAE6E7D964E17D39774E95FB5C03F818293296ABB0EBED8D145221A5A19"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d869yfa-80da2bea-1df6-4f5e-9e6b-5314bfa9dd68.png",
                       "size":  784516,
-                      "sha256":  null
+                      "sha256":  "3C22A507CA95B8CF068580B4405D448C58A012C00850DAA40D812FB323A79FA1"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d9q8pb6-2e2a8662-636b-476d-ba45-8793b121ac93.png",
                       "size":  200707,
-                      "sha256":  null
+                      "sha256":  "D288EED528B2416C50B2C12E4FBF864725735EAC5D22081847942DC6C3E6D488"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/da1vao1-21bfc240-2575-43b4-b8a6-61bc8bff31f6.png",
                       "size":  1252730,
-                      "sha256":  null
+                      "sha256":  "C114D358A6F7FFCF88AE610A4C5C4A964BAE27B7D4E16C307F46B6C64EFDE978"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/da5ryty-68318329-957c-4519-bafc-f33eaca6bd17.png",
                       "size":  1041357,
-                      "sha256":  null
+                      "sha256":  "013546299F2444012AC9B7BA3DD71B17B84D9641B1DFF430DCDABF6C86848F74"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/daau8ac-02688ada-b1a4-4494-b273-3d00fee09fa3.png",
                       "size":  1597077,
-                      "sha256":  null
+                      "sha256":  "9AFDD351897F81B3B6AF07C5A7234194FE5F14518CA7CBB90643A4C4E43A11DF"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dacilz7-bdd79e07-1715-4371-9dd1-72fcfa945e09.png",
                       "size":  684065,
-                      "sha256":  null
+                      "sha256":  "CF4945C6F80505A58C902801B01AE5DD9CC9036E706902E6AA7683AAE10ED821"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/daljdqg-03f3a1c2-fb80-4812-90f0-3df1512171fc.png",
                       "size":  727330,
-                      "sha256":  null
+                      "sha256":  "CD8B8A7E3E5C0112009509C147EF913836992844A39C76A1D133F191A2246EC5"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dci3mk1-19d1eb6c-3081-496f-a0ea-bf1a79132604.jpg",
                       "size":  87786,
-                      "sha256":  null
+                      "sha256":  "30059A78A5E02137A560AA1B6EF6E4229968C061605C0FFD3EC302674DB0C6E0"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dckar8r-d9201175-b231-43eb-a85d-ed0d3fe76085.png",
                       "size":  1104338,
-                      "sha256":  null
+                      "sha256":  "2125F5853B9EB3464FD6399B1D7A653D553E4F5C9580B514B2D619675F624258"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dcm5flj-65418149-6bf9-420d-95c3-5988165bfe3d.png",
                       "size":  194997,
-                      "sha256":  null
+                      "sha256":  "B2771E505A349911778C93C396B5F9A9C254D6779F50BCBAEE61F3405C2A11D7"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/DwTQVOwUwAAkYlF.jpg",
                       "size":  70544,
-                      "sha256":  null
+                      "sha256":  "E9782D84227BBB5469571215B5CA5496BD5F8D1BE7AC2496FCEEE515DE40F6E8"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/king_of_fighters_98_um_ol_leona_heidern_by_hes6789_dc70hci-fullview.png",
                       "size":  1460461,
-                      "sha256":  null
+                      "sha256":  "7830A40DFA2790798986CC8B21F565DAC5E3EDE105859D1424556678F31A39E3"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/king_of_fighters_98_um_ol_orochi_leona_by_hes6789_dc0pi4y-pre.png",
                       "size":  1071205,
-                      "sha256":  null
+                      "sha256":  "011B96AFB2E23B3C117376C4D72DF89C8796BFE0935B81E51A4CAAA58FC7F3D1"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/king_of_fighters_xii_leona_heidern_by_hes6789_d8zq7rx-fullview.png",
                       "size":  693260,
-                      "sha256":  null
+                      "sha256":  "B4F171EE3B263E37BDC373D18F8EE72A2A494CE32756C02C66BA98D498AB5324"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/kof_leona__by_heidernn_dcjcqsu-fullview.jpg",
                       "size":  59597,
-                      "sha256":  null
+                      "sha256":  "A2106035082301AD283B0BF079C4EBDCDAC9D16C06241CB4378BBBC91C407F65"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/leona_heidern_by_geos9104_d4epx9y-fullview.png",
                       "size":  512798,
-                      "sha256":  null
+                      "sha256":  "B121B7CD8D0A6CAAF1B180706EDE5C955D62EC8AA782C1BDB876105822938E38"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/leona_heidern_snk_heroines_by_topdog4815_dcked25-pre.png",
                       "size":  439771,
-                      "sha256":  null
+                      "sha256":  "B066A117D371448E4160953E50B3952073A9B336BFD9B5B767FEE6204B1F1AC9"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/leona___kof_98_ol_wallpaper_by_zeref_ftx_dbg3hy1-fullview.jpg",
                       "size":  64508,
-                      "sha256":  null
+                      "sha256":  "870401E6497BB7F7157E3032AD71D888A9393506500748DC23A859DE2F8F50F8"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_meoahs29vw1qmuhxzo3_1280.png",
                       "size":  223665,
-                      "sha256":  null
+                      "sha256":  "DE7167869A72C2A9CF13A9363FAF4E741D549CA0418BEAFA865933B7A7C14A25"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_meoahs29vw1qmuhxzo4_1280.png",
                       "size":  154806,
-                      "sha256":  null
+                      "sha256":  "A8E00D07999499A7AAE25E35530ADEC987013D95DD5DEE425BADEB26BCA01D88"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_meoahs29vw1qmuhxzo5_1280.png",
                       "size":  157664,
-                      "sha256":  null
+                      "sha256":  "C0719D92164F7D2A94AB37419BFD0624300D4D490E5549710FF479C65FB434F9"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_n0b7h39tgi1qmuhxzo1_500.jpg",
                       "size":  82154,
-                      "sha256":  null
+                      "sha256":  "E5BD30B5756E0D9E3C3D13CC1DFBE07DA0E808E9980FC61360CAC210E9F059B9"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_nhwgmfdv721tw3jq1o9_540.png",
                       "size":  205469,
-                      "sha256":  null
+                      "sha256":  "B70AE132852A9128C906D2ECD7D4F589207C6478538F5449CB45262A136A8B60"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_pif01nYsOE1tw3jq1o1_400.png",
                       "size":  94590,
-                      "sha256":  null
+                      "sha256":  "170EAD3981A74F1E8502B78F7AB1B8D00E1A7B7B9C76AE8DEC433BCA4F7CEC6C"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_pif01nYsOE1tw3jq1o2_500.jpg",
                       "size":  62537,
-                      "sha256":  null
+                      "sha256":  "0ED73FFBF6FA27D8E3890D643EB12F4316B2EF75F0E01D0811C4965F04CC3031"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/__leona_heidern_the_king_of_fighters_drawn_by_gousaikoo__389a4a46fe8911c426a91e747ade1723.jpg",
                       "size":  473237,
-                      "sha256":  null
+                      "sha256":  "43EB249F0AA1C970B9356D4ADF6A2BCD6F0247C1E939F4E1D9A50F21E1B89406"
                   },
                   {
                       "path":  "game/chars/Lin/XI-Lin/3150.cns",
@@ -6207,7 +6207,7 @@
                   {
                       "path":  "game/chars/Momoko/�����/.txt",
                       "size":  1995,
-                      "sha256":  null
+                      "sha256":  "B16AC28735FC72D58414C2F9AA45CC064914F4C4E180ABC00C554F38039048BB"
                   },
                   {
                       "path":  "game/chars/MrKarateXIII/MrKarateXIII/Attacks.cns",
