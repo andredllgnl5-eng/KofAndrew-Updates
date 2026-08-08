@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.27",
-    "publishedAt":  "2026-08-08T20:29:30.2123417Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.27/KofAndrew-Client-v1.0.27.zip",
-    "packageSha256":  "71629C476CCC5B444B64A16408FF3C25A4A911B53AAC51971A4EB513B5A1A5A3",
+    "version":  "1.0.28",
+    "publishedAt":  "2026-08-08T23:20:42.3772219Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.28/KofAndrew-Client-v1.0.28.zip",
+    "packageSha256":  "2D54ABCFEC8BA87C44F576F74973B744A72D1DEE1CF53586EDA275611B6AC58E",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -17,7 +17,7 @@
                   {
                       "path":  "KOF Online.dll",
                       "size":  3900928,
-                      "sha256":  "757D22F4713CA6D329241651CD68F10F83C8A90A6A007F52C2DBFA91BD91AC42"
+                      "sha256":  "8973B6C37A2B1E04A041CBD98EE33F0E1B84FB3023688B83FE0F6E520D26AA69"
                   },
                   {
                       "path":  "KOF Online.exe",
@@ -27,7 +27,7 @@
                   {
                       "path":  "KOF Online.pdb",
                       "size":  24300,
-                      "sha256":  "0D9878FA3F3C824ABA9B4543B2EA2038A93F06AC19C643228962C7C5DEC9FEA0"
+                      "sha256":  "94DC7575CD8A3058734827F6CEA8BC7B38E99D8EDBE7936C7D337CCF19D7EC70"
                   },
                   {
                       "path":  "KOF Online.runtimeconfig.json",
@@ -67,12 +67,12 @@
                   {
                       "path":  "game/KofRoomBridge.exe",
                       "size":  62474608,
-                      "sha256":  "6417A2034E7E3E62F39A0985DED96D3E0DB937283674FBDB35305878E56CED73"
+                      "sha256":  "E7B0FABE3A62AA0B29E3A8F864A4E815995DBD5F65E66569DF2779DE21B527A8"
                   },
                   {
                       "path":  "game/KofRoomBridge.pdb",
                       "size":  16544,
-                      "sha256":  "7D62CF5E0C5F8CE4D6B216C336B198CC5875B7779FE2A070C7A94BBF8DE7EC0A"
+                      "sha256":  "0E0D0DA7E84DB41D5D13D2C8D06B060B99B352AECBAF4BE2D86590FA695EC786"
                   },
                   {
                       "path":  "game/LICENSES.txt",
