@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.26",
-    "publishedAt":  "2026-08-08T14:48:42.5705705Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.26/KofAndrew-Client-v1.0.26.zip",
-    "packageSha256":  "AE7D82EBAFF1BBD9D930F0CBDC6FAEC33C5C7B5BCDD59870F67995AC653360FB",
+    "version":  "1.0.27",
+    "publishedAt":  "2026-08-08T20:29:30.2123417Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.27/KofAndrew-Client-v1.0.27.zip",
+    "packageSha256":  "71629C476CCC5B444B64A16408FF3C25A4A911B53AAC51971A4EB513B5A1A5A3",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -11,13 +11,13 @@
                   },
                   {
                       "path":  "KOF Online.deps.json",
-                      "size":  475,
-                      "sha256":  "771EF9B8B99A050E25E46FFB3D3856FB773DD59E41932B571822E34C3CB90AFE"
+                      "size":  422,
+                      "sha256":  "6FCC3C93FFDD45CEF1A1B3AA85412EC4E47CAF78FC7816F3F4C52CE802F2F3EC"
                   },
                   {
                       "path":  "KOF Online.dll",
-                      "size":  3899392,
-                      "sha256":  "EE1A0D804DB632CAEE362E3F52B740341F1D2E6985725A59214F1746F85EAA94"
+                      "size":  3900928,
+                      "sha256":  "757D22F4713CA6D329241651CD68F10F83C8A90A6A007F52C2DBFA91BD91AC42"
                   },
                   {
                       "path":  "KOF Online.exe",
@@ -26,8 +26,8 @@
                   },
                   {
                       "path":  "KOF Online.pdb",
-                      "size":  23968,
-                      "sha256":  "ECA66CBA8E906E3E9FA8FA7C614A5A5E6B6E06FF97A5E36FC3D560DD924289AD"
+                      "size":  24300,
+                      "sha256":  "0D9878FA3F3C824ABA9B4543B2EA2038A93F06AC19C643228962C7C5DEC9FEA0"
                   },
                   {
                       "path":  "KOF Online.runtimeconfig.json",
@@ -66,13 +66,13 @@
                   },
                   {
                       "path":  "game/KofRoomBridge.exe",
-                      "size":  62473072,
-                      "sha256":  "A6D99CB284D0FC907E22F14BFA45FB019AD55648B7149A8C390FEB0B364F99A8"
+                      "size":  62474608,
+                      "sha256":  "6417A2034E7E3E62F39A0985DED96D3E0DB937283674FBDB35305878E56CED73"
                   },
                   {
                       "path":  "game/KofRoomBridge.pdb",
-                      "size":  16276,
-                      "sha256":  "F41C1892419543A5EE3F34BF8DDAEEDF574D6E457F5BEA081F9770A5CDB9AC21"
+                      "size":  16544,
+                      "sha256":  "7D62CF5E0C5F8CE4D6B216C336B198CC5875B7779FE2A070C7A94BBF8DE7EC0A"
                   },
                   {
                       "path":  "game/LICENSES.txt",
