@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.25",
-    "publishedAt":  "2026-08-08T13:51:32.9966133Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.25/KofAndrew-Client-v1.0.25.zip",
-    "packageSha256":  "D40DE3545CB4188BC24BD72215DF309C30EBB8D9FEFB46B5DB9E958B1D8D25FD",
+    "version":  "1.0.26",
+    "publishedAt":  "2026-08-08T14:48:42.5705705Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.26/KofAndrew-Client-v1.0.26.zip",
+    "packageSha256":  "AE7D82EBAFF1BBD9D930F0CBDC6FAEC33C5C7B5BCDD59870F67995AC653360FB",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -66,13 +66,13 @@
                   },
                   {
                       "path":  "game/KofRoomBridge.exe",
-                      "size":  62472560,
-                      "sha256":  "269F16C6777F1B1062F6EC243C09C4BADCD9CCC6A2334F79E7FFA273D6195BA3"
+                      "size":  62473072,
+                      "sha256":  "A6D99CB284D0FC907E22F14BFA45FB019AD55648B7149A8C390FEB0B364F99A8"
                   },
                   {
                       "path":  "game/KofRoomBridge.pdb",
-                      "size":  16256,
-                      "sha256":  "747CD9BBDACF4B1434D8832087E4D1FA8B4EC422B407793B0711E50DB7D87002"
+                      "size":  16276,
+                      "sha256":  "F41C1892419543A5EE3F34BF8DDAEEDF574D6E457F5BEA081F9770A5CDB9AC21"
                   },
                   {
                       "path":  "game/LICENSES.txt",
