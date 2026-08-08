@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.19",
-    "publishedAt":  "2026-08-08T00:54:59.2930263Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.19/KofAndrew-Client-v1.0.19.zip",
-    "packageSha256":  "396E1D9411C46B7BD8888C3162983050D546791163F7875CE0BF3CEE206EC2A6",
+    "version":  "1.0.20",
+    "publishedAt":  "2026-08-08T01:33:44.3283410Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.20/KofAndrew-Client-v1.0.20.zip",
+    "packageSha256":  "72CB0BC28C803B5A4D5A3E026F853584B41E3AB015D447EAA4017F4C0FA3A0C1",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -66,8 +66,8 @@
                   },
                   {
                       "path":  "game/KofRoomBridge.exe",
-                      "size":  62458736,
-                      "sha256":  "D3951ECD25812882CCE2E98BA173D63553A510CA3D0A9A215B0A8E221DC3D0BD"
+                      "size":  62471024,
+                      "sha256":  "E857849B54B482594C258420D86BA679D3A83372C0104ADA709AD46EF0087E5D"
                   },
                   {
                       "path":  "game/LICENSES.txt",
@@ -9441,8 +9441,8 @@
                   },
                   {
                       "path":  "game/external/script/main.lua",
-                      "size":  147028,
-                      "sha256":  "8002A018A45911309BED99C9719A228417CAA330DCC81430B57AAEE0AA5A847D"
+                      "size":  147462,
+                      "sha256":  "AB5C87A84C7277EDD591793FF77F76C805553F9506F3C892A0DB8A8F8965C37B"
                   },
                   {
                       "path":  "game/external/script/menu.lua",
