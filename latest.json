@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.22",
-    "publishedAt":  "2026-08-08T03:01:30.8060542Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.22/KofAndrew-Client-v1.0.22.zip",
-    "packageSha256":  "5DFAABA04CAC0CE1A0C4BB39B9DF9EC2541C479B8E04CCBE3886001DCAFD1CD0",
+    "version":  "1.0.23",
+    "publishedAt":  "2026-08-08T03:40:17.0984734Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.23/KofAndrew-Client-v1.0.23.zip",
+    "packageSha256":  "99A731B6285A0DD24E86A81B820994AE7889C7DEB57F50062D6AC17DF2FF8A9E",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -66,8 +66,8 @@
                   },
                   {
                       "path":  "game/KofRoomBridge.exe",
-                      "size":  62471536,
-                      "sha256":  "08D362195665B5D3C1991CEA3593B4B4414F9C38E63AC9D8C0DD03457F8C4A99"
+                      "size":  62472560,
+                      "sha256":  "269F16C6777F1B1062F6EC243C09C4BADCD9CCC6A2334F79E7FFA273D6195BA3"
                   },
                   {
                       "path":  "game/LICENSES.txt",
@@ -12901,8 +12901,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  70928,
-                      "sha256":  "CEF3B129C4263D71AADC4BCBF9EB1136B56B5352AD19E1B608CA9C66383C1AF3"
+                      "size":  70963,
+                      "sha256":  "7A884746170EFD1006FC8C817CE3E23B4FA334A261EBAAD83FD70A45EA0061A4"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
@@ -13156,8 +13156,8 @@
                   },
                   {
                       "path":  "game/external/script/main.lua",
-                      "size":  147456,
-                      "sha256":  "40721D75031C3915E02BF9D0FAB15F29C5404CC91564FA41F1A6022F66E0C033"
+                      "size":  149090,
+                      "sha256":  "158E2FE85B9E6F0BCC872144D6AE721FC3E0BCB4D7D5D05D6D1D0230F7346FB4"
                   },
                   {
                       "path":  "game/external/script/menu.lua",
