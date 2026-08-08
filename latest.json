@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.23",
-    "publishedAt":  "2026-08-08T03:40:17.0984734Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.23/KofAndrew-Client-v1.0.23.zip",
-    "packageSha256":  "99A731B6285A0DD24E86A81B820994AE7889C7DEB57F50062D6AC17DF2FF8A9E",
+    "version":  "1.0.24",
+    "publishedAt":  "2026-08-08T12:50:04.5456167Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.24/KofAndrew-Client-v1.0.24.zip",
+    "packageSha256":  "6712997F5CEC5614DDE809026BF2906EDA78B23F897A9C976006A0882FDA776D",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "KOF Online.dll",
-                      "size":  3869696,
-                      "sha256":  "2DD18E68D94859D3E8C7587D0BBEFE96BE98C3F0B2F049DAF9F86CDB7AE4F0EA"
+                      "size":  3899392,
+                      "sha256":  "EE1A0D804DB632CAEE362E3F52B740341F1D2E6985725A59214F1746F85EAA94"
                   },
                   {
                       "path":  "KOF Online.exe",
@@ -26,8 +26,8 @@
                   },
                   {
                       "path":  "KOF Online.pdb",
-                      "size":  19900,
-                      "sha256":  "CBFCB4F8FD9F1A2211F175FC943D851D1E08F1BFBC58B3DEE57548AA9AB46620"
+                      "size":  23968,
+                      "sha256":  "ECA66CBA8E906E3E9FA8FA7C614A5A5E6B6E06FF97A5E36FC3D560DD924289AD"
                   },
                   {
                       "path":  "KOF Online.runtimeconfig.json",
@@ -68,6 +68,11 @@
                       "path":  "game/KofRoomBridge.exe",
                       "size":  62472560,
                       "sha256":  "269F16C6777F1B1062F6EC243C09C4BADCD9CCC6A2334F79E7FFA273D6195BA3"
+                  },
+                  {
+                      "path":  "game/KofRoomBridge.pdb",
+                      "size":  16256,
+                      "sha256":  "747CD9BBDACF4B1434D8832087E4D1FA8B4EC422B407793B0711E50DB7D87002"
                   },
                   {
                       "path":  "game/LICENSES.txt",
@@ -12901,8 +12906,8 @@
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  70963,
-                      "sha256":  "7A884746170EFD1006FC8C817CE3E23B4FA334A261EBAAD83FD70A45EA0061A4"
+                      "size":  70956,
+                      "sha256":  "BA1C78CCD2432C0C296A0F89594B95E52DD5645B78286B2B9CB4F38C20C5FC8B"
                   },
                   {
                       "path":  "game/data/ikemen1/system.sff",
@@ -13156,8 +13161,8 @@
                   },
                   {
                       "path":  "game/external/script/main.lua",
-                      "size":  149090,
-                      "sha256":  "158E2FE85B9E6F0BCC872144D6AE721FC3E0BCB4D7D5D05D6D1D0230F7346FB4"
+                      "size":  149162,
+                      "sha256":  "D033C56F413231DEB94004CA456F2C139252B056143322A613D71AD384DB0E1E"
                   },
                   {
                       "path":  "game/external/script/menu.lua",
