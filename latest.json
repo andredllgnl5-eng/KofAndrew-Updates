@@ -1,8 +1,8 @@
 {
     "version":  "1.0.35",
-    "publishedAt":  "2026-08-09T18:53:32.5151180Z",
+    "publishedAt":  "2026-08-09T18:55:10.2506851Z",
     "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.35/KofAndrew-Client-v1.0.35.zip",
-    "packageSha256":  "4939D8F9697C705E63E110570256B163F7F787CCF584113A2AB3A010DE90F447",
+    "packageSha256":  "A553A4F2BE1223C1FD03BF02BEDF37751D373F925D1BB6C2CCDF91531F0328F6",
     "files":  [
                   {
                       "path":  "D3DCompiler_47_cor3.dll",
@@ -103,6 +103,11 @@
                       "path":  "game/external/script/start.lua",
                       "size":  163424,
                       "sha256":  "164EEC3BFE6C1E423D9F509B1B176C5CD85DA2190BF36F079916E5A1FDFC13D6"
+                  },
+                  {
+                      "path":  "game/save/config.ini",
+                      "size":  20365,
+                      "sha256":  "679ABF2A479B9B399E8DB10544F3A0C12BC9B64046F0C94F8AFDB2CDD5241877"
                   }
               ]
 }
