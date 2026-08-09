@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.30",
-    "publishedAt":  "2026-08-09T01:48:44.9948071Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.30/KofAndrew-Client-v1.0.30.zip",
-    "packageSha256":  "063ED44A266AB43CD652A4D941E85DDDDF345081AF48D6FF6C6E3474DB1019BC",
+    "version":  "1.0.31",
+    "publishedAt":  "2026-08-09T03:53:04.5188738Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.31/KofAndrew-Client-v1.0.31.zip",
+    "packageSha256":  "E655658458937A64F61B2F46630944492FD50C2A37875D4367CB3BC58FCE5315",
     "files":  [
                   {
                       "path":  "game/chars/AndrewPack_v1030/130831_Eri_Hasumi/Eri_Hasumi/config.txt",
@@ -676,23 +676,23 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/akira-ogake-kofa/akira-ogake-kofa/extras.st",
-                      "size":  55922,
-                      "sha256":  "BB81959F492D878F23ED81996ABE246A35A33F5030248807C2AFA87A48C2BF88"
+                      "size":  55920,
+                      "sha256":  "74463F1817CA6C585E7DFC092FF59F4CA6945F2093D576AC2346BD2E1AEA22A3"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/akira-ogake-kofa/akira-ogake-kofa/hypers.st",
-                      "size":  101151,
-                      "sha256":  "C7837544CADF2A23E82E5CEF2173AE759697275E15D1EFBAF7F36933AB7F2C62"
+                      "size":  101150,
+                      "sha256":  "1AC44A230698B19442F44E113A8A05B6A96FBF495FD7974ACD1AE61F12EA30A5"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/akira-ogake-kofa/akira-ogake-kofa/normal.st",
                       "size":  26942,
-                      "sha256":  "122D6BDBAC81DE3CC5EB8E930E78154741CA844E1C4973E6685DF3F91166D1CD"
+                      "sha256":  "7EA822A6407794D77ABCDEE8B24EEE32261AF6BEB5457B62C767CCC1223BA6AA"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/akira-ogake-kofa/akira-ogake-kofa/supers.st",
                       "size":  96664,
-                      "sha256":  "8EFE10768A6D829134567C065B05F1ED8274EF890E66F1706064EB1E6C12144A"
+                      "sha256":  "2C22BAB7BFEC6FEF1267809CDD0932916A3D3FF33008C3172576F5D0A5F33A6C"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/alice-nakata-kofa/alice-nakata-kofa/alice-nakata-kofa.def",
@@ -772,12 +772,12 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-H.cns",
                       "size":  29390,
-                      "sha256":  "591D24BD59B525848BAC2D2A3FD8AA58951C799C141D6BBB9B48790C6A003FAD"
+                      "sha256":  "751C2F33792F78CF2DC54051166F72110550435B1E56164F9B11580A19FFB316"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-MAX.cns",
                       "size":  26041,
-                      "sha256":  "9D366BF5B5DC5B325E9D4FAB9AD61937B5D52E6CD293358B3AAAA8EB2926F129"
+                      "sha256":  "A4F980C5D5AA5CC1C314AC7FEBE5B803DB28F7EBE757AF2CC0DE74692484B6B8"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-MAX2.cns",
@@ -797,7 +797,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-S.cns",
                       "size":  38893,
-                      "sha256":  "119AEFACA9FC10257A4CE2930094008077ECB43CF67C7DA129A45195AD41DF3A"
+                      "sha256":  "4ADF24B2AF381F0934A38C466E9F55186E190EAE0C7D5345E5A05DE5F206C3BA"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/aru.air",
@@ -901,8 +901,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/anonym-kofaUM/anonym-kofaUM/Anonym-H.cns",
-                      "size":  64192,
-                      "sha256":  "8A951EE428F2B3293F86903282991788FAA4BF5C538506D30F2DEF17910FD7A2"
+                      "size":  64180,
+                      "sha256":  "2A0242009B4465B8F67EBB7CC5DDF13BA9FC9931DE79FB68A57C01A42FE767DE"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/anonym-kofaUM/anonym-kofaUM/anonym-kofaUM.def",
@@ -912,12 +912,12 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/anonym-kofaUM/anonym-kofaUM/Anonym-KOSEI.cns",
                       "size":  20803,
-                      "sha256":  "2E84858B3BBF4459F68FA1694F6398BB9DE13A98A971975469983E9FE2D36222"
+                      "sha256":  "7FAEECB7A43CA912080365622D97D9EEDDB9BA58D57E828889C126FD28D4CAC9"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/anonym-kofaUM/anonym-kofaUM/Anonym-N.cns",
                       "size":  75828,
-                      "sha256":  "E308B2956FCD08DDAEC9ED725AD0FBAB27C3FC830A9EC2BA5A4AC7B917CD852D"
+                      "sha256":  "D15F2BF0E82ACE0663E7977EF2D9B66EB9EB69FD8EA70C22AD749FE6A94CDB7B"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/anonym-kofaUM/anonym-kofaUM/Anonym-P.cns",
@@ -1562,7 +1562,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/choi-kofa/choi-kofa/Choi-H.cns",
                       "size":  79932,
-                      "sha256":  "C97DC93DB8A55E1D50BE985B12EFDA8AC2341A0117F58C545C0B00596B57FA0B"
+                      "sha256":  "E8CE4D447CFB7F4EAF5F33DAA1782D88D0C69674DEEF66F7725B8DC5A39622E1"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/choi-kofa/choi-kofa/choi-kofa.def",
@@ -1571,8 +1571,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/choi-kofa/choi-kofa/Choi-N.cns",
-                      "size":  83060,
-                      "sha256":  "13F587C0442A482099CE2B661DB734B45E7782A03CA43CA142D5A55ECFBC1C08"
+                      "size":  83062,
+                      "sha256":  "9F238E5C9E5940420151CF4F149D324A79B6660DFB6D1EA305B17CB0C431955E"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/choi-kofa/choi-kofa/Choi-S.cns",
@@ -2116,8 +2116,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/eater-of-souls-kofa/eater-of-souls-kofa/cns/Exile-KOFM(Dark).cns",
-                      "size":  526062,
-                      "sha256":  "CC37E5131711272C3574356AF8E79EE8F5DAB7A1AC0B1D7F488FAE35B916C51A"
+                      "size":  526061,
+                      "sha256":  "39E67BEC6E099FD051E33584DAA73DAD8309C8D6BB6D0E080225E8AF820AC870"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/eater-of-souls-kofa/eater-of-souls-kofa/cns/Exile-KOFM.cmd",
@@ -2372,7 +2372,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/gustabson-kofa/gustabson-kofa/Gustabson.cns",
                       "size":  51608,
-                      "sha256":  "D48E29C2FFC917AEB94F21724EE1F6D66E7F5AEFB2C513EAE6E9384EDE3558D0"
+                      "sha256":  "4BAC36412C14C40B94E16F60161AB12702D616DDA988CC64AE28F33E38E26DD2"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/gustabson-kofa/gustabson-kofa/Gustabson.sff",
@@ -2387,17 +2387,17 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/gustabson-kofa/gustabson-kofa/GustabsonHelpers.cns",
                       "size":  9221,
-                      "sha256":  "BC8B3F132E122063BBB129649111ABE779A6849047C8747E0A42DAA550AD0A36"
+                      "sha256":  "AAEBAD547B0E04B06F27270D7B1AFD82300E9EA61DE130865990244E03187CC8"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/gustabson-kofa/gustabson-kofa/GustabsonHypers.cns",
                       "size":  57806,
-                      "sha256":  "391E1EBB228DE97E81104CB6A975C5305008C99E80F720FE813075299CD58467"
+                      "sha256":  "7A0181202FBC33CC5CEC180F8AFD6E4D9234A17BD61212AB7837F6166B629EDF"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/gustabson-kofa/gustabson-kofa/GustabsonSpecials.cns",
                       "size":  42259,
-                      "sha256":  "31FB8AB6CBC18B6E2A388BDC4EF9F626DDEA5A6449E0A92089CE5C04B7AAC860"
+                      "sha256":  "F41C2D25181349AD62825E4223299753335FCEA5C73788CCB61A39F6E04FE170"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/heraclius-kofa/heraclius-kofa/common1.cns",
@@ -2422,7 +2422,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/heraclius-kofa/heraclius-kofa/Heraclius-H.cns",
                       "size":  35178,
-                      "sha256":  "66FE1C13C163ADA9036C5456F7F33E6C6AB239AE9144491BC3B3D962FB62F7B2"
+                      "sha256":  "DA3E7BC8837134546193A315A4618E159DBF6FFBC946C296057CF2FB75A7C0D7"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/heraclius-kofa/heraclius-kofa/heraclius-kofa.def",
@@ -2431,13 +2431,13 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/heraclius-kofa/heraclius-kofa/Heraclius-N.cns",
-                      "size":  66124,
-                      "sha256":  "C145157BF98ED55A3002CB0F565A4E57FEAE910FB81397FA1B916F85870FD79E"
+                      "size":  66121,
+                      "sha256":  "23D1222E5BF15A44630C43B2B9DBF4C7DCB56849934F002157A27A508496DCEB"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/heraclius-kofa/heraclius-kofa/Heraclius-S.cns",
-                      "size":  58685,
-                      "sha256":  "E0CABCB638F40678F269891E0B0FC3B707E9EC4648C35C7D87EBD4691DF407A7"
+                      "size":  58682,
+                      "sha256":  "E00DF5042F94759CB3DB0A58D4791F7A55A60587075A5A7E2E7B6E492E841E1B"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/heraclius-kofa/heraclius-kofa/Heraclius.air",
@@ -2801,8 +2801,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Ikoku_No_Tyousakann/Ikoku No Tyousakann/kfm.cns",
-                      "size":  122973,
-                      "sha256":  "E1660457568471B5C321CE04F346FCA80D37FA27A3F36A7410684D58905F71E8"
+                      "size":  122972,
+                      "sha256":  "52E14DD29BA59057C0B5C05413778DD86657375FDAA99E7AA17164024AE2D707"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Ikoku_No_Tyousakann/Ikoku No Tyousakann/kfm.sff",
@@ -2937,7 +2937,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/jun-lee-kofa/jun-lee-kofa/hypers.st",
                       "size":  76347,
-                      "sha256":  "95550A412BCCD008159856162081D352DEA804E029D5F5C0358B19B6E6C69818"
+                      "sha256":  "51951A63D23F9025794309097E3499754E1FAE371EFFD24F0D964A933C0C646F"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/jun-lee-kofa/jun-lee-kofa/jun-lee-kofa.def",
@@ -3056,18 +3056,18 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Junko_OP_and_Normal_XD_Made_b/Junko (OP and Normal XD)(Made by Mugenki02)/Junko (Pre-to)/Junko_A.cns",
-                      "size":  8576,
-                      "sha256":  "060714E7685ED840C39F1C0F902487C63E66E8ED91806B248E5CB8C08470A465"
+                      "size":  8575,
+                      "sha256":  "984D34122691911DBDC86601488634D2105CDC925FA3487445A5B7FB7A820428"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Junko_OP_and_Normal_XD_Made_b/Junko (OP and Normal XD)(Made by Mugenki02)/Junko (Pre-to)/Junko_H.cns",
-                      "size":  24640,
-                      "sha256":  "0410B7D7884AA4B950AA4CE14317B2A1A6204E62C7FBD29A337FC058B85567F8"
+                      "size":  24639,
+                      "sha256":  "EAA4BB7070E1CC7C5F60D9BC4E2E97295DFD859B8994AE4E655E544E4D5AA677"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Junko_OP_and_Normal_XD_Made_b/Junko (OP and Normal XD)(Made by Mugenki02)/Junko (Pre-to)/Junko_HL.cns",
-                      "size":  89254,
-                      "sha256":  "F0025538E16A2AEF3B9BC0A41425344DAA634F087C901FC2BAD79E0E9FCD6D35"
+                      "size":  89250,
+                      "sha256":  "CD24F935479A0863BBCC6B34D78F8C821A5DB128A71A96435D59DCA170699FDB"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Junko_OP_and_Normal_XD_Made_b/Junko (OP and Normal XD)(Made by Mugenki02)/Junko (Pre-to)/Junko_I.cns",
@@ -3081,8 +3081,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Junko_OP_and_Normal_XD_Made_b/Junko (OP and Normal XD)(Made by Mugenki02)/Junko (Pre-to)/Junko_S.cns",
-                      "size":  54035,
-                      "sha256":  "E14625BA8E846792D68976C82261BEC4875A62B34E80949E7F55CD23906C28BB"
+                      "size":  54030,
+                      "sha256":  "9832DBE771384CB0393646372B016D48D8642413E37168C3DA48621CD6AF5CD4"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Junko_OP_and_Normal_XD_Made_b/Junko (OP and Normal XD)(Made by Mugenki02)/Junko (Pre-to)/Junko_T.cns",
@@ -3287,7 +3287,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/keith-wayne-kofa/keith-wayne-kofa/keith.cns",
                       "size":  114658,
-                      "sha256":  "34F4CB35ADB96FF00AC73D1647BCA4B5766EFD0E9D2AFDE821B29A482F998D39"
+                      "sha256":  "8C41CD63E26999E65F67ADF775A05E5A20DA69748D2F5CCEDC8BF7598FC7D0E3"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/keith-wayne-kofa/keith-wayne-kofa/keith.sff",
@@ -3532,7 +3532,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/kira-sky-kofa/kira-sky-kofa/KS-S.cns",
                       "size":  26967,
-                      "sha256":  "3EA23A84CA3D707023D020D188221141E09CE25B910E1B3BFD41242A88600DE1"
+                      "sha256":  "084325E51E288DA3B547E70F9B5AEB2FAC2E64D8782DE4ECD031985F1C68D552"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/kira-sky-kofa/kira-sky-kofa/KS.air",
@@ -3547,7 +3547,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/kira-sky-kofa/kira-sky-kofa/KS.cns",
                       "size":  34555,
-                      "sha256":  "E21E5F481F1D853E73C9E419A5E1163AE14B5CA5B257B02EF37C124BB7F13FA5"
+                      "sha256":  "B404F5523BFE831FB0F76B1DEB49BDCD9D243360F08C2D0428001100D21B274C"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/kira-sky-kofa/kira-sky-kofa/KS.sff",
@@ -3656,8 +3656,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Kiriccelerator/Kiriccelerator/kyoko.cns",
-                      "size":  110975,
-                      "sha256":  "90A215586C04519D21ACB5625562FA640E5195F9EC9ED2539ABAC7B7458B9884"
+                      "size":  110976,
+                      "sha256":  "E7318D48B58ED3DE29DF84812041CAA6AE98E6A85440AA6B290B8B93FD2A031D"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Kiriccelerator/Kiriccelerator/kyoko.sff",
@@ -5057,7 +5057,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/mono-kofa/mono-kofa/cns/Mono_Freaks-H.cns",
                       "size":  52559,
-                      "sha256":  "979821E9C9BFD1CA71DCB82A2BE47C9C22B5F81B769AA693F474B1B74D8E1608"
+                      "sha256":  "9CBD14337D52B8B1F9AB317B89C8DEE8E837718E4F04BD1C518E2AE95DFB8C6E"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/mono-kofa/mono-kofa/cns/Mono_Freaks-Helper.cns",
@@ -5352,7 +5352,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/orochi-kyoko-kofa/orochi-kyoko-kofa/kyoko_typeY-S.cns",
                       "size":  45450,
-                      "sha256":  "F3BEF9B15E371988B63C7B612EF65E7FE91CE543D456D43020EE2D7443FC322E"
+                      "sha256":  "70F1DA6C67E0985ABE94509200ECE8A26384AA481A7C21CD929F0E6AA6EB657B"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/orochi-kyoko-kofa/orochi-kyoko-kofa/kyoko_typeY.air",
@@ -5516,13 +5516,13 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/poison-kofa/poison-kofa/poison_Skill.cns",
-                      "size":  102409,
-                      "sha256":  "B89B1699429E1A87A0B0086D58CF5AE3884C033D707010B84053DE637E6087F7"
+                      "size":  102408,
+                      "sha256":  "970E6FA54DC1B125005C5A5A3168D2D74B4535FD2F7A46F645A648D750AF3C06"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/poison-kofa/poison-kofa/poison_Special.cns",
-                      "size":  50077,
-                      "sha256":  "0749E9CFE4672AD7E3C8996F5D6C213E0FA062D6B7BE5EF82F2004EB4439D98A"
+                      "size":  50071,
+                      "sha256":  "13273D1079B4258C1224338A22BB6C4B3D14FC3B88DE8A9439F0949FD1C3B470"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/pretty_clone-zero-kofa/pretty clone-zero-kofa/-2.st",
@@ -6427,12 +6427,12 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/shintaro-kofa/shintaro-kofa/Shintaro-H.cns",
                       "size":  25271,
-                      "sha256":  "1AA8C98F961709F77C2D760ED4BD71E28ECF7E018FB8149DF839E0247C73F6CF"
+                      "sha256":  "7168D13D3DD1A7D5F791A25CCDD5134859C51565E93375C51949CED831D9A331"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/shintaro-kofa/shintaro-kofa/Shintaro-N.cns",
-                      "size":  49836,
-                      "sha256":  "2A1D50F2366606B4BEBA258583344997BB8C9DCDAABE233261649DA74316FE5F"
+                      "size":  49838,
+                      "sha256":  "B74A95D7C0320EBFFDDF7FA047CDB6C94E0AD5E081D4F5DB2A161E075C111B86"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/shintaro-kofa/shintaro-kofa/Shintaro-P.cns",
@@ -6447,7 +6447,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/shintaro-kofa/shintaro-kofa/Shintaro-S.cns",
                       "size":  37667,
-                      "sha256":  "223BFBDFB8AAC16F37107AF598F178A1FD6C15850DCC4F1F9569636EFC7E3072"
+                      "sha256":  "AFD985522182B45A653493101E118612B711D03162C1B683CB91F5D8645DFE22"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/shintaro-kofa/shintaro-kofa/Shintaro.air",
@@ -6516,8 +6516,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/shizumaru-kofa/shizumaru-kofa/shizumaru.cns",
-                      "size":  280834,
-                      "sha256":  "095F659FA2A5100ADD649C6E5B27B077637C4B6A8CE4DA4D14C5368F23EFAA5A"
+                      "size":  280837,
+                      "sha256":  "60C9A4405012C2510DC44CE9C3EC58B28C064D7DB4AF02F9241DF576E30B7627"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/shizumaru-kofa/shizumaru-kofa/shizumaru.sff",
@@ -6626,18 +6626,18 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/sylvie-paula-paula-kofa/sylvie-paula-paula-kofa/sylvi-paula-paula-H.cns",
-                      "size":  41751,
-                      "sha256":  "87520932A3D6D3FEDB9BC59DE5005052B3D384AD1B92E4AFB3CCD2A4DE255B91"
+                      "size":  41752,
+                      "sha256":  "DAA1AC0AD79084F34BD9347DEB9919E34ACAEB102F85E9B6F3488B85553F61B3"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/sylvie-paula-paula-kofa/sylvie-paula-paula-kofa/sylvi-paula-paula-N.cns",
                       "size":  45231,
-                      "sha256":  "4632FABFD5F3EE17F7B09715832C832DF42D3F6C508806CD9955313462FD8024"
+                      "sha256":  "6C9FCC6726D51734A11EBB4AF8B045F79CCBDB19EE8C1914C109B6C571208BE3"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/sylvie-paula-paula-kofa/sylvie-paula-paula-kofa/sylvi-paula-paula-S.cns",
-                      "size":  46097,
-                      "sha256":  "9775018DDCB52A0664A60472AE808564FBE6A70B2C383E1E771CD1EBAA22E761"
+                      "size":  46099,
+                      "sha256":  "36769260726201D24328C551B0C8051CAD38716551475CB8A97E3F0FB34924F0"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/sylvie-paula-paula-kofa/sylvie-paula-paula-kofa/sylvi-paula-paula.air",
@@ -6651,8 +6651,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/sylvie-paula-paula-kofa/sylvie-paula-paula-kofa/sylvi-paula-paula.cns",
-                      "size":  40219,
-                      "sha256":  "F23379A2C022E67B973FEA58D9ACCFD1282521D1355221A251B39FA8CEFDCA92"
+                      "size":  40220,
+                      "sha256":  "9BFCF1CE51014703BF6E2AC0BE1216C1E2CA4F98FF99C220BD5B6D584C8B3E11"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/sylvie-paula-paula-kofa/sylvie-paula-paula-kofa/sylvi-paula-paula.sff",
@@ -6776,8 +6776,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/tamao/tamao/tamao.cns",
-                      "size":  19523,
-                      "sha256":  "327418067244777C2F0D0957DA8DCB022EEC19C637CACDDD626780A5A770944C"
+                      "size":  19530,
+                      "sha256":  "81604191B98BBA4BFD3F4D3AC6B9658C09DB2D9ECAA4476C1345B0636AACA7C4"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/tamao/tamao/tamao.def",
@@ -6796,13 +6796,13 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/tamao/tamao/tamao_2.cns",
-                      "size":  14578,
-                      "sha256":  "0FC1209BFE7162BC268BE3B082DBB72B484A61C508B64DD694CAF821F18DD527"
+                      "size":  14581,
+                      "sha256":  "9194E5B2DD5C9E18C1BCBD73468FD309B57E5DAB463836F80D0B45BF58D16BF3"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/tamao/tamao/tamao_3.cns",
-                      "size":  21290,
-                      "sha256":  "6985C6672E8964DF77B96B9BAE635444406BE9F18B0B3DB4004E110A3BF1E860"
+                      "size":  21291,
+                      "sha256":  "318CB90FAB1F8FCD52EA51336E22EBCE2F9BB12DBC847C4315B17A837B4F6BD8"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/tamao/tamao/tamao_n.cns",
@@ -7317,7 +7317,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/willow-slc2/willow-slc2/Cns/Willow Helpers.cns",
                       "size":  61034,
-                      "sha256":  "837FE6591BE6D0C743602098C16EA66FE6D1DA576C7C940598BBF4CF9502BDA3"
+                      "sha256":  "38A23699CB318FD8D847C6E1496A1D07490BC1FDE3A72C91DD063651E253ECDF"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/willow-slc2/willow-slc2/Cns/Willow-Basic.cns",
@@ -7327,17 +7327,17 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/willow-slc2/willow-slc2/Cns/Willow-H.cns",
                       "size":  56168,
-                      "sha256":  "0C7B7C27D1622B6C03A568AD47D08B231EF69F615C7EC676CEC155031858C477"
+                      "sha256":  "FB8DE9F7E318276A3E110CB8FF17162F15C906B15F6957AF68FA6FBB94A6F1E1"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/willow-slc2/willow-slc2/Cns/Willow-N.cns",
                       "size":  38463,
-                      "sha256":  "E43A76F1DC2DB5D957AF563433804415528996BC7D66F2C176ACD87A639BFACE"
+                      "sha256":  "7621CBBAA37D7C5A885B5AD42B88673CE5A7AC2ED56B82EA277A657888E2D359"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/willow-slc2/willow-slc2/Cns/Willow-S.cns",
-                      "size":  31043,
-                      "sha256":  "7C28D94F3A521CB0DFCC76ABF1C0A69C432AE20A69D3521620E3138E0F120937"
+                      "size":  31044,
+                      "sha256":  "A029A3BABC5E1690303285EF101844AFDA68955D88CC6BA8719B884F0E95049B"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/willow-slc2/willow-slc2/Cns/Willow.cns",
@@ -7812,7 +7812,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/yuko-kofa/yuko-kofa/yuko-s.cns",
                       "size":  17645,
-                      "sha256":  "3A39B703DDB0E7655314E234EB997F2D461E575F620DDA7C6BA73A26CBC53336"
+                      "sha256":  "2D5359A4D977835B5C10DA76E6318486F09824A0431C30F960E8E4200F3C31FC"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/yuko-kofa/yuko-kofa/yuko.act",
@@ -7851,8 +7851,8 @@
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/yuko-kofa/yuko-kofa/yuko1.cns",
-                      "size":  34475,
-                      "sha256":  "92A571F6D499281885CB42942ABAAF73708DEA8816B432AC9D72A6E2118BEEBC"
+                      "size":  34473,
+                      "sha256":  "06C1AB6D0DDFB899140A25AAF3E81EE1D47F5BE226065E0A74A5F62C02126B7F"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/yuko-kofa/yuko-kofa/yuko2.act",
@@ -7952,7 +7952,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/YuuYuu_Mayumi/YuuYuu_Mayumi/YuuYuu_Mayumi.cns",
                       "size":  42361,
-                      "sha256":  "BFD3E2E7B06B532DB07ED053D1BCC4D5FF12B379BA78081C7DCAB874FCE75A0A"
+                      "sha256":  "3E8115DC7A21FC15E171EBD22644107E3C6A53C3260D95FA8137A9ACEDC7F79B"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/YuuYuu_Mayumi/YuuYuu_Mayumi/YuuYuu_Mayumi.def",
@@ -8042,7 +8042,7 @@
                   {
                       "path":  "game/chars/AndrewPack_v1030/Zein_Dael/Zein_Dael/Zein_Dael.cns",
                       "size":  200701,
-                      "sha256":  "7C31F29E33C1C47CBF4E4B624079B9983E325B237C72D6F86ACCE852B68C38A3"
+                      "sha256":  "243F5D26779ACC2F1A667F627D955FB50B9F10086E1DE28A83E8F117AB1086B9"
                   },
                   {
                       "path":  "game/chars/AndrewPack_v1030/Zein_Dael/Zein_Dael/Zein_Dael.def",
@@ -8062,682 +8062,1742 @@
                   {
                       "path":  "game/chars/Athena-AR/Athena-AR/Athena-H.cns",
                       "size":  135902,
-                      "sha256":  "7AE7C5819C3E2A94D0A316365D800FF78EA32F5F3627105F3F865DA92E414891"
+                      "sha256":  "2969A04C697788D502C98460A40B789BD76D7CD6ECC84208A3AF255602445D33"
                   },
                   {
                       "path":  "game/chars/Athena-AR/Athena-AR/Athena-N.cns",
-                      "size":  72664,
-                      "sha256":  "E6DADF90157C729A1A0AD0E8DBCBAACB083322A83BD70BAE02F05D3927A6286E"
+                      "size":  72650,
+                      "sha256":  "A02FCA26C9B702E3279EB809BDA715552C19E2A318A7ABA5F48DB39643656265"
                   },
                   {
                       "path":  "game/chars/Athena-AR/Athena-AR/Athena-S.cns",
-                      "size":  77200,
-                      "sha256":  "015A0E0F7F7660E817450B88FA9271BEF71A99D56AEA1E05F71A88905BF588E5"
+                      "size":  77192,
+                      "sha256":  "15FCAC617EE9212BDC2C41C17F7A2227B95A5263250CE7EBF93136F207D8062B"
                   },
                   {
                       "path":  "game/chars/A_OrochiIORI/A_OrochiIORI/Attacks.cns",
-                      "size":  234864,
-                      "sha256":  "252E559AA47A5A11313406F73DAA0C39869A9A636FFB0CCF3F9B867AFEBA83C2"
+                      "size":  234868,
+                      "sha256":  "58BAA9E1B6985D12646252C8407F6280E44E1322DA4B703A69151F2783461E06"
                   },
                   {
                       "path":  "game/chars/BossRugalGod1_2/BossRugalGod1_2/baseSkill.cns",
-                      "size":  548568,
-                      "sha256":  "C12EF760DC7D035416496E7F1F1FB714E0091AF6139D67D0774C0419526AEFDE"
+                      "size":  548567,
+                      "sha256":  "E33CDF7C014F2A690F5C7FC6535B4B946E5B1458B8E75855D48E3CD84719465D"
                   },
                   {
                       "path":  "game/chars/BossRugalGod1_2/BossRugalGod1_2/helper.cns",
-                      "size":  224015,
-                      "sha256":  "E1EFD752A2451CFC8ABEEA47F4D4671C77500DC86D2EB75883F93F2F361EF4B5"
+                      "size":  224010,
+                      "sha256":  "E4FBB485357FF186FEF268EED8FF6DD48F71C051AF8B5FF10D3041B5D7C695DD"
                   },
                   {
                       "path":  "game/chars/BossRugalGod1_2/BossRugalGod1_2/jisi.cns",
-                      "size":  868547,
-                      "sha256":  "958FB8CA131918A4289456DDCBCB5C39576EDDA765735C6465F3BB265A43D669"
+                      "size":  868535,
+                      "sha256":  "E2084F3FCC0F78A32522D9961A2054AE176A07172020BE1A018D49E65CA81DB4"
                   },
                   {
                       "path":  "game/chars/BossRugalGod1_2/BossRugalGod1_2/Rugal-KOFM-N.cns",
                       "size":  85409,
-                      "sha256":  "9E26744801872EDA5D269613D6CD3B1351395DE1487D25984293CD4B4AE8C68A"
+                      "sha256":  "A4F4C9B7249496294E36580705C66622D489A69B5E7A716E48369EB2DB8F3364"
                   },
                   {
                       "path":  "game/chars/BossRugalGod1_2/BossRugalGod1_2/Rugal-KOFM-S.cns",
-                      "size":  263039,
-                      "sha256":  "F3BD1CF9E4B48DD76B565355E70A64D29FB297A0878E71C363CD4064F24082B5"
+                      "size":  263035,
+                      "sha256":  "2B398E752CE4F46680426905B55FE18B0CF5832116F1E796760919F2F5DE9FDC"
                   },
                   {
                       "path":  "game/chars/Chizuru_Kagura/Chizuru_XI/Chizuru-H.cns",
                       "size":  43743,
-                      "sha256":  "6DDE322AF832C2D653DF5E98C14275FB7A726EEC2E622975C013FA72F554600D"
+                      "sha256":  "1B85DC975E594D3681500CD4A19C51CDB7690449FACB5BE070E55202D16494BF"
                   },
                   {
                       "path":  "game/chars/Chizuru_Kagura/Chizuru_XI/Chizuru-N.cns",
-                      "size":  39839,
-                      "sha256":  "8B8D5CECA2EDBD0514C21B9EE41CE25F407F128EDA39444C59F997099D9CFC8C"
+                      "size":  39828,
+                      "sha256":  "159C926F59C407B9BFD34758DF5FD81B4983161C3EF5383A971316E4D1F38BD3"
                   },
                   {
                       "path":  "game/chars/Chizuru_Kagura/Chizuru_XI/Chizuru-S.cns",
-                      "size":  51641,
-                      "sha256":  "F76A19256727EEAA430DBCCE4D51643D5EE9F2D4AA3EBA921BD8E8D93BBD59E2"
+                      "size":  51635,
+                      "sha256":  "43631AFEDB50DC43CD6D6ADFCBC865DCB64F609E45A0B1DA79865A8821293E79"
                   },
                   {
                       "path":  "game/chars/Chizuru_Kagura/Chizuru_XI/Chizuru.cns",
                       "size":  17236,
-                      "sha256":  "554CD6CE220E584C0429AE62AE0D429C0BA66CDD7D48CBA12E64234139FACAFD"
+                      "sha256":  "C137D0AEC8EBCA3A0FB1094DE6C09AD42AB5341E5A23E186E1987C8848F0B462"
                   },
                   {
                       "path":  "game/chars/Chris/chris-XI/chris.cns",
-                      "size":  234154,
-                      "sha256":  "E7F806CA71D7C940529C05397C4F809583154B0DD029ADB02839EC9B9A4CBF60"
+                      "size":  234141,
+                      "sha256":  "C2115DF93B12F23DC381871A5851AAB69FF518B6A6C272F80A44DAD37697344E"
                   },
                   {
                       "path":  "game/chars/Chris/chris-XI/chris1.cns",
                       "size":  9433,
-                      "sha256":  "2C8719651C01BB7E774B2BFAC435A681F54E6F5C21B487A847ADA2D83F7418C5"
+                      "sha256":  "2D88BC34D3881576CEBF95111629B2E9DB94B545FB4FA3AED8F3275F021AB320"
                   },
                   {
                       "path":  "game/chars/Classic_Kyoxiii/Classic_Kyoxiii/KyoXIII.cns",
-                      "size":  280155,
-                      "sha256":  "BBCB3CA2753A77AB9689B9D7C5BFDA2A34258C9AE86D1BE366BC5150EED7E78C"
+                      "size":  280154,
+                      "sha256":  "9D1099902CA8EAC86A28DEBBC0D309CDE80E22D15B0F9B9A406315F684460A9C"
                   },
                   {
                       "path":  "game/chars/Dark_Ash/Dark Ash/Dark Ash Ex.cns",
                       "size":  46006,
-                      "sha256":  "2C0015B63134741F1F1F9410472D0CBE3C5B1FA27FDDC8C527409AC191119D6C"
+                      "sha256":  "F011217743A422D56C0D54E98FD0999C6FFE128C21700B04EF17971FC27E9BF6"
                   },
                   {
                       "path":  "game/chars/Dark_Ash/Dark Ash/Dark Ash-H.cns",
                       "size":  119638,
-                      "sha256":  "DA0143F540853A583A4ACEB4953C488A706028C0074A3FCDA57468C23F8A9132"
+                      "sha256":  "8A8523FAC46FB2CE4CDE8AEC30E927F7AB2F24B32F067FCB757239F6CA9ADD9B"
                   },
                   {
                       "path":  "game/chars/Dark_Ash/Dark Ash/Dark Ash-N.cns",
                       "size":  63313,
-                      "sha256":  "E69E309A6C2CC936F8979DE0C7283F7C926C60D21C8CEE3B660A04447D7BB0D3"
+                      "sha256":  "A85EC85D257865EF54097C9CBA4018779279A04747B02ADB79F112F8366515AF"
                   },
                   {
                       "path":  "game/chars/Dark_Ash/Dark Ash/Dark Ash-S.cns",
                       "size":  63799,
-                      "sha256":  "26ECA038FC27B1B84BCA2A600E5F579A76771D9DDE6E565E0F8CC3955E611819"
+                      "sha256":  "3DA64C7FC21E71EC85F233FC081FF768C8340183906F19DAC32E96B72032ACB0"
                   },
                   {
                       "path":  "game/chars/Dark_Ash/Dark Ash/Dark Ash.cns",
                       "size":  58208,
-                      "sha256":  "F13D191849F7E6D715B9E7E0950E5A762E236D91F56CF4669E3ECF8859639BF4"
+                      "sha256":  "AA4D6D6A2C730F5959EDA9F3A02A7024675F729580C938A2920750075F9F192B"
                   },
                   {
                       "path":  "game/chars/Duck_King/Duck_XI.cns",
                       "size":  92392,
-                      "sha256":  "FABD13D1A8D5943A339234D7EE435D47D2B5CAB9B40BA0A706B89CF41B7F940A"
+                      "sha256":  "E57880CC6E43DCFBD58212CAF7A9000BD0E7ED0B617A34DB03615DBDE5CAAFA9"
                   },
                   {
                       "path":  "game/chars/Duck_King/Duck_XI2.cns",
                       "size":  70105,
-                      "sha256":  "61935D90C6A68EDFBA96892E5B340529D9905ADABCC05BA92E59B14DE9A8EA92"
+                      "sha256":  "616914E4367C0FAAD2F700DB3233BE4251C573C8811F18FF41BB2D16E3752C53"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI.act",
+                      "size":  768,
+                      "sha256":  "191AF3830A03EF3B908A53FFFBE491A0ED201A0C64AC0158405AC6A360086370"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI.air",
+                      "size":  179954,
+                      "sha256":  "F304C9D497A9B0E39222678929868284C494E231E21F7A1CE8D11DB8C7C3ADC8"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI.cmd",
+                      "size":  27508,
+                      "sha256":  "9937D5387993BD2889B63619D9F7B243EB38ACF20EEEF7EC94B7FC122B29145E"
                   },
                   {
                       "path":  "game/chars/DuoLon/DuoLon_XI.cns",
-                      "size":  126491,
-                      "sha256":  "50DAB5BDE285EA554DDB0629883F2FA81EBA94784DAC1383BFE10C4479D4B4DE"
+                      "size":  121473,
+                      "sha256":  "40848268FCB92483C6F076433A3C55BF58CE2D6A9007C462FF3F8960C1096E5D"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI.def",
+                      "size":  1017,
+                      "sha256":  "F292E0EC98816011DC29DCDE058D41FD3440EC95070534B1FC4E68F3B8573EBB"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI.sff",
+                      "size":  3257564,
+                      "sha256":  "3DFBF7AEA9CA585B3E84FF999FBB83DA98F92DB161B89111A1212A41106CC254"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI.snd",
+                      "size":  4558934,
+                      "sha256":  "108B95E92B56621FA90A4FE47B545996BEDC7C6F55E37ABAEA6ED8065A15F0A2"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI2.ACT",
+                      "size":  768,
+                      "sha256":  "85F2B94118B74AE1A36A5019E28F60E1C1D66330049FD1E2B71ED99D9744BFBA"
                   },
                   {
                       "path":  "game/chars/DuoLon/DuoLon_XI2.cns",
-                      "size":  87092,
-                      "sha256":  "D878C6F04898871EE2F605DFD870F6DBEB0FB1FBEA1EEF5E3B6653ABCD603183"
+                      "size":  85070,
+                      "sha256":  "EFC430F21B11AAE3BDFE1C90EB286218BECD739BE91E89EA5A338F2C2F396D58"
+                  },
+                  {
+                      "path":  "game/chars/DuoLon/DuoLon_XI3.ACT",
+                      "size":  768,
+                      "sha256":  "9CCFC063F4FB65D2CBE8BB1FAE1BFBE80837BD78DD5D096C2216C33BA4ABB8DE"
                   },
                   {
                       "path":  "game/chars/Duolon_Kof_XIII/Duolon_XIII.cns",
-                      "size":  453333,
-                      "sha256":  "7136BB24FA819B8536EA8E20B3C93FBE2C7DEF8BD6D91E64B31F537E72B2F72E"
+                      "size":  453330,
+                      "sha256":  "FD88C846688AF50C683D0A448D4F7F3960A62A5FC62699A936A9F5DE2304C2A7"
                   },
                   {
                       "path":  "game/chars/Elisabeth/xi_elisabeth.cns",
-                      "size":  135944,
-                      "sha256":  "07B7F93DC57AA2930EB9807DB81E1779BBD8E1B95DB5B1ACE0E910C8C5056F4A"
+                      "size":  135940,
+                      "sha256":  "AAF485FFDD507C976DE9B566BA384201201A4F0C66BAD554C5CAE7B1B94A4560"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/AI Var.txt",
+                      "size":  762,
+                      "sha256":  "E6A6379306B3A814583317C39B30C1BFC9A3C0E9AADD0EAB969DBD38B0D831C3"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/common1.cns",
+                      "size":  63251,
+                      "sha256":  "7C11A06976AF49340EA8420FFF96B6A77E7DC98AA68CE8294EF903F019A1646C"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth.air",
+                      "size":  151957,
+                      "sha256":  "91104EF9ACC4335B566C7A0FF9DFE33633DC5471257B3D4C9A23080B55E55058"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth.cmd",
+                      "size":  195553,
+                      "sha256":  "D2A87EB7D8E6085D0221DF0275B1270E624A03895705EB591313B86892561399"
                   },
                   {
                       "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth.cns",
-                      "size":  180500,
-                      "sha256":  "CE918036F5814DEBDB9CEF59621CCC3BE76BBCCBC489A4E4CCCE79BD717766B6"
+                      "size":  173982,
+                      "sha256":  "1312B917A2C7924EE188782B09222E24845B9546405B92F7D45A3134A388D34C"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth.ico",
+                      "size":  19086,
+                      "sha256":  "19A8EA6B48C97E7BFB9AEA95C176E003208462F2EB2F825DFDE05B1EEA9CA00D"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth.sff",
+                      "size":  34312069,
+                      "sha256":  "4B23050D88F5489DA6EE5884C9DB744039FA13997DAA636C85DACE7A7FBF41E8"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth.snd",
+                      "size":  4172240,
+                      "sha256":  "79647378F4F04AB7D64D053AFD3039229473C81390458EEE86D268171AE6D556"
                   },
                   {
                       "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth2.cns",
-                      "size":  58792,
-                      "sha256":  "BAEFB97843E9A6A06084150B93A7450B83A6B1A03FFF57E46C8DA11EAA8EC04B"
+                      "size":  56706,
+                      "sha256":  "E68C0DCC8BAE36EDFF80E355C770916A09708A087A4F5CC8A9FFB2D2ED461944"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/ElizabethEX.cns",
+                      "size":  55178,
+                      "sha256":  "6E8457B98BC5B95F9EC67E0ADC1DA99E3AD91AC273166FAD449D61F4A37E79EB"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_00.act",
+                      "size":  768,
+                      "sha256":  "8F9FEA445C69BCA3A785B906AEEA270DF0744F6B2CEF38B250D8C8C8D4561D32"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_01.act",
+                      "size":  768,
+                      "sha256":  "D215CED7AAF17B2E61315DDCA4626EF7B014556478ADCD50F8C19EC5C329BE6C"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_02.act",
+                      "size":  768,
+                      "sha256":  "ED5D316315BD6602163BD073095B46434852C3AD8E6108B8A564A8D2F39F233E"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_03.act",
+                      "size":  768,
+                      "sha256":  "FB0C3A7990B44E55EF5EB8DD50BE4F378ED6A4CA440550A80240E6C2617E24FB"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_04.act",
+                      "size":  768,
+                      "sha256":  "D9A9A73F7201EAF53400F1B891BAB7D5BE493216AB23B559BE51C5A0F857C4C1"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_05.act",
+                      "size":  768,
+                      "sha256":  "68503D069314B830FD69D345BC3C62255059278E2B4FB4E643E632F5E078D030"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_06.act",
+                      "size":  768,
+                      "sha256":  "B6BAF9CCC4E5A55206EC377FE9CAE13E93C9F17E8D5B1BB0BCCC27201DB5AAAC"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_07.act",
+                      "size":  768,
+                      "sha256":  "B637B065441E152057AC1FB478F8AD46FD198E9E90A93F9EB1BC855576833E48"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_08.act",
+                      "size":  768,
+                      "sha256":  "DF481709FA6C05FD6874EA1CA6C8C150803FE8D692FE3E19D1154F942018FB15"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_09.act",
+                      "size":  768,
+                      "sha256":  "B44E8EE2DD600FBDE4DC6D34E01DD4FDFC4B53C0052E1D98FCB929470DDA961D"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Elizabeth_XIII.def",
+                      "size":  1066,
+                      "sha256":  "A8546EF19DE4AA4CA907BA454EB5045BC6C363629AF967D79329B4CD42A3568D"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/helper.cns",
+                      "size":  89145,
+                      "sha256":  "10E69F5E19C1591203EA26F0038236B4AFA1692D810232CF2A7155F16483BB8B"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/Reed me.txt",
+                      "size":  5091,
+                      "sha256":  "87CB20ACB2CD902B91E0717D98819AA5F0E5DB81A9984A845CF2BFB8E4C8A2F2"
+                  },
+                  {
+                      "path":  "game/chars/Eli_Zabeth_XIII/Elizabeth_XIII/���/���.txt",
+                      "size":  7389,
+                      "sha256":  "B86F41E228F0CA9AE2A2C02E851B6747C9AE27E319B565AC75B1B39351F7961E"
                   },
                   {
                       "path":  "game/chars/Fliz/Fliz_h.cns",
                       "size":  43570,
-                      "sha256":  "AD307A210CA09F8A0E4068A8ED1E6217949CD77C08F27505904029067490CCC3"
+                      "sha256":  "29228DDBC8F4338E13A487F13F89FEB4843DC4CB85094AEBEC62639107A778B6"
                   },
                   {
                       "path":  "game/chars/Fliz/Fliz_s.cns",
                       "size":  28810,
-                      "sha256":  "D96F5F45EE355EDC6EF170CD705661A3FD6953F29CD8F51757A3FC8EB865B13C"
+                      "sha256":  "7C6AE962879A3D042989B428A0EDDCEF293F8451B9C53813A28B716AD37D08CF"
                   },
                   {
                       "path":  "game/chars/Fliz/Fliz_XI.cns",
                       "size":  69239,
-                      "sha256":  "C04C0F3B451E73CB005BFFAE037ED1400AAF339D926867C1FB562657CC6152CF"
+                      "sha256":  "00615BA67B7723F9D0B59736C10A2E8B746B1A8A6A7353BFE2CA2B24FE87A114"
                   },
                   {
                       "path":  "game/chars/Fliz/SA.cns",
                       "size":  12404,
-                      "sha256":  "9BB42CED6C0EF53DD32A880533CBC836C0408FF5132F927AA7FB38D807716BE0"
+                      "sha256":  "B8F29EFD3A7F341E8EC08559DAAFFC282DF17581DE52B80DF36D8C8632AFD267"
                   },
                   {
                       "path":  "game/chars/Geese/Geese-H.cns",
                       "size":  70999,
-                      "sha256":  "D28730A3DFA5C476483F56630B92A510E0B45F17C9D1A02EF73A5F0ED6443233"
+                      "sha256":  "6E393B605AFB8EE6C361062BA456A37F1D8168CF97FC10AA9740CC8CFDA6F3BD"
                   },
                   {
                       "path":  "game/chars/Geese/Geese-N.cns",
                       "size":  34776,
-                      "sha256":  "B0E987B0C611308887F1F72FF26ACF1C823848C37095FBA07F2B84DC7B87829B"
+                      "sha256":  "E2EF2858A6324A57E6E78A4EE813BA5528BA68AD25642E1C291462098CBD1587"
                   },
                   {
                       "path":  "game/chars/Geese/Geese-S.cns",
                       "size":  45006,
-                      "sha256":  "03DF3F18608E7DFC3BC58A5741DFB3783E56AB53BE7530FF709DD25A6B4DB034"
+                      "sha256":  "B48D402F41069DC8A05CDD4667BBB546AF283552C1DD06E148EA07FAE2E774DF"
                   },
                   {
                       "path":  "game/chars/Geese/Geese.cns",
                       "size":  31723,
-                      "sha256":  "4010501F55A3E77312BBDE8718EB39A423B107502A544DB4943EB5DC307D455F"
+                      "sha256":  "E28CE8CD07090ED1A0A88D12B8A8ADC7F48E6EA19BBF4F0A7983BB52D13BC7D6"
                   },
                   {
                       "path":  "game/chars/H-SaikiXIII_edited_by_BoyBoyz/H-SaikiXIII edited by BoyBoyz/H-SaikiXIII.cns",
-                      "size":  318821,
-                      "sha256":  "76C4F7153A6A13785E7FC2B3FC23332E59FD7364871EF1E30B0154BA4B515C38"
+                      "size":  318818,
+                      "sha256":  "88543AE6E1240BB16CD50FD1CDC8951287CE59090CDB58E8BC520BABB998F0B4"
                   },
                   {
                       "path":  "game/chars/H-SaikiXIII_edited_by_BoyBoyz/H-SaikiXIII edited by BoyBoyz/H-SaikiXIII2.cns",
-                      "size":  88208,
-                      "sha256":  "96B6449D69406AD14E86DAF1E1C695786A952756CC981B2993999F926CF7725B"
+                      "size":  88206,
+                      "sha256":  "CEFB09D55E50BD4951581E624E5C6C19FBE333F038B4282CEFBEF72907314D98"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_common1.cns",
+                      "size":  42670,
+                      "sha256":  "4F81CB06682EFB99122482A107684DB0A255F8C8576C1567C5E09FD7111C678A"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI.act",
+                      "size":  768,
+                      "sha256":  "DE5F226A1A3A85D1B548E711935265E896964F91076B6FED751DBA3E9DB6B10D"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI.air",
+                      "size":  64678,
+                      "sha256":  "1AD5AF572C68D97615F3D8B9565028254B63CD786755A231F7DC318F99A94156"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI.cmd",
+                      "size":  26236,
+                      "sha256":  "C256E6523CE5E2F3626ECEB6886FA016FCDDC517DDB144DDD9529E7FDD314398"
                   },
                   {
                       "path":  "game/chars/Hayate/Hayate_XI.cns",
-                      "size":  107936,
-                      "sha256":  "DA75ED67E2D7F90B44DAB6310915C9BC5F6D1CE153E767A63BAFF459B82DC4CC"
+                      "size":  103587,
+                      "sha256":  "A28EF582B7D9B0747443B9C3A2F9C268AFB60D61CE7F3B9308AAFA84F3952BDC"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI.def",
+                      "size":  1098,
+                      "sha256":  "AF8B80E986388FAD6F379804735D18220C093589503F159F48345C63B967833D"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI.sff",
+                      "size":  2158747,
+                      "sha256":  "FA2C5A030C60297DC159E34FD7EAA0233EF534C6109BE9FF935788567EE62F95"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI.snd",
+                      "size":  3796548,
+                      "sha256":  "AE66E8DC638FF7464A3A6522131D4FC1033C0058249BCA01A830492BCD58BCC1"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI01.act",
+                      "size":  768,
+                      "sha256":  "B460C5D757A0B98659526886245914E03BC7E878AC64DF87F996BD4A78354CE7"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI02.act",
+                      "size":  768,
+                      "sha256":  "8EA896C1CB0D5E4095730D423093E3415498EFEF4656E2FDC217935E1A38F7D8"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI03.act",
+                      "size":  768,
+                      "sha256":  "38BC99F9B2D222C67AB4BB2E6659003C735AB2B4423D5FFAB08EB7F739D117D9"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI04.act",
+                      "size":  768,
+                      "sha256":  "108AAB63BB738931A9EED2AD352392E7BB327BA889D1B911FEE1F41A4BB104F4"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI05.act",
+                      "size":  768,
+                      "sha256":  "17DFDDC7D3DD2ED4B6F8C9846F67F2CDF1F2A156CC6CE0C41D076480BE846B0B"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI06.act",
+                      "size":  768,
+                      "sha256":  "7AD9D5B69C30C1E167BBA4700C74D6885B82142AF439832F4F116057FA50527C"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI07.act",
+                      "size":  768,
+                      "sha256":  "5A2401295E30FA68118129204A31EF5B545AF980E3C3A867AFA394C553430340"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI08.act",
+                      "size":  768,
+                      "sha256":  "E70D31A3641E7AFDD202764FC9BAD74AD387B12A01D082E347C68BD4095E67BD"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI09.act",
+                      "size":  768,
+                      "sha256":  "AC00A64483AB95A0EAF258479162C18E196394517DBFE02CCFD225070C3266B8"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI10.act",
+                      "size":  768,
+                      "sha256":  "1097C81C847703BF84804A2F4BBF73DC10F816574C3C7EE04ED7FC31B16B8CCB"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI11.act",
+                      "size":  768,
+                      "sha256":  "90B73134DCE361D63904EE86392D60AAE77EBCAB3080B96E3AD800897C7E047D"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI12.act",
+                      "size":  768,
+                      "sha256":  "4146D0A0027B965879653AFE915DE717936BC805309E3E5B24D4B9DE871D8FDD"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI2.act",
+                      "size":  768,
+                      "sha256":  "31C2D9CAA7B90B876F92877316FFC3ABC1B8E5812F67A0B4BA57015C1505B045"
                   },
                   {
                       "path":  "game/chars/Hayate/Hayate_XI2.cns",
-                      "size":  39514,
-                      "sha256":  "14DAC81EEE05398C6131717E7EC340D9D3A0E8C07F85E8D195046B3173C257E0"
+                      "size":  38946,
+                      "sha256":  "077ABE0868E228530207295E5CA4CC36E5BF3C5D33B75A8A01B2EBFBF2455C0A"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/Hayate_XI3.cns",
+                      "size":  40108,
+                      "sha256":  "CD4F75A56348670CA704C1D3A92A0ECE81090CAC8D75B3B498C664737E914DAB"
+                  },
+                  {
+                      "path":  "game/chars/Hayate/�v���C�O�ɓǂ�ŉ�����.txt",
+                      "size":  3550,
+                      "sha256":  "68C683020B387B43A51A5EB291A8F7DF8795E6A1E3F3D251438CC815454F5329"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI.act",
+                      "size":  768,
+                      "sha256":  "02C1ECE5F78B0525CCA0F8C87F99B6609416CA2F3E649AF040F472D42CD56892"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI.air",
+                      "size":  66800,
+                      "sha256":  "246A50E5E1ECE8CCAD5947EDFE7D2F291D750FD67BED58E3B14E78B3192C9AD6"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI.cmd",
+                      "size":  28071,
+                      "sha256":  "6E9A987D3098A14343F4EC12774A98C555DA9D721760EAA8E6DCC73677F2175B"
                   },
                   {
                       "path":  "game/chars/Jazu/Jazu_XI.cns",
-                      "size":  86235,
-                      "sha256":  "147A0E9526067A3DA8B0E5726D060CE1DA2B9FD15C39442246AAD9068E634CA5"
+                      "size":  82767,
+                      "sha256":  "30CA898B61AD5A06D8F7F29655D9BE3A5B247E7DB1A9D9DDB998548C78D6059E"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI.def",
+                      "size":  996,
+                      "sha256":  "7B7D98E4E0C48BF45EC840A97A3875F2E22396778A8D48F6E155B710A907C92A"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI.sff",
+                      "size":  2471655,
+                      "sha256":  "018C5FAC0A9685F5EEFF3B4323C32B236EABBA25DC52F6465DE9458FFDCEDAD7"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI.snd",
+                      "size":  4888520,
+                      "sha256":  "F8BB2AE7D095C2EF5D5A2AF185B15872D585CE3A19B7AC727251DA9C2D47C160"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI01.act",
+                      "size":  768,
+                      "sha256":  "02C1ECE5F78B0525CCA0F8C87F99B6609416CA2F3E649AF040F472D42CD56892"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI02.ACT",
+                      "size":  768,
+                      "sha256":  "010F547B54315FBB569BAFC95B00926DEEE247E5AAE65377A0C1F20D7C38E7FA"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI03.ACT",
+                      "size":  768,
+                      "sha256":  "9757D276A149A8DD342C2A61557493AB191D778833DA8D17CA0665FC015F58F8"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI04.ACT",
+                      "size":  768,
+                      "sha256":  "9AE15191316C4C179C3F43D0279FBF3F52E411E99019C91F59B13ED626AB89C7"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI05.ACT",
+                      "size":  768,
+                      "sha256":  "C6AEF30949DD2C0FA5C8CBCD69B31A44175C24AEEA75415100C05A43081ACC39"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI06.ACT",
+                      "size":  768,
+                      "sha256":  "01CD58272EFF2187EEFAC10DA86B5D62BB4C0D95E598EE2BCD89715DB5E981EB"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI07.ACT",
+                      "size":  768,
+                      "sha256":  "14C5AC702A7CF6319F6C105BB3F42274F2BB4D24059FB8736F9ADD2677C45077"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI08.ACT",
+                      "size":  768,
+                      "sha256":  "459879903F7DE3F78B5B83E44818FFE4D63210002DE29ACF2FBD4B73DA1538D4"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI09.ACT",
+                      "size":  768,
+                      "sha256":  "6D3C6702B967F837E6BAED25204BFD7F1245AC64FFFA98F20EEA1A929E3A11C7"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI10.ACT",
+                      "size":  768,
+                      "sha256":  "D0EA4CC57DE33EF5C2CDCA84645A27AF97AA122DF9260B08C5F8463A062A05C1"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI11.ACT",
+                      "size":  768,
+                      "sha256":  "C8041354F295FCF97396AAF4EB24A705E2EF4728624B93D3140DF636200A85DA"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI12.ACT",
+                      "size":  768,
+                      "sha256":  "9CB874CD7F7BE3506819052861AAC2956B0CE045EAFA7DE79A152A9A6D55AED0"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI2.ACT",
+                      "size":  768,
+                      "sha256":  "70329F8E96B380A52CF712A556CD7BD873BC6B24D93D48DA0E43F28B57802B1E"
                   },
                   {
                       "path":  "game/chars/Jazu/Jazu_XI2.cns",
-                      "size":  22970,
-                      "sha256":  "DE5D23599E5A9D1EEBBE7DE6048D6F6F5C5CE706435BEC264C07E5ECCD69F556"
+                      "size":  22453,
+                      "sha256":  "BD6251144E9FD271B7EB8C862ED9B2A1A7165C1742D331DF2F4469854EFA33E0"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/Jazu_XI3.ACT",
+                      "size":  768,
+                      "sha256":  "89C1ACA84B32A0ECAC95CE8E8DD1C4BCBDC45FAA89DD3CAE3DFDFF5BC32DB46E"
+                  },
+                  {
+                      "path":  "game/chars/Jazu/�����A�יނ͏��m��Ȃ�.txt",
+                      "size":  3282,
+                      "sha256":  "381C82FFDD9A22FFDC6F0D5730015833AE5C1FDFB228F7363F15EC53472C9D68"
                   },
                   {
                       "path":  "game/chars/Jhun/Jhun_XI/CnS/Jhun_XI2.cns",
                       "size":  26899,
-                      "sha256":  "8D6366F59B26745CE68A0980FA2305F64B1ACE33647B8F39E5B4438968D186A5"
+                      "sha256":  "8AAF32B0565D729C4EC034651D051E98F2217564C6FD80384B60313E7D8942F2"
                   },
                   {
                       "path":  "game/chars/Jhun/Jhun_XI/CnS/Jhun_XI3.cns",
                       "size":  60052,
-                      "sha256":  "A0EE6C05DD547DFC253D2AE068C1B05A1276B31CDD9471DE5D8746DAB35772DB"
+                      "sha256":  "395F15BDF80ED04256BDD50E9C421A1032AE7DC6D345C98EA3074FB5CE3443BA"
                   },
                   {
                       "path":  "game/chars/Jhun/Jhun_XI/CnS/Jhun_XI4.cns",
                       "size":  40244,
-                      "sha256":  "1ACFEBFA7E822B798AF064D63CDAD9793BD76D81E98FBE52F22C8E154033B04E"
+                      "sha256":  "C6DE37F5DEAF16899FEB229F4835DF47D0A8A7E6F8280C98B586E54E8918F05E"
                   },
                   {
                       "path":  "game/chars/Joe_XIII/Joe_XIII/attacks.cns",
                       "size":  27057,
-                      "sha256":  "6D733930E97BFA15329B52700D52ED1E89A7DDB9A7CD6644CB9E56C502F8B025"
+                      "sha256":  "246E72D1DD7E3FF5CAFE68A2442C1EAA7CE4B0717C14FFC63A0EA3B44B2E36C9"
                   },
                   {
                       "path":  "game/chars/Joe_XIII/Joe_XIII/hypers.cns",
                       "size":  81086,
-                      "sha256":  "964B9C9C856465782661B1145FB71F47175396416B3137A9080703243894AFEE"
+                      "sha256":  "DFC1A4FB0D6AE717EEC57A2E84B7A7D27B89FB34A8DA6AFC6D0766BC79356427"
                   },
                   {
                       "path":  "game/chars/Joe_XIII/Joe_XIII/specials.cns",
                       "size":  55936,
-                      "sha256":  "5935D3C7D9F74EBCC30D23C521BE34EC3228E4FB5365816EF704DBAF00390800"
+                      "sha256":  "5DCD9B55DEFDAA8A8B4F3712092D73E09DE11C53792C6CEC3ED0228B684897BB"
                   },
                   {
                       "path":  "game/chars/J_angel/J_angel/angel_N.cns",
-                      "size":  75457,
-                      "sha256":  "8A3C8B20940F935F4BBC6BF6DAE709D7573BA40A81C23F45EFFAA0ADFFD364BF"
+                      "size":  75455,
+                      "sha256":  "C0E4E3D17313765898BF211AE9BC55811555A26A6C812E7E868F4899B2CE9608"
                   },
                   {
                       "path":  "game/chars/J_angel/J_angel/Hp.cns",
-                      "size":  53730,
-                      "sha256":  "8A7084AC72F101917082560E0A63BC0EE3664F0E939B710C51EDE6BDB3A071EF"
+                      "size":  53728,
+                      "sha256":  "CE35308FD981CA0E4197AD62A13D247BA4A7DB3AD5FBFD341B3709D745B6ED8D"
                   },
                   {
                       "path":  "game/chars/J_angel/J_angel/Sp.cns",
-                      "size":  72445,
-                      "sha256":  "5E63522D468D59FB8A1FF2E3462441FA99190131E874A387D12F88D25AB8BE4A"
+                      "size":  72441,
+                      "sha256":  "0FD7213DAC114ED40FCAD3C691BEC925ECDC7FC5CBDBB0ECD4CDABFB27478F33"
                   },
                   {
                       "path":  "game/chars/Kakuto_Ka/XI_Kakuto-Ka/States/Normal.st",
                       "size":  33512,
-                      "sha256":  "8B54FEDF860BD078EBDB7D25232D214F7CC2C87EB1991DD8F8B81D5D5337E48B"
+                      "sha256":  "1A9FD7682A9DC7633CEF70F0CFB898A6C1B12BA7290857B53785DCB85BA4BA50"
                   },
                   {
                       "path":  "game/chars/Kakuto_Ka/XI_Kakuto-Ka/States/Special.st",
-                      "size":  70850,
-                      "sha256":  "2B5DAA164BEC0526998FA8BDC32957FA2284CE4920E2B314905EDEEA446CB863"
+                      "size":  70849,
+                      "sha256":  "819F90F00A483A770AC98CA139438163B4E4A7D10C72B8353D1F311C20B6F9C4"
                   },
                   {
                       "path":  "game/chars/Kakuto_Ka/XI_Kakuto-Ka/States/Super.st",
-                      "size":  97035,
-                      "sha256":  "3AC1CC41EE495C8C2572BAC895FBB978E17EAADCE944F0C79DAC86814B685E65"
+                      "size":  97032,
+                      "sha256":  "93074568AD23927A0713EF01619F0E2D5BB371DFB34FFEA22E42169FE9CA7F21"
                   },
                   {
                       "path":  "game/chars/Kakuto_Ka/XI_Kakuto-Ka/States/System.st",
                       "size":  35822,
-                      "sha256":  "21923AD3F7B5FDF59CFAD6941E582194E38534AC0A8D4E2263A8F83292683265"
+                      "sha256":  "28D018B2878DA02256EC37D274A9C478A090B1E2609F57394C4D0FF49418EDFF"
                   },
                   {
                       "path":  "game/chars/Kasumi_Todoh/XI_Kasumi-Classic/attacks.cns",
-                      "size":  24327,
-                      "sha256":  "4C14EF9E515C4C9546786755539DBCF4C5E12773F0DCCCEA88A01DF9900153CA"
+                      "size":  24332,
+                      "sha256":  "9C75118F45D04B558D7E72D35BBE45E18D714BB8638F01E9756CC36EC6F5A6EF"
                   },
                   {
                       "path":  "game/chars/Kasumi_Todoh/XI_Kasumi-Classic/hypers.cns",
                       "size":  35483,
-                      "sha256":  "5E6BADEE94DBACED6AD04B2E6A57806C9404A894A895E7DEF5329161009665DA"
+                      "sha256":  "837F3B6915EA7A8165D3BA02FA691B75DC2387EB2918B74786FBB1F6A5DCC5BB"
                   },
                   {
                       "path":  "game/chars/Kasumi_Todoh/XI_Kasumi-Classic/specials.cns",
                       "size":  28299,
-                      "sha256":  "017312A24D3A90F16E355AABA1258A3524D756DC3A5EE138C97CF0148C43B182"
+                      "sha256":  "36A4ADC674736ED486F48CD7C949F2BDA56E3314E0CBBC944D69A3BA310EEEE6"
                   },
                   {
                       "path":  "game/chars/Kim_Kof_XIII/Kim Kof_XIII/Kim Kaphwan XIII.cns",
-                      "size":  543419,
-                      "sha256":  "09DB52A7F2B2DCF95C45A35984A222199BC19F95571D7A44B74C4476EC87DC87"
+                      "size":  543416,
+                      "sha256":  "0FF5FE22BEA4637C10BE0DD0632814D5C30A448660EF6764ADE2E9286CEEE2BA"
                   },
                   {
                       "path":  "game/chars/King_13/King_13/King_H.cns",
-                      "size":  44352,
-                      "sha256":  "1EFBCABCC50BCA003D0480F53A8808CDFD0E1A33510151DA9E5F5D677118AD08"
+                      "size":  44351,
+                      "sha256":  "9E097D58D2953D56EF743F915921DAD567A8D640ED69A4A47F2395D09E6EAD58"
                   },
                   {
                       "path":  "game/chars/Kula_Chan/Kula_Chan/Kula2.cns",
                       "size":  42633,
-                      "sha256":  "405E8C15A115ECB952F385A3339A161E07F09F4224F7DD21957976D6A9D5ADA8"
+                      "sha256":  "CAA686D5D3F1539F6A96FD0B2BBD6D876FED1AF41527562169E648A88A6FCE7C"
                   },
                   {
                       "path":  "game/chars/Kula_Chan/Kula_Chan/KulaEX.cns",
                       "size":  93606,
-                      "sha256":  "9FF7C781207F92C5E43E0AABBB393743614307BE1490EAE4AB17BAC1CB82C9C8"
+                      "sha256":  "A678890CB3249A01063C64F8608A01D305CB236B4F9C57C355D419EB0323E9BE"
                   },
                   {
                       "path":  "game/chars/K_-XIII/K\u0027-XIII/K\u0027-H.cns",
                       "size":  100925,
-                      "sha256":  "FD0262B8C868A1057BC743E2051BCB2CA1799F04AEF539D3F5E068964E793FDB"
+                      "sha256":  "EB9A76025D3237D6F1248E8D7DC44FA3A3CF85A4F4A9AFC2E095E7EB54C51300"
                   },
                   {
                       "path":  "game/chars/K_-XIII/K\u0027-XIII/K\u0027-N.cns",
-                      "size":  41857,
-                      "sha256":  "ECA74D1F7EA61609C18BAD77445CCF5A84C34EF9989AF6400EAD978ACEFAC23C"
+                      "size":  41855,
+                      "sha256":  "00F27412494FDDAE2A6AC947495FC323A1841C984D66555E83DB597DEBED9579"
                   },
                   {
                       "path":  "game/chars/K_-XIII/K\u0027-XIII/K\u0027-S.cns",
-                      "size":  36720,
-                      "sha256":  "00BE2A0EF0E2EFDE916E76D9D89D8E0FD2FC8011A84C5010BF4590D6AB37AA9D"
+                      "size":  36718,
+                      "sha256":  "5EC6A9CE8BDF7A59FCC78C67DD656F33E5F3FEE11E2A41026B099696A110064D"
                   },
                   {
                       "path":  "game/chars/K_-XIII/K\u0027-XIII/K\u0027.cns",
-                      "size":  75445,
-                      "sha256":  "D9FBD110CC8CFE1F6CAC486DBB03E25D77174E473B75BC199C5854F73882BAB8"
+                      "size":  75444,
+                      "sha256":  "6BD277295FC3F5B0AAC650BF872EF529E3FC2206FB0D22A2F99C41B38DBF63EB"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/desktop.ini",
+                      "size":  57,
+                      "sha256":  "68AFEC881236CA5C5F07FA6A218969BD1288E34F1D1E33E366053993122211E5"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/Leona-Pre.def",
+                      "size":  1496,
+                      "sha256":  "E69F8F272A7563E860C3616BB5AE5E6C83C93E2D75289861F071F28317FB458A"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/Leona_Icon.ico",
+                      "size":  19086,
+                      "sha256":  "F7F2C86B12953F9E7C47C7C34A1D021C8614E325CAEEF8DE786F3BBECFBC1806"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/option.txt",
+                      "size":  3601,
+                      "sha256":  "778123CF25CF42B1E8C4F1CFB403900F170887DFF4D2FC8F72E9127B8C41CA0A"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/Read Me ʹ��˵��.txt",
+                      "size":  3245,
+                      "sha256":  "5F2C41244F1DF5511B4216FD5DF571F183A38F643A1333205F4C6F5B548D0A98"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona00.act",
+                      "size":  768,
+                      "sha256":  "7F1CB42059449B2E17DB860CB5503207AC184B1D0A6639925C9B709A6D25F846"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona01.act",
+                      "size":  768,
+                      "sha256":  "00EA167B6C06AF0622AA56FB487042F0BD97A4A59909ADE63E45E7ABE43E6DB2"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona02.act",
+                      "size":  768,
+                      "sha256":  "A6E55606BFC68272AB6E2B328D45EA34EF32F58A728C20F558AFA5F149801DF1"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona03.act",
+                      "size":  768,
+                      "sha256":  "236013F798382AEB9D4C89DD8678675196E29CD9FCC93DEBFD0E2ED5E71E9372"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona04.act",
+                      "size":  768,
+                      "sha256":  "3ED119E2DD42C70437BF1A134B5E51BF41E57217112F73EE21BF692999C79F08"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona05.act",
+                      "size":  768,
+                      "sha256":  "A340DEEFF2A5FB779CA8795FCC4883420AF2230BD04A581B053C68EA617D2EC8"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona06.act",
+                      "size":  768,
+                      "sha256":  "448E67BD66A7A8B1E8CE1F54898282BA81410C271A3416DB3F6BF25A70E1EC24"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/Leona07.act",
+                      "size":  768,
+                      "sha256":  "E37AFB5200751636918AA85999342215C4D6DA3054B828939BC6052B538CC5F7"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona00.act",
+                      "size":  768,
+                      "sha256":  "6343BA671F4A42D5D072AD1073372645D760558928BCDE615A4ADA84271BF54A"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona01.act",
+                      "size":  768,
+                      "sha256":  "E2C550063193DDB7091F7CA78391A2F9F5B41A12082802DFAF31EC96A25FC8BA"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona02.act",
+                      "size":  768,
+                      "sha256":  "7A43C588D9FE3A28D79C2C0C4AD97062D809FDD015F01652A61F4692BCFFA6C7"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona03.act",
+                      "size":  768,
+                      "sha256":  "E301D20F993A378989163FBCE4E2D77BF317EA5261257BC38801E306D55CE8B8"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona04.act",
+                      "size":  768,
+                      "sha256":  "750EDC60C9E99B903FD4A833EBD9ED4F92FFE1B65A4AAB5C4E54A76EAD1285C2"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona05.act",
+                      "size":  768,
+                      "sha256":  "13DFDE4D768903EA1CDA9613707ED255E9AE9ADFA0623A08E4BC3B5140BE1FD8"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona06.act",
+                      "size":  768,
+                      "sha256":  "7852549BC40FD8B1CBB0F81ADA218C4B33728E30C2FA3E7D64CEC3C97F0C1ECB"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/act/O_Leona07.act",
+                      "size":  768,
+                      "sha256":  "40CFCFA313F7B4393F0421C8CF0A9F8FEC708714764EE019C3B2D8F1731526A0"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/air-sff-snd/LeonaXIII.air",
+                      "size":  324874,
+                      "sha256":  "5EC4CA40BA9D719C4D7B29F7FDBB5F6D80B2B56E54920FDECA60664F5BF488AA"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/air-sff-snd/LeonaXIII.sff",
+                      "size":  73364525,
+                      "sha256":  "2612305F4F9F7FA0CAB354B947B2155A2CCCE32ACECE28A03F846E68AFA4F0AD"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/air-sff-snd/LeonaXIII.snd",
+                      "size":  12937210,
+                      "sha256":  "8286A007B169E45F25D7B0821221AD9F17980303B485FF09BB6752833435AC29"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/common1.cns",
+                      "size":  100554,
+                      "sha256":  "B22B5E4CBE8C14A621DEE53A7404E0AE6320DA9A31F4F486819ED57D92140A55"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/helper.cns",
+                      "size":  232288,
+                      "sha256":  "B2E4211468431ED2007174167C331AA01D3EB0821B7FBBBE8B3E6AFCE653A8EA"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/Leona-Pre-2-3.cns",
+                      "size":  72920,
+                      "sha256":  "063D3C2F00FE88E43A3B0CB43918C538BF1A70A82FF57DD2F4A39EB80B00972E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/Leona-Pre.cmd",
+                      "size":  347584,
+                      "sha256":  "FFC52D85ECE08A79D71DADFE3FDE0623D2321219D2979B3F016AA63996BB3445"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/Leona-Pre.cns",
+                      "size":  243313,
+                      "sha256":  "6D19410F177334E703CBB2FDE956A43458BF191D16963828776ACF3ECAEC3F10"
                   },
                   {
                       "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/Leona-Pre2.cns",
-                      "size":  424191,
-                      "sha256":  "181001BED850EC42FD7D87697DA617B79E19D2C6ADCAD8F070E419E234FA1F60"
+                      "size":  414219,
+                      "sha256":  "9208CE70BABC0776FDDFE0B0FAFF8C7FA122386F18322D78FE7657D678AFC6EF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/Leona-Pre3.cns",
+                      "size":  3889,
+                      "sha256":  "A0A23BEE1F0C5CA717D518BF33F554653FECBCD4FBDCF76BFED009C48151C1DD"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/cns/Leona-Pre_EX.cns",
+                      "size":  108238,
+                      "sha256":  "44FB5DE1623D278F70E29B123C571CF5D9333A8A9FBBF2CB4CBAAA0A85A0B238"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/˵���ļ�/AI Var.txt",
+                      "size":  997,
+                      "sha256":  "C6317A52B122DC3FEE879140EF34F591E977ED5B8807C3EF269889D7CA13F557"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/˵���ļ�/���б�.txt",
+                      "size":  1514,
+                      "sha256":  "708DFA7645F21F4A0189CDA7050BB5A81CF140BE54FAE9E367C3C8A596B4DF67"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ʤ�������.png",
+                      "size":  592016,
+                      "sha256":  "7D788BB64869BCB696A302ECCC0722490074D15BE7625E33DB57B5C1A521F137"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ʤ�������2.png",
+                      "size":  207705,
+                      "sha256":  "18FC348640BA656A56E952A6E6A6E3EFA6D18602507E77234E8C7A68BC79915B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ʤ��������.png",
+                      "size":  164253,
+                      "sha256":  "8611BAA528EB702A58989FFDA79872F29E51EECB58D22807B7E4A1CEAB2E333E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ѡ�˴�ͷ��1.png",
+                      "size":  12350,
+                      "sha256":  "30C7917519AAC08505D7A9A56A817F6A44793DBD9C0785BD213EA96E554DB504"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ѡ�˴�ͷ��2.png",
+                      "size":  12308,
+                      "sha256":  "8F1B1A4636DF93C6EDC370478AC58425037ECC3E6489A722FD946F2A17A088C2"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/20_01_2017_by_ktovhinao_daw4qha-pre.jpg",
+                      "size":  81254,
+                      "sha256":  "9E81694608D74B82D3D2BED4483F426EA78E691F926079ECBA7D29CCBDAEC7FC"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/2597827_p0.jpg",
+                      "size":  103022,
+                      "sha256":  "02EA627F70D209853F9278DF1B366CB3B1E4AFD6934392ADF03B3B957CD8566E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/35df76bf6ff4c447a70cb86e23183545.png",
+                      "size":  74395,
+                      "sha256":  "262ECA6CEE00FA85ECFE286FC15E9B3AD5D5A31E06BFE623DBF4EE3A4191C40B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/43339004_p0.jpg",
+                      "size":  200977,
+                      "sha256":  "75769B807AC886B6783216D941D9076C2D56F8EF13A086B15E1F84F063079FAF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/4420016_p0.jpg",
+                      "size":  241073,
+                      "sha256":  "C3BC8D9A6883608D755A726F753DAA585C9B5A6B21788B379A60BD4A8083125A"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/48767244_p0.png",
+                      "size":  738206,
+                      "sha256":  "1E111EA5AD37373BE97857D44F4BEB5E1AFCB9DD9130C9D0029DFC7B31E582B5"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/51240178_p0.jpg",
+                      "size":  596998,
+                      "sha256":  "304FC4496745477CDFB7F5985F23D206363B35682EB4356D0B14E22B126157CA"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/55391356_p0.jpg",
+                      "size":  343400,
+                      "sha256":  "86B67EC37AB9B446D81D7C972A34FB63E71078087CD3DD6138BA8340FA50F084"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/55407643_p0.jpg",
+                      "size":  348788,
+                      "sha256":  "CC55C3F391F11F9968D1B3ED94E61B3CCB17803E9D3F294AC399B15517E974C6"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/56154905_p0.png",
+                      "size":  232747,
+                      "sha256":  "4E4C4B2042DF6F3C1D518A87C30EF9DC0BE23DBD394BB0FB1C86ED27FC24440A"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/5686418_p0.jpg",
+                      "size":  262462,
+                      "sha256":  "B4C8DED10987A766BA1D18D3D2BD8F34D4E0A4848AB5BD938503892CFC15F5CF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/62627605_p0.png",
+                      "size":  693410,
+                      "sha256":  "298366B7402DDBFC08201FC337DE622E097B3174A96330F62856BCA4B890A5A0"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/64129264_p0.jpg",
+                      "size":  692975,
+                      "sha256":  "38F7B67377D5AD3E335DF5B562ACA76A3B0C0DFB1742420E8378A8916C290E47"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/64640748_p3.png",
+                      "size":  1078839,
+                      "sha256":  "69F4E31D03816F2EC0CA0F600442F3FFE42A1D60F6186AEB9D610ACB3423B0D0"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/66745329_p0.png",
+                      "size":  676259,
+                      "sha256":  "0BABB7018D2E3E9856A58C55CD0E5122EFED1D54B6D5E80083309CB9A21CC74D"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/66748130_p0.jpg",
+                      "size":  1070406,
+                      "sha256":  "36812E63BA6A4AB5E052E3C8EB0F718C020F9147BB2046F53D9F9E353CA41921"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/67047867_p0.jpg",
+                      "size":  468313,
+                      "sha256":  "DBB09067F42A2718E68B6627342EAFE6745175480CC24C3CBB102C77BCAD84DF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/67181984_p0.png",
+                      "size":  388268,
+                      "sha256":  "AC49F0B6D959FD9F0B4A6C37BA147C8466832BBCFAC88D10AFE330933E901CC9"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/68284096_p8.png",
+                      "size":  961566,
+                      "sha256":  "DC609AE6E4304A914B24AF65799144A3D96FC9C39BB844A8D81ED8E77D880A3E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/68542605_p0.png",
+                      "size":  934601,
+                      "sha256":  "004104BA7EF3B05529133BBB276B415587BB3490524D9A39C7C1800BB6586EDF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/68882168_p0.jpg",
+                      "size":  817614,
+                      "sha256":  "E950E56576D2853E702BCD6C34F169C293B9A6D6992C61F7AF1234C7FDC92B87"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/70152923_p0.jpg",
+                      "size":  451155,
+                      "sha256":  "F8A018AC506949005825B462346B2829BF1B776992B4E561323173014911346E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/70152923_p1.jpg",
+                      "size":  375406,
+                      "sha256":  "7F5783CE0514A36A61BB53DAF81093C1A2D824DDAC69C87F77841C76420DE968"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/71941788_p0.jpg",
+                      "size":  2171766,
+                      "sha256":  "B35D7340DF92BA45C9D80ACAE9413CEDE9F36FAEAB38144B119E4F9A060BDB90"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/d5cjn71-dc950544-7062-4946-8c0c-912e99bdb915.png",
+                      "size":  75011,
+                      "sha256":  "F758C6550A1E06A182A68D89EF4ACA2775FBEA8E6921FEEC1E8E31CC23289F8B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/d5e65br-721c87dd-a410-471e-b945-931461be3059.png",
+                      "size":  134811,
+                      "sha256":  "E48CDB3D55AB5506550D7C654D9FD9E6A9D2EDE056E5F5D791F907005BBE4028"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/d9fq1yz-a7d97bfa-84b7-4241-94ae-c90b6b949c2c.png",
+                      "size":  215208,
+                      "sha256":  "232694F743E814E7BCE471F24E0C0C9998BCC5DEC72B1CB2768E4D62D58231C9"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/d9ywpe8-b1cf8702-cba8-4909-9fc6-76b30f8667c3.png",
+                      "size":  600429,
+                      "sha256":  "390CCCEF18ED7E7D656BFC5D7E9DE92CD8749A62014109F2091F7F5470554655"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/d9zj679-12e23dae-5960-42cd-a290-2a1ac32a2407.png",
+                      "size":  93572,
+                      "sha256":  "A5F7EAE138A2B09B036483988C2256FBE2C18512CEA7D12638F251F8BD859358"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/da07von-110d9ce8-545c-49c5-91e7-d2b6c465f78e.png",
+                      "size":  742799,
+                      "sha256":  "9988E8E94F00C8D86D0715722759247F6986CB903CE87A2347057C0F5532B35C"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/db7fyc1-bd816259-e2fb-48ca-ad1b-fb90b1a2ed24.png",
+                      "size":  696536,
+                      "sha256":  "5C4C3843DD8FD8B8A501044F6B55A99E066200F49B2743A608EE64C6C4212B46"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/dcm13nw-4ac56d55-21e4-47ad-ad17-d0b76af37385.jpg",
+                      "size":  41796,
+                      "sha256":  "28FA07558C152B80A808C8276DD23CD8442D518452177A34CACE911751AC9C4B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/homare___leona_heidern_by_hes6789_da6c2dr-fullview.png",
+                      "size":  1245848,
+                      "sha256":  "0153ABDF35FDED3FFC10C428FDEE42C51E374833843D6CE9E5608946DDCBB560"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/leona_eisuke_ogura_s_style_by_pagoni-d7xpjay.png",
+                      "size":  844663,
+                      "sha256":  "E4DCA9FF1F873DF41E9D59AF3ACF6BA2FA3154E06197112E2EAA16ABE7BCEFE2"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/leona_kof_2009_by_angryangryasian_d2a5li2-fullview.jpg",
+                      "size":  103394,
+                      "sha256":  "5B2353E448EC95296631E905C1D42332EF4164B25B73FCC2BA308CC40CE4ACDB"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/tumblr_meoahs29vw1qmuhxzo1_1280.png",
+                      "size":  308834,
+                      "sha256":  "02A96BDF67D9CA57EBE40D3123F916E1B9E8419606128CA432368F1D82276F31"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/tumblr_meoahs29vw1qmuhxzo2_1280.png",
+                      "size":  203350,
+                      "sha256":  "4172B7CC098390B391DDE024F086611C14D813154966FC95A68AF159C29A55A5"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/__leona_heidern_the_king_of_fighters_drawn_by_shuang9705__874cd5534317974de7c256c73fc8d594.jpg",
+                      "size":  159371,
+                      "sha256":  "E741C6D5050511B3E32AE136108630B191ED5DF3CD712CE727C1A380CC58F52E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/ʤ������1.png",
+                      "size":  166225,
+                      "sha256":  "640D45D6977C11A6F6EF4918732300C64696DA5339D91C75117E298728D69AE0"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/ʤ������2.png",
+                      "size":  99797,
+                      "sha256":  "567E17ED7A75C22670C7A474CB9F7FA2DD0635AC982D2CE5826A402378AAC1E2"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/��ë��.png",
+                      "size":  677925,
+                      "sha256":  "DECC27A83EE4E94BDFD3A3EE5FBA04A2D58F26887381F178A189B492C1FB8587"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/ͷ��/��ɫ1.png",
+                      "size":  200383,
+                      "sha256":  "5AFB32E7820424B4BA6989D6422286E9477A2D1D330CD261EACB5FE2A6B4A08B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/24507593_p7.jpg",
+                      "size":  70913,
+                      "sha256":  "6036B4C37FC02016D5F7549F1FE615E5A994C99290AA09FC20BD241FE320CADB"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/56569845_p0.jpg",
+                      "size":  324073,
+                      "sha256":  "3B5CCD6F0521DBBD3E99021541535E0D034E3680BC9F56D35FC67CD106EC853C"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57157640_p0.jpg",
+                      "size":  410229,
+                      "sha256":  "97051F474EE00F80D602256916FD4C29D2D40D8519EC92CBC07008D8509EE592"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57281684_p0.jpg",
+                      "size":  248891,
+                      "sha256":  "40D9525D4CA4102338D14382FEAD65D9EEB696C1B9D26D6DC82A513836AFF23F"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57376316_p0.jpg",
+                      "size":  822953,
+                      "sha256":  "252A4976F86B07902D32BA7EC48D18D36B9DBEE51203340D96ABA9E8B869407D"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/57413669_p0.jpg",
+                      "size":  1353740,
+                      "sha256":  "7E22A57A2A9FE3AC661FDD22547F2C25DB09F4254D1EAB6EB153AD1239864C8B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/60983612_p0.jpg",
+                      "size":  102083,
+                      "sha256":  "D578839BC3BBD154A6E74361C50E618855D1757A405F1C4DE222EB67AFF60B92"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/62891686_p0.png",
+                      "size":  843146,
+                      "sha256":  "46B0F70A4377FD64190F51061F46AFA9C40778B713D2E702E5BEEA48AA790B88"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/63618397_p0.jpg",
+                      "size":  3488198,
+                      "sha256":  "3F503F9BE2DCCD83916426DF791108914FB91947322A5B7B4043613DB4E20B6D"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/65826817_p0.jpg",
+                      "size":  306233,
+                      "sha256":  "7E2186454466072363BBA06E2A5FB39F0365D27AFF9EB5BAE2FFCEB36423E605"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/66209786_p0.jpg",
+                      "size":  924504,
+                      "sha256":  "4CA2A6D26661CFEC876D77D2948948C1D966E9D4AE6EF9D5E0F68A9B897234B0"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/66813052_p0.jpg",
+                      "size":  1313943,
+                      "sha256":  "74E0F73D44E6B17BF706AF4B5EBB71F58E865C76801BAEB93072023D392A0300"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/67055461_p0.png",
+                      "size":  5681980,
+                      "sha256":  "D458E11F84EAE70B9E797A8F22E11C7F4C9F580BF631F4F4AA765BA4E07DCA37"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/67229120_p0.jpg",
+                      "size":  620942,
+                      "sha256":  "63B3267BC0338844D87CA262D7C70D934E9856020001EF9C301EE77C3B57AC6E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/68159646_p0.jpg",
+                      "size":  3159523,
+                      "sha256":  "85DCD9D473308F1A7BC5BFB5800090B153D7A1FC155DF3A73D34C73C7B238ACE"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/68859053_p0.jpg",
+                      "size":  124078,
+                      "sha256":  "590807950E811875EC5631701AA920A4D18DED91E4EB1FB2279CAEDB59C8C46E"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/70370266_p0.jpg",
+                      "size":  316759,
+                      "sha256":  "EDC4DC5C074A885763D4743E9195A21300BEF5003B3B633AC95E10BE4ED1E20D"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/70993351_p0.png",
+                      "size":  7467598,
+                      "sha256":  "801B112AE73A946525B00BF58E0F387B4A7FC2D10C7BD91A272C641CF2146E24"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/71193858_p0.png",
+                      "size":  502687,
+                      "sha256":  "4C3F535E333D3E81107739DC4329325D7D0BBB1A6BFA7AD515D76EA6909EEFA9"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/72587438_p0.png",
+                      "size":  3518530,
+                      "sha256":  "615C0BF1D36505B4CE86A38F608457D32E9207A150215F05955C8152C53A588F"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/72660965_p0.png",
+                      "size":  793164,
+                      "sha256":  "2DEDC30BB2C7153A7DCD397000160A6660274D9451B10C42D5FE5A0FE4F578C8"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/72709936_p0.jpg",
+                      "size":  1013041,
+                      "sha256":  "CFB7C61FB3B73A50A884F3D0DF8772BC8D4B8C4A63DD045FE7610653E652903B"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/73074244_p0.png",
+                      "size":  373784,
+                      "sha256":  "895D84F5E4A11BB12AA78374A9F53636E5924AE9AE622E9539C0F2624D745B37"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/8125341_p0.jpg",
+                      "size":  324333,
+                      "sha256":  "D2AB0EDD24BF8049648A43C67036B131DADE463B1E371C3252DCA28E6C47493F"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/all_star_leona_heidern_by_topdog4815_dck93u6-pre.png",
+                      "size":  665392,
+                      "sha256":  "349A42E960731F5153764A27D6E210E228CA867CF9BDD4C522A21AD87EF6DE54"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/Ba1vn-ICQAAW9VR.jpg",
+                      "size":  22519,
+                      "sha256":  "E0074CAD64454952B19F7D6E76E8B1411434FCEC83069FEF4C39959F45074CCF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/D0LZfTxUwAIqKmM.jpg",
+                      "size":  180759,
+                      "sha256":  "50376BCA63337831D87ECADC698D4A7609D3B7CD09922B8C6E84EF3310490C47"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d3brxj7-1e45c706-2835-41ca-94aa-bb3f6591fff5.jpg",
+                      "size":  60893,
+                      "sha256":  "E30B6F8EB31650A5A67C93FBE4F7A57956A965DD6B5F61FBC9787B8F2BF66836"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d4t2hs1-ef9f4367-70a7-4528-8f25-faedd1e5fd5f.png",
+                      "size":  234939,
+                      "sha256":  "1413FAF3760856B824ABDF13C40A472E082C9215D1856D538068DA2370A93ED1"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5ca4qe-dac23de2-6e76-4f95-b4d2-c43de57ccf85.png",
+                      "size":  577028,
+                      "sha256":  "60E3806AD725AAD004C06750706D233686F74D36AE348CE5DF3F92729BB44C6A"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5i37hl-4718ab1a-1f90-4991-8cac-3702519b00a5.png",
+                      "size":  212333,
+                      "sha256":  "CC5773F09FBEAD6B35BEF0D986408C48599F1EFF24C44FB22D1B94464F179ECD"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5k48pp-c3dfcaa8-1a95-44b0-8409-f0f5e5874590.jpg",
+                      "size":  81711,
+                      "sha256":  "9A0AB79BA1C82659639408D83F3BC358D1076290B6E8641B7BA7EE08AD125F4C"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d5p2cvc-43e7ca45-f553-4ae4-b63a-e91e9b88bae7.jpg",
+                      "size":  49238,
+                      "sha256":  "CBC80AAE6E7D964E17D39774E95FB5C03F818293296ABB0EBED8D145221A5A19"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d869yfa-80da2bea-1df6-4f5e-9e6b-5314bfa9dd68.png",
+                      "size":  784516,
+                      "sha256":  "3C22A507CA95B8CF068580B4405D448C58A012C00850DAA40D812FB323A79FA1"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/d9q8pb6-2e2a8662-636b-476d-ba45-8793b121ac93.png",
+                      "size":  200707,
+                      "sha256":  "D288EED528B2416C50B2C12E4FBF864725735EAC5D22081847942DC6C3E6D488"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/da1vao1-21bfc240-2575-43b4-b8a6-61bc8bff31f6.png",
+                      "size":  1252730,
+                      "sha256":  "C114D358A6F7FFCF88AE610A4C5C4A964BAE27B7D4E16C307F46B6C64EFDE978"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/da5ryty-68318329-957c-4519-bafc-f33eaca6bd17.png",
+                      "size":  1041357,
+                      "sha256":  "013546299F2444012AC9B7BA3DD71B17B84D9641B1DFF430DCDABF6C86848F74"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/daau8ac-02688ada-b1a4-4494-b273-3d00fee09fa3.png",
+                      "size":  1597077,
+                      "sha256":  "9AFDD351897F81B3B6AF07C5A7234194FE5F14518CA7CBB90643A4C4E43A11DF"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dacilz7-bdd79e07-1715-4371-9dd1-72fcfa945e09.png",
+                      "size":  684065,
+                      "sha256":  "CF4945C6F80505A58C902801B01AE5DD9CC9036E706902E6AA7683AAE10ED821"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/daljdqg-03f3a1c2-fb80-4812-90f0-3df1512171fc.png",
+                      "size":  727330,
+                      "sha256":  "CD8B8A7E3E5C0112009509C147EF913836992844A39C76A1D133F191A2246EC5"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dci3mk1-19d1eb6c-3081-496f-a0ea-bf1a79132604.jpg",
+                      "size":  87786,
+                      "sha256":  "30059A78A5E02137A560AA1B6EF6E4229968C061605C0FFD3EC302674DB0C6E0"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dckar8r-d9201175-b231-43eb-a85d-ed0d3fe76085.png",
+                      "size":  1104338,
+                      "sha256":  "2125F5853B9EB3464FD6399B1D7A653D553E4F5C9580B514B2D619675F624258"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/dcm5flj-65418149-6bf9-420d-95c3-5988165bfe3d.png",
+                      "size":  194997,
+                      "sha256":  "B2771E505A349911778C93C396B5F9A9C254D6779F50BCBAEE61F3405C2A11D7"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/DwTQVOwUwAAkYlF.jpg",
+                      "size":  70544,
+                      "sha256":  "E9782D84227BBB5469571215B5CA5496BD5F8D1BE7AC2496FCEEE515DE40F6E8"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/king_of_fighters_98_um_ol_leona_heidern_by_hes6789_dc70hci-fullview.png",
+                      "size":  1460461,
+                      "sha256":  "7830A40DFA2790798986CC8B21F565DAC5E3EDE105859D1424556678F31A39E3"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/king_of_fighters_98_um_ol_orochi_leona_by_hes6789_dc0pi4y-pre.png",
+                      "size":  1071205,
+                      "sha256":  "011B96AFB2E23B3C117376C4D72DF89C8796BFE0935B81E51A4CAAA58FC7F3D1"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/king_of_fighters_xii_leona_heidern_by_hes6789_d8zq7rx-fullview.png",
+                      "size":  693260,
+                      "sha256":  "B4F171EE3B263E37BDC373D18F8EE72A2A494CE32756C02C66BA98D498AB5324"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/kof_leona__by_heidernn_dcjcqsu-fullview.jpg",
+                      "size":  59597,
+                      "sha256":  "A2106035082301AD283B0BF079C4EBDCDAC9D16C06241CB4378BBBC91C407F65"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/leona_heidern_by_geos9104_d4epx9y-fullview.png",
+                      "size":  512798,
+                      "sha256":  "B121B7CD8D0A6CAAF1B180706EDE5C955D62EC8AA782C1BDB876105822938E38"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/leona_heidern_snk_heroines_by_topdog4815_dcked25-pre.png",
+                      "size":  439771,
+                      "sha256":  "B066A117D371448E4160953E50B3952073A9B336BFD9B5B767FEE6204B1F1AC9"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/leona___kof_98_ol_wallpaper_by_zeref_ftx_dbg3hy1-fullview.jpg",
+                      "size":  64508,
+                      "sha256":  "870401E6497BB7F7157E3032AD71D888A9393506500748DC23A859DE2F8F50F8"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_meoahs29vw1qmuhxzo3_1280.png",
+                      "size":  223665,
+                      "sha256":  "DE7167869A72C2A9CF13A9363FAF4E741D549CA0418BEAFA865933B7A7C14A25"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_meoahs29vw1qmuhxzo4_1280.png",
+                      "size":  154806,
+                      "sha256":  "A8E00D07999499A7AAE25E35530ADEC987013D95DD5DEE425BADEB26BCA01D88"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_meoahs29vw1qmuhxzo5_1280.png",
+                      "size":  157664,
+                      "sha256":  "C0719D92164F7D2A94AB37419BFD0624300D4D490E5549710FF479C65FB434F9"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_n0b7h39tgi1qmuhxzo1_500.jpg",
+                      "size":  82154,
+                      "sha256":  "E5BD30B5756E0D9E3C3D13CC1DFBE07DA0E808E9980FC61360CAC210E9F059B9"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_nhwgmfdv721tw3jq1o9_540.png",
+                      "size":  205469,
+                      "sha256":  "B70AE132852A9128C906D2ECD7D4F589207C6478538F5449CB45262A136A8B60"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_pif01nYsOE1tw3jq1o1_400.png",
+                      "size":  94590,
+                      "sha256":  "170EAD3981A74F1E8502B78F7AB1B8D00E1A7B7B9C76AE8DEC433BCA4F7CEC6C"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/tumblr_pif01nYsOE1tw3jq1o2_500.jpg",
+                      "size":  62537,
+                      "sha256":  "0ED73FFBF6FA27D8E3890D643EB12F4316B2EF75F0E01D0811C4965F04CC3031"
+                  },
+                  {
+                      "path":  "game/chars/Leona-Pre_1_0/Leona-Pre/ͼ��/����/__leona_heidern_the_king_of_fighters_drawn_by_gousaikoo__389a4a46fe8911c426a91e747ade1723.jpg",
+                      "size":  473237,
+                      "sha256":  "43EB249F0AA1C970B9356D4ADF6A2BCD6F0247C1E939F4E1D9A50F21E1B89406"
                   },
                   {
                       "path":  "game/chars/Lin/XI-Lin/3150.cns",
                       "size":  20024,
-                      "sha256":  "15D324B0EB17C7E46CA227C03C81EB92FB8E3DEEEC249EFF36320A2AFC0ED77F"
+                      "sha256":  "02EA1FD901445DC80EA218AEBB1E4BC5BDB185D04B2BE9FFB916AF7E452B5F16"
                   },
                   {
                       "path":  "game/chars/Lin/XI-Lin/linH.cns",
                       "size":  45923,
-                      "sha256":  "38E7FE7D6C6E88FC9E95B74CBDA90BBE37A8C811261AEA9488B7E1D4212DED52"
+                      "sha256":  "294C8DBF52D45E1091007D5D1A058847174D0EF1490560BA6AFCF5D7F14AA58D"
                   },
                   {
                       "path":  "game/chars/Lin/XI-Lin/linN.cns",
                       "size":  48778,
-                      "sha256":  "5FDAA0DF17CA3879D5800526CE2DCBF4046B802B51F966C1C0108B8ECEE05B30"
+                      "sha256":  "853674EFFA68227EBA44DFD861038B0FF6004F1AB3985E6B5054847F0930B810"
                   },
                   {
                       "path":  "game/chars/Lin/XI-Lin/linN2.cns",
                       "size":  47204,
-                      "sha256":  "FD6BFF4E6AD439AF5155A9DE21CFB8874FA71543A6C60CE7DAAE06D0CE58A08F"
+                      "sha256":  "6E383EA40141B814978E218B2A2612D57034FA7054CC12D693613399FC66DADA"
                   },
                   {
                       "path":  "game/chars/Lin/XI-Lin/linS.cns",
                       "size":  43922,
-                      "sha256":  "3572084080E91133C5691903F22DE5C0637A45141B7412DB344123331AC3110F"
+                      "sha256":  "AA69AADB4C91A55DCD85C4FAF72C8EF9D32E710DA30BF4FC78220EFF1DD72AA1"
                   },
                   {
                       "path":  "game/chars/Magaki/magaki/magaki-H.cns",
                       "size":  42073,
-                      "sha256":  "278C396427026098427A262F59C6C2982994223AD3D33A5725558E00DA173B06"
+                      "sha256":  "9AC91EFC91252C588AB75609EF45C9BBB55A5039817266F58C85CE99844F8F76"
                   },
                   {
                       "path":  "game/chars/Magaki/magaki/magaki-N.cns",
-                      "size":  30782,
-                      "sha256":  "CCC3A5FDEC14835F6E1FC64FCF7709108F4ABBCEDD524CD6EC2CBB4CD41D0E33"
+                      "size":  30781,
+                      "sha256":  "8F324A83F1BC944E065AC95D24ADD4B08C3825663EF3F84BE82C84020D46071E"
                   },
                   {
                       "path":  "game/chars/Magaki/magaki/magaki-S.cns",
                       "size":  64971,
-                      "sha256":  "078EBC2932478D6E13EC438F272A0B41DD68462A7508DF3A258C3DC166C2DF28"
+                      "sha256":  "4DB4DF573EAE16117C9A5E1837F54EBA4DFF71511F9220E88A3E003ED554430D"
                   },
                   {
                       "path":  "game/chars/Magaki/magaki/magaki.cns",
                       "size":  21475,
-                      "sha256":  "B9A4F9E56DB91FABAD44F4057CFAE0FBCFDE3A363437337E8649782FE0083CAD"
+                      "sha256":  "007AD1ECEF31FA32D055F2A208E82844327C4F0C4F47105E5DCDEFA46AFFB57C"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Maxima-H.cns",
                       "size":  32572,
-                      "sha256":  "397498142F0BC8B07167391F6157901E56506C47872E2FA6E513153A98DA5ACA"
+                      "sha256":  "942F5AF8203EED97D7816D8DD963B1016072D6B93622144F7814B9FC8FD51B09"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Maxima-N.cns",
-                      "size":  56533,
-                      "sha256":  "244FD33E5A19E14025F375016DF0CA89F80B117F61FE99DE12122042AEAB3E6E"
+                      "size":  56528,
+                      "sha256":  "3A977104773C7D88152583F5DCC6C91BE21C7B7A406B63B4D24026B97658EEB5"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Maxima-S.cns",
-                      "size":  23887,
-                      "sha256":  "762EBAB2540D5F885D486C02A4809B4DB3E48FD06CB2C54AF8352776126CA2D7"
+                      "size":  23886,
+                      "sha256":  "9E3B1E6D042769060F993FAB31ED49A42BB75AB9BD493C002AE1B6A16B193E1D"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/maxima.cns",
-                      "size":  191427,
-                      "sha256":  "DCAA981595EFFF0D29D69C565523502CC1543D00F15FE4B68E82F828DBC49DA7"
+                      "size":  191426,
+                      "sha256":  "4DD9A61B9B363EB44C8B263EE4A332DF95C8AAFCE5E8C8536FE62FBC044C28BD"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/maxima1.cns",
-                      "size":  48686,
-                      "sha256":  "D0307B2DE62EEB8B81A80120703F81E8A6AFBEB675C6EDED6DF89FBC80CA8EA4"
+                      "size":  48685,
+                      "sha256":  "8E5A7E7E159E3F477F74EC2257E6AC6220045E481468DB25203978426C879A28"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Striker.cns",
                       "size":  17155,
-                      "sha256":  "60FA31637408AE759A54B6C36AA5501126DB713A3DBEDDF2AFA287D64E4AC060"
+                      "sha256":  "E8D67A8A05C581DD53507366F540A62A66099606FFAC51595F4B257CF570A1DE"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Skill/Maxima-H.cns",
                       "size":  33376,
-                      "sha256":  "88A4F28072838BFE0445AD7D7521D809FD72516FA5FFCC054D0B61B0DF12E970"
+                      "sha256":  "5D8BC53279465D2011D3FDC78A7FB1DABAF7CBEEC1CB415E61B07A0445C31300"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Skill/Maxima-N.cns",
-                      "size":  56533,
-                      "sha256":  "244FD33E5A19E14025F375016DF0CA89F80B117F61FE99DE12122042AEAB3E6E"
+                      "size":  56528,
+                      "sha256":  "3A977104773C7D88152583F5DCC6C91BE21C7B7A406B63B4D24026B97658EEB5"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Skill/Maxima-S.cns",
-                      "size":  23887,
-                      "sha256":  "762EBAB2540D5F885D486C02A4809B4DB3E48FD06CB2C54AF8352776126CA2D7"
+                      "size":  23886,
+                      "sha256":  "9E3B1E6D042769060F993FAB31ED49A42BB75AB9BD493C002AE1B6A16B193E1D"
                   },
                   {
                       "path":  "game/chars/Maxima/maxima_xi/Skill/Striker.cns",
                       "size":  17155,
-                      "sha256":  "60FA31637408AE759A54B6C36AA5501126DB713A3DBEDDF2AFA287D64E4AC060"
+                      "sha256":  "E8D67A8A05C581DD53507366F540A62A66099606FFAC51595F4B257CF570A1DE"
                   },
                   {
                       "path":  "game/chars/Momoko/momoko.cns",
                       "size":  82678,
-                      "sha256":  "1EB156183A19D1322AD68F41296E7B828F98C68B4DDAECB80F0D724CD6341048"
+                      "sha256":  "A6D852A286545B8FACC21FDB7F82695B03848050B0794A69588EE0A4D1FA1441"
                   },
                   {
                       "path":  "game/chars/Momoko/momoko_H.cns",
                       "size":  65055,
-                      "sha256":  "94F0CC49F7FE52AE7E1949D972954942CD711862AFF2D666CFC5BACDCA806675"
+                      "sha256":  "24CF057A35C576A443A802C474F72FD0DA0EF3F997CD73E900D0EEF6469196C2"
                   },
                   {
                       "path":  "game/chars/Momoko/momoko_S.cns",
                       "size":  23760,
-                      "sha256":  "C4F500B8978CB5D322CE00504FE3C2179D8281A64E3730398FA58028EADE3E34"
+                      "sha256":  "D9EECF62C28697BC029B93FB4B98C64990AC8153093888616C605DFE1294448E"
                   },
                   {
                       "path":  "game/chars/Momoko/unchain.cns",
                       "size":  28622,
-                      "sha256":  "6CC42E4056165E1ED3D690DE39E4019375AE2730812CDBB2F756D16900E925DB"
+                      "sha256":  "7BCF1537E7DA6DA89EBB55AE879C0D74EF47F43FE981563D0FF6362478AA3F02"
                   },
                   {
                       "path":  "game/chars/MrKarateXIII/MrKarateXIII/Attacks.cns",
                       "size":  33549,
-                      "sha256":  "A3E6C67D8A786F4C05AEDCBC9A8ECCE584BC08FAB3B0100BBFFFE7C7418FBDDC"
+                      "sha256":  "237C3E19FE679D678393C8E2256FE9146F5E2EE6828AC674CD2DA483439831F1"
                   },
                   {
                       "path":  "game/chars/MrKarateXIII/MrKarateXIII/Hypers.cns",
                       "size":  78926,
-                      "sha256":  "B4853399109C935EF4D4829D8C0B8BAC1FD211D1F388991BA692B26A99415F20"
+                      "sha256":  "DF5AA93FBB010A53B8C0712ED57A936BA756D738D4A31666E25BD6AFBD0AAD4B"
                   },
                   {
                       "path":  "game/chars/MrKarateXIII/MrKarateXIII/Specials.cns",
                       "size":  101997,
-                      "sha256":  "F142B2C0A335D1CF4392504F66AAC7D7F294E3F75679CEFABF0402712228DBF3"
+                      "sha256":  "025761FF7CB3542D5803E62A27CADB564D237CBA19DB89E57DA469121C5276BC"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/Mrkarate-2nd-H.cns",
                       "size":  74025,
-                      "sha256":  "DEF9CA4436776CD604E92571B5DC4657138DDE6DFD10448CB6BD9E6D2633159B"
+                      "sha256":  "1BFDA3F933A76F00DCD15E84149674099A7064E75BAA7E9EB0ACD80A6B10E8F6"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/Mrkarate-2nd-N.cns",
                       "size":  43643,
-                      "sha256":  "AA261075FCDB50B7ACD7138016CE3725276775DB3103820777A94F1CC7A4D546"
+                      "sha256":  "2B0946ACB669A5DD542C550339ECD8A6BF0839AC02315D4E512812CBCE2BAD35"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/Mrkarate-2nd-S.cns",
-                      "size":  60759,
-                      "sha256":  "B4A17E9AA089618845CD52F58C761982677876CEFAC14095390F16FC7CDD3DC2"
+                      "size":  60753,
+                      "sha256":  "4E54164E83BB94469E5F55212688A7AA618077CBF953B91685B9A36EBB742231"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/Mrkarate-2nd.cns",
                       "size":  24700,
-                      "sha256":  "85C31C62C92235799E398E62ABE5F06FD90226C7F242F83AAFD538C291C5EC1E"
+                      "sha256":  "1A9407F262703336DAC0E7A70848ECC9D8C7FB7BCC6FE7F7849830530F52A7E7"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/tobikage/Mrkarate-2nd-H.cns",
                       "size":  74244,
-                      "sha256":  "CF31FB97CD842B9A66151074C0FB091F840340FDC79295CA0C3B101E20A5B37A"
+                      "sha256":  "2099D894FB3ABBAE26D488E1459BFE4454FA1542009F6CC1D39D7D86D7DE904B"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/tobikage/Mrkarate-2nd-S.cns",
-                      "size":  61478,
-                      "sha256":  "FD3C9CB36CAF156A5A690BB4855C63BF7F7EB0438EC6AE9E8B0F2FE6005868A7"
+                      "size":  61472,
+                      "sha256":  "E7CA7090522613510D85A5462E535329253B730117C2B4D6209CA9E5C2BCE09A"
                   },
                   {
                       "path":  "game/chars/Mr_Karate/mrkarate-2nd_tobikage/tobikage/Mrkarate-2nd.cns",
                       "size":  25279,
-                      "sha256":  "D9007A826CD57D33D1E9C8A16FE2CF3530F8FDD42E6AE05300928EDCB6932C3C"
+                      "sha256":  "971A447C12C99DFE5F539FC7B792637A229070DCDDDEA4D1F11286A27C12D683"
                   },
                   {
                       "path":  "game/chars/Mukai/Mukai XI/mukai.cns",
-                      "size":  125528,
-                      "sha256":  "A387A39F1F532DCB518866658EF07E1F96E182A0DC1AD46E7A556004927ACD14"
+                      "size":  125523,
+                      "sha256":  "7582BC56F38C064BBDA45CD889DDA7CA33369229CB21EC51E515DB585A8B8466"
                   },
                   {
                       "path":  "game/chars/O-Adel/Adel-H.cns",
                       "size":  57817,
-                      "sha256":  "3AB27AB0B4C632BFB853CC54711C674057E7526045040BD4E7CFB2B996F314AF"
+                      "sha256":  "EA10CCA0AF0F8578FF2D6AE71F7FD4EE8DC22B1F65870AD761F55445AAC5BFAD"
                   },
                   {
                       "path":  "game/chars/O-Adel/Adel-N.cns",
                       "size":  33832,
-                      "sha256":  "BA48A8DD94538D0D5A1B4FD8FCBBE47E3750E31EC597AB9BFDC1B7E90E1D612C"
+                      "sha256":  "D5AFC0E16D50317B40E70D8D2F2CE4C5817533897867595F03F3EBFE71C7FF81"
                   },
                   {
                       "path":  "game/chars/O-Adel/Adel-S.cns",
                       "size":  52845,
-                      "sha256":  "3414EE8C5DC87E00E3D94E6F184D07430C29C1D00E70C63AC6F34A5563EB3305"
+                      "sha256":  "545A40DED1433DE897E603969445D5061529692DAD1C2AD68219E02B6564855F"
                   },
                   {
                       "path":  "game/chars/O-Adel/Adel.cns",
                       "size":  24206,
-                      "sha256":  "EF78CC5309B39886F2B47DE7A6D454CA2B03596649641210E9A5FFBEDC5EDFD7"
+                      "sha256":  "11B0B4B494DA7EEC3654093F6B0E563598B7074D46A79A3859B14C460AC792B8"
                   },
                   {
                       "path":  "game/chars/Orochi/Orochi-XI/Orochi-98-UM-H.cns",
-                      "size":  67086,
-                      "sha256":  "7E92EED2AF009D73FE24089C0CACE8BB874E56B5181A2C38EE25A97BCECB9368"
+                      "size":  67071,
+                      "sha256":  "CD625F8BBF3EB2D89743D6179A5F18D330A500A716885DFD5A04C07461794430"
                   },
                   {
                       "path":  "game/chars/Orochi/Orochi-XI/Orochi-98-UM-N.cns",
-                      "size":  25341,
-                      "sha256":  "C757046CA3D1AEBE21961497C9C30B3458BB6486D87764252B1E9EBFA5686ECE"
+                      "size":  25336,
+                      "sha256":  "575B2423A7AF195D0595F0932B054673BA87BC766B544C4E4DCFE05C92D9A0EE"
                   },
                   {
                       "path":  "game/chars/Orochi/Orochi-XI/Orochi-98-UM-S.cns",
-                      "size":  31727,
-                      "sha256":  "C3F5191211BA72DC1441F369C677C9FFE38358B52555753E855AB354A661D29D"
+                      "size":  31711,
+                      "sha256":  "955DD66C410435A88535355EA2AA67330D04C588B8DDCAAA9E68E0D342CBBFC8"
                   },
                   {
                       "path":  "game/chars/Orochi/Orochi-XI/Orochi-98-UM.cns",
                       "size":  45371,
-                      "sha256":  "8754740CE1D9510B0EECD6F75B0D0E38C19F8353D5B511C6E5834AEB3DF144FE"
+                      "sha256":  "237C367A87C894986164F05A30E4B673ACD6A2157153B54F8F36CDCE343EAAD4"
                   },
                   {
                       "path":  "game/chars/RalfXIII/RalfXIII/Attacks.cns",
                       "size":  35599,
-                      "sha256":  "B0486CC554DF7E85AF984BDE5E184FDE41EECBC838FF9D9C1B79FD0EC7C38521"
+                      "sha256":  "3E91C0FEB087DC289A859B2D9BBDA1D2B76442944E7899C8632C0DFC62811E85"
                   },
                   {
                       "path":  "game/chars/RalfXIII/RalfXIII/Hypers.cns",
                       "size":  43165,
-                      "sha256":  "C95C517F4F0D5C3132686D3B2697B0FE005FAD87F9261C6523B78A6788DDD677"
+                      "sha256":  "50BEBB334219768E3927F62938FB1ED383AD3B396458A536D5B88BB777EC8B7D"
                   },
                   {
                       "path":  "game/chars/RalfXIII/RalfXIII/Specials.cns",
                       "size":  60031,
-                      "sha256":  "D6D8B979A6A80C419BE9314370E0165DF65642EABD2E63B63C4AC7D00438EBF4"
+                      "sha256":  "55DA2249DD24CC704676C307F25EEEFAC37FF4184147BF05947E95952795458A"
                   },
                   {
                       "path":  "game/chars/Ralf_Jones/TAN_RALF-XI FINAL VERSION/Ralfx.cns",
-                      "size":  312521,
-                      "sha256":  "30E8E9409493CB6A2B3FDF043A1E5296EB0316C99741CCEF9BE3F486760FE8F3"
+                      "size":  312494,
+                      "sha256":  "60BE702938950332431C157845357B4CAAF90F3E6B14688BEB9211C88233431D"
                   },
                   {
                       "path":  "game/chars/Saiki-Human-KOFM/Saiki-Human-KOFM/Saiki-Human-KOFM-H.cns",
-                      "size":  119571,
-                      "sha256":  "B4BC13840C4F6D5ADEEAC481D65CABF384BC4C723CCEFFA9022DD8FFD62E229E"
+                      "size":  119569,
+                      "sha256":  "87F4DF5535D80F7C68FD8F04705479452BF0B0978D748E86AE133C2E3686881E"
                   },
                   {
                       "path":  "game/chars/Saiki-Human-KOFM/Saiki-Human-KOFM/Saiki-Human-KOFM-N.cns",
-                      "size":  43494,
-                      "sha256":  "939A7AED01D4E5A9299415AB56B8455D6A61F9716EA661F0A9972DD3494DA3AF"
+                      "size":  43492,
+                      "sha256":  "DC9D0F0A286C18CF2B667937C8DDE18B801FC75E1C15D0DA97C9049996274877"
                   },
                   {
                       "path":  "game/chars/Saiki-Human-KOFM/Saiki-Human-KOFM/Saiki-Human-KOFM-S.cns",
-                      "size":  38732,
-                      "sha256":  "73262E1228A9AFE2B3B97ACDBEB4EA36C9FA56315BDF18BF9DF1153B1DB7A296"
+                      "size":  38731,
+                      "sha256":  "750BF19D093C6F80D104BF40C57C305019FF14E920153CDB1E3FC52FF63175B1"
                   },
                   {
                       "path":  "game/chars/Saiki-Human-KOFM/Saiki-Human-KOFM/Saiki-Human-KOFM.cns",
                       "size":  49831,
-                      "sha256":  "C148FA29AA4CB26809B3164631AE4BC1787A8DEFC63DEBF7DDD4831AD3870D04"
+                      "sha256":  "D40F9A61EB4003CA5AA0DF0EAC00D96C244A77CC29148E515D9AC2DA36E174A4"
                   },
                   {
                       "path":  "game/chars/Saiki_XIII/Saiki_XIII/kof13saiki - Cópia.cns",
-                      "size":  416873,
-                      "sha256":  "5A09B618741E66FFDEA9BC3B6636FE4F29E5618721877FAFF0818BF05DA4068F"
+                      "size":  416859,
+                      "sha256":  "E8127FB05AE5F908881745CAB84D1B40422CE2AA6AC86D6D26C7BBFDABFDA8E6"
                   },
                   {
                       "path":  "game/chars/Saiki_XIII/Saiki_XIII/kof13saiki.cns",
-                      "size":  416877,
-                      "sha256":  "0738B5636CF26E4CDA3C9D12056DF9B546E9EEC920832B66BE6C43B2547785D3"
+                      "size":  416863,
+                      "sha256":  "44BF2A58881D1DFD748C7581696F422E286A5AE5B7222F3A4A60142A02EA36B5"
                   },
                   {
                       "path":  "game/chars/ShenXIII/ShenXIII/state/ShenXIII-H.cns",
                       "size":  48486,
-                      "sha256":  "F4DBE68B3658E66FE2AB3C186036F726148B13DB2C90504F8CC6984275DF554F"
+                      "sha256":  "11A8E45CF44C407882424FBA73E24F3DD18966C4A2EFC734DB9822EF0E4ABC86"
                   },
                   {
                       "path":  "game/chars/ShenXIII/ShenXIII/state/ShenXIII-N.cns",
                       "size":  56062,
-                      "sha256":  "86A46D03D21C8A16337F028980717567A8EF2A25802C54797D04886B0195F12A"
+                      "sha256":  "E4DB977694E9C4DBE9F3F289EC0993E274A931705AE01CB3636106163A0FBD24"
                   },
                   {
                       "path":  "game/chars/ShenXIII/ShenXIII/state/ShenXIII-S.cns",
-                      "size":  83277,
-                      "sha256":  "F3344F6D6D1BAB0E91CEECCA984AA7EABD48D1F98346CA066CC7BABEF414AA23"
+                      "size":  83276,
+                      "sha256":  "676121B0963916BDA4ED7F9690B0157AAF93117A65F859465D7DC02E4B0867F0"
                   },
                   {
                       "path":  "game/chars/The-Kensou-and-Friends/The-Kensou-and-Friends/SAIGADOSHU-HL.cns",
                       "size":  64043,
-                      "sha256":  "D7D68BA0FB6AC55233B8530FFE17A22FB6224FFEAA7DD55C33CA227431364372"
+                      "sha256":  "A59DC12BA5ABC34A1CE95080203BF7140E3920037761CF45587E00739814D5F9"
                   },
                   {
                       "path":  "game/chars/The-Kensou-and-Friends/The-Kensou-and-Friends/SAIGADOSHU-N.cns",
                       "size":  41750,
-                      "sha256":  "AE24F5BA0987F4FD29AD3A72D472B743D62CBC1854B184FDB8B80095D4971284"
+                      "sha256":  "957F79E4A81262FA8F526B038F6236DA19CCE728102669238365695B60D0140A"
                   },
                   {
                       "path":  "game/chars/The-Kensou-and-Friends/The-Kensou-and-Friends/SAIGADOSHU-S.cns",
                       "size":  32002,
-                      "sha256":  "A2D4953700302C2C0BF62EBF7F427E6A6F2E91E440C017CA5873AFFDE0774037"
+                      "sha256":  "FEA4019DEB8BB2222A9F92A2A154E8C3BBD2E0DD5F40B2057256A7E9C6917FD6"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/AmaNoMurakumo.cns",
                       "size":  51171,
-                      "sha256":  "58F9FFE4DA2B7A970C1287C4099CD87601E779BF1133BDFD2E1E9470D877111A"
+                      "sha256":  "593D54F0FD664F6C838766DB83D369E202410F5D00DDB5051313B7F2FC118728"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/Hyper.cns",
                       "size":  319195,
-                      "sha256":  "56A16292B81825E7226BAA7873E993489BEDA1128F82328392EE2DF0AC10C535"
+                      "sha256":  "74C79E5293DDAFC6636163F2DC30466B3FB414F24357F1C7FB4B6D8B3FA4FAA7"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/Normal.cns",
                       "size":  155951,
-                      "sha256":  "DFF1BE4F5419F23DF887FB5A69DBEDE96F691C64D0B8CAD27B3EDB2B8DBA742F"
+                      "sha256":  "611DDF8140EDA6A96EE92974C5B9CB60F338C4D037318DAEF724B1D72DDCFE31"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/Special.cns",
-                      "size":  650464,
-                      "sha256":  "7219467D515B9FD236AA84218F2FF319612996DFCE4DEA196538495DC3149D58"
+                      "size":  650461,
+                      "sha256":  "0DA3BED26A76F0A6C1EA97AFF3DCE382439D358C926625839D014A5432935690"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/SunFlare.cns",
                       "size":  107636,
-                      "sha256":  "6BE895F49B6D9CF4D353420BD7E8250603685E836143F8DF8DFC524650A6B878"
+                      "sha256":  "C630D6A8E6017CAE4D690F436797E11076C183D5BA4A6245F556A11E6C9B24C4"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/SunFlareWin.cns",
                       "size":  107370,
-                      "sha256":  "4BE8D57B7F62CC0BA992B8D60BAFE861F4AEB5BEF9757C56FC1F98031A76689E"
+                      "sha256":  "C601267C6DC1298BC1FD6259C81E344A8FF62B7B1E8ED1F2624FBC357477CF0A"
                   },
                   {
                       "path":  "game/chars/True_Kychiel_Nerf_/True Kychiel (Nerf)/Super.cns",
                       "size":  316360,
-                      "sha256":  "53F8565726AF547A4478F03A8A851ED7583CC2298C4DF18057F215D5BBE2365F"
+                      "sha256":  "5ADA96FA95128C37ECB8C152CEE4E727EC380887483615CA58EA917F57E58DE5"
                   },
                   {
                       "path":  "game/chars/ViceXIII/Skill.txt",
                       "size":  6087,
-                      "sha256":  "CC870857538168141663E64746140B20286DA8D03C395096830C95806BF87674"
+                      "sha256":  "5D9D33A0EAB6AA7B1F8FA400EDB041BB4FB1168F274DC6FF7E90123CEE40D799"
                   },
                   {
                       "path":  "game/chars/ViceXIII/ViceXIII.cns",
                       "size":  264355,
-                      "sha256":  "91500ADC5DBC1E72126148D65DB37F81A40EAFFC5DFEBA9C35AED55FFAC21FF2"
+                      "sha256":  "E991545334EAF9ED5B9B30308C4FA65FE8A92DF9F8832089C3CAA0E182795014"
                   },
                   {
                       "path":  "game/chars/ViceXIII/ViceXIII2.cns",
                       "size":  64036,
-                      "sha256":  "3564A89C4F24889B9D0A3EDE4E5B592B6451D8313FDF84C663B37E6663157336"
+                      "sha256":  "4F837A369C2E790DFACF0FA4B9D1DD66FE53BB7180D2661E5B68EF0DB2BCD067"
                   },
                   {
                       "path":  "game/data/select.def",
@@ -8748,6 +9808,156 @@
                       "path":  "game/data/ikemen1/system.def",
                       "size":  70957,
                       "sha256":  "FEE3C83E645136C9F7FF81010B14248D769434249F96DBEF72D795213A847178"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage.def",
+                      "size":  11276,
+                      "sha256":  "B20DE8C3582ACDC277491D3525CD633534BD0C9669EB39B53A97ED1E33C1D56E"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage.sff",
+                      "size":  42583,
+                      "sha256":  "B4063457C790C22DE03C299F6B282725EEA2D93902074F80430CECE9D48690C0"
+                  },
+                  {
+                      "path":  "game/stages/kfm.def",
+                      "size":  12393,
+                      "sha256":  "00DA2B49C600ACC685F7C4F7F2C4D468323CC4620EBCDF76A098E40F1696608C"
+                  },
+                  {
+                      "path":  "game/stages/kfm.sff",
+                      "size":  111995,
+                      "sha256":  "58FDE3F451F38C1D1F7B9699AFECD94862C3F0467AFC360253CD62CCDA06492B"
+                  },
+                  {
+                      "path":  "game/stages/Rugal.def",
+                      "size":  8701,
+                      "sha256":  "A65E5A94AD1A3F1E207F75312C45EE252F66B78203927A4232E7CD060CCB9245"
+                  },
+                  {
+                      "path":  "game/stages/stage0-720.def",
+                      "size":  11087,
+                      "sha256":  "EF7E2D84DAFD4DF365214669D4DA47EE510255A748C734CE306A817D37DDE222"
+                  },
+                  {
+                      "path":  "game/stages/stage0-720.sff",
+                      "size":  120789,
+                      "sha256":  "8E9ED27B47923D0E9EDCE2E22096AE9DEEB7C578FEA6815B92A184E158AD8102"
+                  },
+                  {
+                      "path":  "game/stages/stage0.def",
+                      "size":  11383,
+                      "sha256":  "2C9BB57ED6B2CEC3A2B1F5B0077EF5A106DFD1B75F6EC94F284B6D627AE295E1"
+                  },
+                  {
+                      "path":  "game/stages/stage0.sff",
+                      "size":  9740,
+                      "sha256":  "1073F2B4D22F34436FEC9E90847B81109A270780A906054211F9A9ACC144514C"
+                  },
+                  {
+                      "path":  "game/stages/stage1.def",
+                      "size":  8154,
+                      "sha256":  "73DDD3B3287DE1DFC9ED29064A408F71B87B710818E938344D31C08C35F584CF"
+                  },
+                  {
+                      "path":  "game/stages/stage1.sff",
+                      "size":  8318,
+                      "sha256":  "6DFC3077CC2234E4F6096BCFC3E5D769654DCA0D26589D74CF070BA5F9571B04"
+                  },
+                  {
+                      "path":  "game/stages/stage3d.def",
+                      "size":  2339,
+                      "sha256":  "CBD012ADCA5C0D186ECC9A9E4B04B55A120FDD1636A77150A02DAF76757FCA0B"
+                  },
+                  {
+                      "path":  "game/stages/stage3d.glb",
+                      "size":  12102424,
+                      "sha256":  "CA2139C06B206C686AB9DC955D4E34B8B7572573009F9350104594D6EEBA7521"
+                  },
+                  {
+                      "path":  "game/stages/stage3d.sff",
+                      "size":  11837,
+                      "sha256":  "FC44C67EC55EF0703CECAA6C28D927DD4AE44E9B013168E0B8BB3A99823215FB"
+                  },
+                  {
+                      "path":  "game/stages/stage3d_outline.def",
+                      "size":  2372,
+                      "sha256":  "F5059F7BF0B33832A001B1671B5B8F3AFC462F7B35447779359A070F07E73D1C"
+                  },
+                  {
+                      "path":  "game/stages/stage3d_outline.glb",
+                      "size":  12112576,
+                      "sha256":  "CB11B16B5E0AFA6E1BC9B5DDA195C7B7DE473B270FC56475887393898906D896"
+                  },
+                  {
+                      "path":  "game/stages/stage3d_outline.sff",
+                      "size":  16781,
+                      "sha256":  "2EADA9F4612451BEC40484890F07FB616C643B62A5C1F89FDD47FBBBFD0C1C8A"
+                  },
+                  {
+                      "path":  "game/stages/stageZ.def",
+                      "size":  8690,
+                      "sha256":  "D81AE0671EEA1407D167D4A9B613A7191479AEF58FEC96B98CAEF18DE90E3123"
+                  },
+                  {
+                      "path":  "game/stages/stageZ.sff",
+                      "size":  12672,
+                      "sha256":  "B8F1969633CA66893D648B723F69FB087A2C6A07EAB6F4C7F66A552CBC4BE464"
+                  },
+                  {
+                      "path":  "game/stages/street.def",
+                      "size":  3381,
+                      "sha256":  "E603418D79A5787479FA31EC6CE564750DA2CCAAA8786230FFAB1B1682C508C0"
+                  },
+                  {
+                      "path":  "game/stages/street.sff",
+                      "size":  417196,
+                      "sha256":  "409817CFD2E7AB28F270DD04E875893A44D2928268D1A3E122A763D5F7E2325F"
+                  },
+                  {
+                      "path":  "game/stages/YuuYuu.def",
+                      "size":  10653,
+                      "sha256":  "72A7E6773C59808D95B5DDDC3FF5035C73BA705728FA7476E50861F73D51F3EB"
+                  },
+                  {
+                      "path":  "game/stages/YuuYuu.sff",
+                      "size":  12306,
+                      "sha256":  "656B857FD3D3BBAE25975BD2BA8CC2EB17915A94D324019B5DD8D905622438DB"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/interactivestageChar.air",
+                      "size":  539,
+                      "sha256":  "62EC89F091A0033A75B1818796AD4D8BFD0782EDE9864923141B6F5834958B3B"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/interactivestagechar.def",
+                      "size":  949,
+                      "sha256":  "8E3F10C5610AAC6A25792E50CD1387CA9E3BE2AA244CB40B7A07029FB15EAF24"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/interactivestageChar.sff",
+                      "size":  11818,
+                      "sha256":  "C37972B300C0CEDA1D4D175FD929D2018813D1EF417BF5B45F7D3AFA4C45786B"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/interactivestageChar.snd",
+                      "size":  616744,
+                      "sha256":  "60BDAE73D057DF6DF6123C1ED6484A4F85527B2D8E5CCE5084B73EC048644DB8"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/interactivestageChar.zss",
+                      "size":  11658,
+                      "sha256":  "757615F9F477C43282E6F75ED4C23C3E56A7E8AEACC80EF0EC21540DA8E9DCEE"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/wobble.frag",
+                      "size":  2528,
+                      "sha256":  "5ABEA656A1ED6FC7C9E1DEBF967BC0841821BD893FE767DBE9F4146CE6DA462B"
+                  },
+                  {
+                      "path":  "game/stages/interactivestage/wobble.frag.spv",
+                      "size":  4712,
+                      "sha256":  "DE3EA7F5DE577411549E2D9EE5732049AF19E5F756A9CCCFBB1AECBA08E0A9F9"
                   }
               ]
 }
