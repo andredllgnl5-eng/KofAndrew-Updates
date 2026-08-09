@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.33",
-    "publishedAt":  "2026-08-09T14:57:34.0090164Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.33/KofAndrew-Client-v1.0.33.zip",
-    "packageSha256":  "927820186A29FC7FCF01A9F171CFD45A952D45DA64217B402056BC69EE9C47A9",
+    "version":  "1.0.34",
+    "publishedAt":  "2026-08-09T15:03:52.8005446Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.34/KofAndrew-Client-v1.0.34.zip",
+    "packageSha256":  "6A026DA02CAF7097209846DB8FC4F3E73241F773D7A49AF89CE0F2B2E1AA01AF",
     "files":  [
                   {
                       "path":  "KOF Online.deps.json",
@@ -11,8 +11,8 @@
                   },
                   {
                       "path":  "KOF Online.dll",
-                      "size":  3896832,
-                      "sha256":  "10A7413A6548F3BE24798659A57EEF598139A1A4086E3080E1CEB0CAA0D1A571"
+                      "size":  3897344,
+                      "sha256":  "44DD3184432929746BA635B28DFEC2D11EC283BCB6989B367189BF2EB655736C"
                   },
                   {
                       "path":  "KOF Online.exe",
@@ -21,8 +21,8 @@
                   },
                   {
                       "path":  "KOF Online.pdb",
-                      "size":  23536,
-                      "sha256":  "36CACEE7D4F8AD060187413C2FF29841897402E69FC35AD4E66515E6FEDA0374"
+                      "size":  23552,
+                      "sha256":  "6BA1526175EAC7007F704BB3394F32D9D7F8994270A3F56B60FB4A64EE9D6DDB"
                   },
                   {
                       "path":  "KOF Online.runtimeconfig.json",
