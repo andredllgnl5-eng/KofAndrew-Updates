@@ -1,9 +1,14 @@
 {
-    "version":  "1.0.34",
-    "publishedAt":  "2026-08-09T15:03:52.8005446Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.34/KofAndrew-Client-v1.0.34.zip",
-    "packageSha256":  "6A026DA02CAF7097209846DB8FC4F3E73241F773D7A49AF89CE0F2B2E1AA01AF",
+    "version":  "1.0.35",
+    "publishedAt":  "2026-08-09T18:53:32.5151180Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.35/KofAndrew-Client-v1.0.35.zip",
+    "packageSha256":  "4939D8F9697C705E63E110570256B163F7F787CCF584113A2AB3A010DE90F447",
     "files":  [
+                  {
+                      "path":  "D3DCompiler_47_cor3.dll",
+                      "size":  4916840,
+                      "sha256":  "A05D04A270F68C8C6D6EA2D23BEBF8CD1D5453B26B5442FA54965F90F1C62082"
+                  },
                   {
                       "path":  "KOF Online.deps.json",
                       "size":  422,
@@ -28,6 +33,76 @@
                       "path":  "KOF Online.runtimeconfig.json",
                       "size":  372,
                       "sha256":  "1ECA0F0C70070AA83BB609E4B749B26DCB4409784326032726394722224A098A"
+                  },
+                  {
+                      "path":  "KOF Updater.exe",
+                      "size":  62434148,
+                      "sha256":  "5AF72E7C16D95966EAC90D640C16F4F01F9438B8CD5586FD4BF5C7BA8D75C97D"
+                  },
+                  {
+                      "path":  "PenImc_cor3.dll",
+                      "size":  157992,
+                      "sha256":  "E1BCD85E177302A63F63B48A8F84E3686355F5058E559086A80844C1CF0F0466"
+                  },
+                  {
+                      "path":  "PresentationNative_cor3.dll",
+                      "size":  1237768,
+                      "sha256":  "5DE57DBC363E91B13791C24E5DF76E1395B4256986DE4C7844594EF809F7CBEA"
+                  },
+                  {
+                      "path":  "vcruntime140_cor3.dll",
+                      "size":  119888,
+                      "sha256":  "02C6AA0E6E624411A9F19B0360A7865AB15908E26024510E5C38A9C08362C35A"
+                  },
+                  {
+                      "path":  "wpfgfx_cor3.dll",
+                      "size":  1963816,
+                      "sha256":  "5245476EED26C58E120DBAD3CB138F8D7FAC755836B611DEF109FEE0D78AECB9"
+                  },
+                  {
+                      "path":  "game/data/fight.def",
+                      "size":  97067,
+                      "sha256":  "1F9800BC021E99EDF9AE24A1E8096F55790B489851CF315657DF472B8771D381"
+                  },
+                  {
+                      "path":  "game/data/select.def",
+                      "size":  7822,
+                      "sha256":  "A66E64BADAD6D355D0AE979DE95C966BF990B9C06C6D2C121A1284BE68D21DA5"
+                  },
+                  {
+                      "path":  "game/data/ikemen1/system.def",
+                      "size":  70957,
+                      "sha256":  "FEE3C83E645136C9F7FF81010B14248D769434249F96DBEF72D795213A847178"
+                  },
+                  {
+                      "path":  "game/external/script/debug.lua",
+                      "size":  7585,
+                      "sha256":  "50297E0FE1CC84DEF296387AFB07DD3875F095BBB63207A07E888628AEB47E60"
+                  },
+                  {
+                      "path":  "game/external/script/default.lua",
+                      "size":  884,
+                      "sha256":  "A4677C6B2748F109D3A75F5A06C7B491642A3566C1103F93A2125ED75215C737"
+                  },
+                  {
+                      "path":  "game/external/script/main.lua",
+                      "size":  149162,
+                      "sha256":  "D033C56F413231DEB94004CA456F2C139252B056143322A613D71AD384DB0E1E"
+                  },
+                  {
+                      "path":  "game/external/script/menu.lua",
+                      "size":  35000,
+                      "sha256":  "7300CC8E0275069B0DE730AD77BEA71C7D40B765F3DDD9E33E7FB7CDCA8D51AA"
+                  },
+                  {
+                      "path":  "game/external/script/options.lua",
+                      "size":  101093,
+                      "sha256":  "BA0AF6BCD3AD24F536EA21483FBE30BE72A561211EBB92AEB1EA90EFC29951DC"
+                  },
+                  {
+                      "path":  "game/external/script/start.lua",
+                      "size":  163424,
+                      "sha256":  "164EEC3BFE6C1E423D9F509B1B176C5CD85DA2190BF36F079916E5A1FDFC13D6"
                   }
               ]
 }
