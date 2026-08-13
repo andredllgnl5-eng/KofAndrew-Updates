@@ -1,23 +1,28 @@
 {
-    "version":  "1.0.38",
-    "publishedAt":  "2026-08-13T02:05:22.4213288Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38.zip",
-    "packageSha256":  "97B71AEF008A9B4D60C87627B9C03561A400F2D6F8FAF947624A2566BB877977",
+    "version":  "1.0.39",
+    "publishedAt":  "2026-08-13T03:37:39.6220194Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.39/KofAndrew-Client-v1.0.39.zip",
+    "packageSha256":  "8C3B0CE84F37F143D1B636E66FDD0B30F32C40277C7713C7798AA1FAC2D33EB3",
     "packages":  [
                      {
-                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38-part1-of-3.zip",
-                         "sha256":  "028D9428701FCB347A4E4AB301093C07B690F7212192B9BF96B02BF26BA6ADCE",
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.39/KofAndrew-Client-v1.0.39-part1-of-4.zip",
+                         "sha256":  "56104DEB97585C5FB56BAD5C0B7360FB2DDF22D90C543F43F249C8E4A079D890",
                          "size":  1035085925
                      },
                      {
-                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38-part2-of-3.zip",
-                         "sha256":  "3047CF5D8514145C2D9E1B7AF90EFFA97858D9400300239245EE443B942A623E",
-                         "size":  1177768392
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.39/KofAndrew-Client-v1.0.39-part2-of-4.zip",
+                         "sha256":  "9916145C853B20CABF45BCE45F5EBD9F8C80194338C190BF29A305C73CB6AAEF",
+                         "size":  1177770877
                      },
                      {
-                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38-part3-of-3.zip",
-                         "sha256":  "39DF711D19FBEE6031EFB8C3CB44D125C59E8A676919E29E3004C583A57D0C41",
-                         "size":  1163768801
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.39/KofAndrew-Client-v1.0.39-part3-of-4.zip",
+                         "sha256":  "EEE240596A87724F9EA825D9116CC853F8FF92E626095E09EB693FF946B7B5C9",
+                         "size":  1153519818
+                     },
+                     {
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.39/KofAndrew-Client-v1.0.39-part4-of-4.zip",
+                         "sha256":  "1BD1F1D1C99E8EE0421200B0855D355C6102813299F67FAAA18AA18ABFAFA9B1",
+                         "size":  100882269
                      }
                  ],
     "files":  [
@@ -9663,8 +9668,8 @@
                   },
                   {
                       "path":  "game/chars/DuoLon/DuoLon_XI.sff",
-                      "size":  3257564,
-                      "sha256":  "3DFBF7AEA9CA585B3E84FF999FBB83DA98F92DB161B89111A1212A41106CC254"
+                      "size":  3260599,
+                      "sha256":  "8B1DEC7962C40D23DEC657F256273EA71B4ECBF9066F1DE22E04D66708A4F132"
                   },
                   {
                       "path":  "game/chars/DuoLon/DuoLon_XI.snd",
@@ -15628,8 +15633,8 @@
                   },
                   {
                       "path":  "game/chars/O.Zero-Prominence/Original-Zero.sff",
-                      "size":  131342988,
-                      "sha256":  "50004769C7D142FE082907E5531A6F42DA99C0AB8857201EEDB30760CF75DA1F"
+                      "size":  131346295,
+                      "sha256":  "B9DCB5F90067722ECE6998948C3BA3E427B1339670643AC6DB4FC2E51CE838A2"
                   },
                   {
                       "path":  "game/chars/O.Zero-Prominence/Original-Zero.snd",
@@ -15803,8 +15808,8 @@
                   },
                   {
                       "path":  "game/chars/orochi-iori/Iori-Orochi.sff",
-                      "size":  9326791,
-                      "sha256":  "5AD84F91CC76170C4B1871AE5CB1A39874AB81C3D46AD228C3FC898C6CAA170D"
+                      "size":  9328102,
+                      "sha256":  "7365AD12034A3AF945C7AA60706CB4D09D009F31CEBB04571033A46D9CEB5E40"
                   },
                   {
                       "path":  "game/chars/orochi-iori/Iori-Orochi.snd",
@@ -19608,8 +19613,8 @@
                   },
                   {
                       "path":  "game/chars/Valmar Rugal/Valmar-Rugal.sff",
-                      "size":  224472030,
-                      "sha256":  "90C09063A727383E18BD1FC3F31FFF9134EF39FE71631A389AC8832EC6E356BA"
+                      "size":  224473380,
+                      "sha256":  "3F5BA76EE16337400E93A7BF09BB07A7B1B8943992DD03AC696AF50F555A35F4"
                   },
                   {
                       "path":  "game/chars/Valmar Rugal/Valmar-Rugal.snd",
@@ -19967,6 +19972,36 @@
                       "sha256":  "28EC37A79ED9E94BB185169CA2AB2EB9A1EFB17809FFE11718BB9AE5771F393B"
                   },
                   {
+                      "path":  "game/data/kofa-fight.def",
+                      "size":  13605,
+                      "sha256":  "4F9325C04D35BAA076CAC914FB40B0B0AD6860E46C3B2E2AAF350278A8D78A87"
+                  },
+                  {
+                      "path":  "game/data/kofa-lfx-flashy.air",
+                      "size":  12095,
+                      "sha256":  "05FD4000EF4ED2723A131212633AA1070BF4D9693E23EDD7BB92E1EFDD19E2B1"
+                  },
+                  {
+                      "path":  "game/data/kofa-lfx-flashy.sff",
+                      "size":  10476786,
+                      "sha256":  "8BB975B1A0F6191F16E7987B37272849553432CDEB20EBA47736610DD40DA384"
+                  },
+                  {
+                      "path":  "game/data/kofa-lifebar.sff",
+                      "size":  1798068,
+                      "sha256":  "F17C0AA4887061A577213DFD8E2005ECCFB7757A7ADDABF54A7FAEB119986436"
+                  },
+                  {
+                      "path":  "game/data/kofa-lifebar.snd",
+                      "size":  354198,
+                      "sha256":  "671FC6EC62CC05F242B8441525C284016E5F68C482397575513B66687F8095DC"
+                  },
+                  {
+                      "path":  "game/data/kofa-lsfx.snd",
+                      "size":  72705,
+                      "sha256":  "B49C8B62FB07A1212CE3E3D2C98BF5F59446AD68451B6A70A4740110F75D5926"
+                  },
+                  {
                       "path":  "game/data/score.zss",
                       "size":  4207,
                       "sha256":  "8F058BC12161BE91A5C7032BBC7DE0D81F8A114E072A6750C024430AD2DC0CDC"
@@ -20230,6 +20265,71 @@
                       "path":  "game/data/ikemen1/fonts/Timer.sff",
                       "size":  18513,
                       "sha256":  "03FD845B74B12E2E08D7FB590F7CAC143FF94848E9DE454EB28C1EB868EF82E6"
+                  },
+                  {
+                      "path":  "game/data/legacy/GameOver.def",
+                      "size":  1423,
+                      "sha256":  "073070112C20625E6445AABCC87EF7EDC5B0ECA89BDA4C9EBC46114C12E0205D"
+                  },
+                  {
+                      "path":  "game/data/legacy/GAMEOVER.ogg",
+                      "size":  23056,
+                      "sha256":  "07182CC8E561F6F738558B67CDC43BDB57A81EA52D84136A13FCFEBA1AE2B7DA"
+                  },
+                  {
+                      "path":  "game/data/legacy/GameOver.sff",
+                      "size":  2448411,
+                      "sha256":  "521FAF9574ECB72CB60989C3B5487295361BEE8E845B70F24A98ED3444087CA1"
+                  },
+                  {
+                      "path":  "game/data/legacy/INTRO.def",
+                      "size":  4786,
+                      "sha256":  "CB68C226350DC520E45772FBF84C996FE6E0EA8E6F4B573446D9F471BE77B049"
+                  },
+                  {
+                      "path":  "game/data/legacy/INTRO.ogg",
+                      "size":  747213,
+                      "sha256":  "D0B99B5CC83F028962233DF1E2C23BC1A7786F73C23CCE882EAE0988D5BA937D"
+                  },
+                  {
+                      "path":  "game/data/legacy/INTRO.sff",
+                      "size":  8873938,
+                      "sha256":  "86E2EDCC0AC1AB646B92EF23254F724D3DEC351EAF2AFFBF9EBE7DE37B0AEA94"
+                  },
+                  {
+                      "path":  "game/data/legacy/MENU.ogg",
+                      "size":  2823903,
+                      "sha256":  "F3F5E4F1B4BA4B6418A329AA17156827D99B3A5B1D1D0276DE0A706C92BADDA0"
+                  },
+                  {
+                      "path":  "game/data/legacy/SELECT.ogg",
+                      "size":  6703896,
+                      "sha256":  "FED4714D0D6EAF15447C2BF943819547FE4455184A3B62C5943E747F69663EC9"
+                  },
+                  {
+                      "path":  "game/data/legacy/system.def",
+                      "size":  52946,
+                      "sha256":  "DBAC83B54A4237EE3ACCF24282AA373B1A51BAF532D9A7645BE3D7901AF021BD"
+                  },
+                  {
+                      "path":  "game/data/legacy/system.sff",
+                      "size":  55655240,
+                      "sha256":  "F94FAB5924BA70B8AD962594ECABE94185C7946A776B8C94005FC748D824BEAA"
+                  },
+                  {
+                      "path":  "game/data/legacy/system.snd",
+                      "size":  1011556,
+                      "sha256":  "AF87899B901C3D88C0824AF26D44546A0B888A5AB5B8D73313687E313214F36D"
+                  },
+                  {
+                      "path":  "game/data/legacy/VERSUS.ogg",
+                      "size":  116409,
+                      "sha256":  "D965E07EE26EB481EBC006E95BC5C71E6A9F841C1F715C496A5F599506837885"
+                  },
+                  {
+                      "path":  "game/data/legacy/WIN.ogg",
+                      "size":  2674409,
+                      "sha256":  "9997BDF0EB88CBDAE95F5F09B90B0E4ED5B01E04ADC27ED11E3189CC0B462AAF"
                   },
                   {
                       "path":  "game/external/gamecontrollerdb.txt",
@@ -20562,6 +20662,186 @@
                       "sha256":  "763D2187C434C62D260C169A62EF661CDAFDA3007EC4A86EF2A6579E18F13198"
                   },
                   {
+                      "path":  "game/font/kofa-archives/KOFA-Combo.fnt",
+                      "size":  2530,
+                      "sha256":  "3DCCA722D28537357BD616DB28078011FA127DB2FF531EA5D15E6E5896810817"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/KOFA-ComboTxt.fnt",
+                      "size":  1491,
+                      "sha256":  "E07FC824A0CFFDF6D57A452A5EC2EF1961ECCFC0BEFDF996726A851D7C809884"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/KOFA-Name.def",
+                      "size":  535,
+                      "sha256":  "8103B0EEA9B3E5508B7E2AA987FB638EAD9E41871D26C6AA342FF63301032FDC"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/KOFA-Name.sff",
+                      "size":  44810,
+                      "sha256":  "2298F967861B361ED9F15DC7348275F8AD86CBB5DB8FFA2800D94CFB7BF0FFE4"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/KOFA-Pow1.fnt",
+                      "size":  3966,
+                      "sha256":  "00645ABB4E57DA3EF1F18347A8077FB3C6FEDF9B5370396A4F8A4EFCEE150584"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/KOFA-Pow2.fnt",
+                      "size":  3966,
+                      "sha256":  "F9C198BCF0936CC4BAF57C4ACD96945CEF679D32785C6F4617986A0A99842D30"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/KOFA-Time.fnt",
+                      "size":  3018,
+                      "sha256":  "83C323828B7A318E94A1BA65FBACBF8BE163A7F26EDD5A3C5ED32BF5DEF6C641"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/Name.def",
+                      "size":  665,
+                      "sha256":  "09D1078A892BED27249E8D066C19CC335637EB9846EA143F2A1ECB485F18E834"
+                  },
+                  {
+                      "path":  "game/font/kofa-archives/Name.sff",
+                      "size":  22331,
+                      "sha256":  "3E5ABBA6B759AF75DD4C8FB496A7ED3960E7EBB78B20CD3F9A9B83C3BB8EC613"
+                  },
+                  {
+                      "path":  "game/font/legacy/COMBOP1.def",
+                      "size":  673,
+                      "sha256":  "B63F2C0DA71BF1F69517286C135DA041ACF4F8D1C6D84FF5FFBAA30E092EA51A"
+                  },
+                  {
+                      "path":  "game/font/legacy/COMBOP1.sff",
+                      "size":  86048,
+                      "sha256":  "1736197F5019E1A693DAD404351631DE568C13A423A3BAA79400B97F035B3C31"
+                  },
+                  {
+                      "path":  "game/font/legacy/COMBOP2.def",
+                      "size":  673,
+                      "sha256":  "69491A64083C4D29F9517E6B22ECBBF006436F67E3DA40397E6697F3DC21D6FB"
+                  },
+                  {
+                      "path":  "game/font/legacy/COMBOP2.sff",
+                      "size":  106051,
+                      "sha256":  "0D091BCA06AF329A15201197EDD0E39D7EE1D3770E4A893746546376C89E4F83"
+                  },
+                  {
+                      "path":  "game/font/legacy/f-4x6.def",
+                      "size":  668,
+                      "sha256":  "1F39E6E152E2B438085A924D70639747CD2278828E671132C7A48CD4A6A1D4DA"
+                  },
+                  {
+                      "path":  "game/font/legacy/f-4x6.sff",
+                      "size":  5631,
+                      "sha256":  "08B21D5E47735AEC4641C3319E0FC591145FDD4540E9300543AC202F1527D325"
+                  },
+                  {
+                      "path":  "game/font/legacy/f-6x9.def",
+                      "size":  668,
+                      "sha256":  "85184CE34682A0A01A488F8754B9B6BD62863C3F9172680DFD325A82B248B8AB"
+                  },
+                  {
+                      "path":  "game/font/legacy/f-6x9.sff",
+                      "size":  6619,
+                      "sha256":  "351AEBD4BEC316920E74CCA1CEA6EC91E29431D519FB2E02A1D50690AF3A920D"
+                  },
+                  {
+                      "path":  "game/font/legacy/MENU.def",
+                      "size":  670,
+                      "sha256":  "CA7C97673F69FA6D61AE2E6A8A7BDF4B798A98D06AAB7A5B2C91BE97F93C0AAB"
+                  },
+                  {
+                      "path":  "game/font/legacy/MENU.sff",
+                      "size":  831947,
+                      "sha256":  "545B8C97394CD939B4DF55A6E2C3320DBDA9513E42F7A85257FF43F6D905DE15"
+                  },
+                  {
+                      "path":  "game/font/legacy/MODES.def",
+                      "size":  667,
+                      "sha256":  "86A3B2DCE50FC6486E9BFFF8F6761FD7CDAB1175E16184639976A15C0E9FC9E2"
+                  },
+                  {
+                      "path":  "game/font/legacy/MODES.sff",
+                      "size":  1598776,
+                      "sha256":  "80ADAC7D25CA23D842455A92357C1958875C40D1018B951CDACD1F78FAA8DB83"
+                  },
+                  {
+                      "path":  "game/font/legacy/NAME_LIFEBAR.def",
+                      "size":  681,
+                      "sha256":  "0A1368C4B7D63DE5D42D99D9640138F483DE739B5AE00EB50F9BA36929472F59"
+                  },
+                  {
+                      "path":  "game/font/legacy/NAME_LIFEBAR.sff",
+                      "size":  54526,
+                      "sha256":  "AAF13E057CCE8E9ABBBAB222ACD5C237880AA27A124CDC300A7C7C01E6944962"
+                  },
+                  {
+                      "path":  "game/font/legacy/options.def",
+                      "size":  691,
+                      "sha256":  "68C7C6CEAA964E136D57AB325B91ECB82B6FDD8CAC79C00DD6037E0B3EE7F6F0"
+                  },
+                  {
+                      "path":  "game/font/legacy/POWERBAR_P1.def",
+                      "size":  677,
+                      "sha256":  "840ADB1236910D6CED1359B9DE2D8674D5E0FB797705E372568A526C5C99FE95"
+                  },
+                  {
+                      "path":  "game/font/legacy/POWERBAR_P1.sff",
+                      "size":  21258,
+                      "sha256":  "EDAB64030FBF3AA92F636D18CDB7DFDA36A5D3FA876F47C44C825B68359ACC66"
+                  },
+                  {
+                      "path":  "game/font/legacy/POWERBAR_P2.def",
+                      "size":  677,
+                      "sha256":  "69AE3CFC842E1AEF8BB0849DEADA00205CFF6D067F4B7CAB84A7DDAFA4B8F307"
+                  },
+                  {
+                      "path":  "game/font/legacy/POWERBAR_P2.sff",
+                      "size":  20708,
+                      "sha256":  "F2FCFEB80040DBC6EC649C3D6AF6904EFD45578026BA8C191581CA8508F30BDB"
+                  },
+                  {
+                      "path":  "game/font/legacy/STAGE.def",
+                      "size":  671,
+                      "sha256":  "95536AF0D7F7943785D0789E7594BD63166FC7CC115CF119E49D48709EA96C99"
+                  },
+                  {
+                      "path":  "game/font/legacy/STAGE.sff",
+                      "size":  414251,
+                      "sha256":  "869F3507DAACCE66B9BDB0709BB4ABC72E91FF56D4A22CDF9E6D4C22B3E03952"
+                  },
+                  {
+                      "path":  "game/font/legacy/SYSTEM.ttf",
+                      "size":  24128,
+                      "sha256":  "027F35BC24A79F853A5F8DE9269C66F395D4E4871F4ED89F5BA8B9FAD8B779F2"
+                  },
+                  {
+                      "path":  "game/font/legacy/SYSTEM2.ttf",
+                      "size":  25648,
+                      "sha256":  "6C1A71665DAE946DE25DBE7CE54F84FBE66E4102C39BAAA84CF60D9D59A03F69"
+                  },
+                  {
+                      "path":  "game/font/legacy/SYSTEM_FONT.def",
+                      "size":  693,
+                      "sha256":  "F92BBF5F982AA4ECF2E5519E9E08DAAA6D84E4E4C77A6B36434DA7E41C8B53FA"
+                  },
+                  {
+                      "path":  "game/font/legacy/SYSTEM_FONT2.def",
+                      "size":  694,
+                      "sha256":  "E6FF8BE469B3759EFD42BE70227278719C2A55D8C306E93E0163D056D1C3ECAA"
+                  },
+                  {
+                      "path":  "game/font/legacy/TIMER.def",
+                      "size":  671,
+                      "sha256":  "3F13D46181197108C760CBAE84E476AD4D3D8849BBE4C3867B7665768013D711"
+                  },
+                  {
+                      "path":  "game/font/legacy/TIMER.sff",
+                      "size":  36190,
+                      "sha256":  "64F5A22547D3354C8AFDE2B21F1410711038D96A43F03AB45E7073422E9B8B9F"
+                  },
+                  {
                       "path":  "game/font/Open_Sans/LICENSE.txt",
                       "size":  11560,
                       "sha256":  "3DDF9BE5C28FE27DAD143A5DC76EEA25222AD1DD68934A047064E56ED2FA40C5"
@@ -20678,8 +20958,8 @@
                   },
                   {
                       "path":  "game/save/config.ini",
-                      "size":  20370,
-                      "sha256":  "58DD7AAC585D2EFC8F0F6F5D4D9A4DD072473FA65141E61F5EFDE06E8631E0A6"
+                      "size":  20369,
+                      "sha256":  "98F59272F4C0D194283CE03A1949BE87D6596960965404C31ACFC1A3BAE63404"
                   },
                   {
                       "path":  "game/sound/.keep",
