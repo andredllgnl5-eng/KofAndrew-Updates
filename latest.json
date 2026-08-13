@@ -1,23 +1,23 @@
 {
-    "version":  "1.0.37",
-    "publishedAt":  "2026-08-13T01:48:40.7765579Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37.zip",
-    "packageSha256":  "6321434B236EB0D6E6A829D66E0980CC79813987F01368C1F0CECE218B4122E3",
+    "version":  "1.0.38",
+    "publishedAt":  "2026-08-13T02:05:22.4213288Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38.zip",
+    "packageSha256":  "97B71AEF008A9B4D60C87627B9C03561A400F2D6F8FAF947624A2566BB877977",
     "packages":  [
                      {
-                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37-part1-of-3.zip",
-                         "sha256":  "A99578EDA96F53E0472C23E5E2D639D133DAFC5F440709A87C3B07C1B844921A",
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38-part1-of-3.zip",
+                         "sha256":  "028D9428701FCB347A4E4AB301093C07B690F7212192B9BF96B02BF26BA6ADCE",
                          "size":  1035085925
                      },
                      {
-                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37-part2-of-3.zip",
-                         "sha256":  "5BBF389AFB347AF7DEB09942AB130D24063FF0AB900782EF5852598DD0748ED2",
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38-part2-of-3.zip",
+                         "sha256":  "3047CF5D8514145C2D9E1B7AF90EFFA97858D9400300239245EE443B942A623E",
                          "size":  1177768392
                      },
                      {
-                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37-part3-of-3.zip",
-                         "sha256":  "C5702A2CC8328BA16702CCA09FC2A1E22AB5D809032ACC1F85AD748736B97083",
-                         "size":  1163762550
+                         "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.38/KofAndrew-Client-v1.0.38-part3-of-3.zip",
+                         "sha256":  "39DF711D19FBEE6031EFB8C3CB44D125C59E8A676919E29E3004C583A57D0C41",
+                         "size":  1163768801
                      }
                  ],
     "files":  [
@@ -75,6 +75,26 @@
                       "path":  "wpfgfx_cor3.dll",
                       "size":  1963816,
                       "sha256":  "5245476EED26C58E120DBAD3CB138F8D7FAC755836B611DEF109FEE0D78AECB9"
+                  },
+                  {
+                      "path":  "game/HQ4x.frag",
+                      "size":  2670,
+                      "sha256":  "F7A759F5A135304469429C8B2BF5D63923D8A26368F0A4E07D1A6AE544A04E52"
+                  },
+                  {
+                      "path":  "game/HQ4x.frag.spv",
+                      "size":  8816,
+                      "sha256":  "33859FCE499071DC4A774AD26A778200C7E2EE03912DB3BDC1EC2D6A2029E138"
+                  },
+                  {
+                      "path":  "game/HQ4x.vert",
+                      "size":  1062,
+                      "sha256":  "93E098E32B3EFD728A9C4643C6192AB5142CCEE85AAB9E42DA20B13D5BEAC70C"
+                  },
+                  {
+                      "path":  "game/HQ4x.vert.spv",
+                      "size":  4188,
+                      "sha256":  "9A15F151B22CF3410B8EA2017631545549366B07B532D06F8854D1545865546E"
                   },
                   {
                       "path":  "game/Ikemen_GO.exe",
