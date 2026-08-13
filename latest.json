@@ -1,14 +1,9 @@
 {
-    "version":  "1.0.35",
-    "publishedAt":  "2026-08-09T18:55:10.2506851Z",
-    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.35/KofAndrew-Client-v1.0.35.zip",
-    "packageSha256":  "A553A4F2BE1223C1FD03BF02BEDF37751D373F925D1BB6C2CCDF91531F0328F6",
+    "version":  "1.0.36",
+    "publishedAt":  "2026-08-13T00:36:53.9480793Z",
+    "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.36/KofAndrew-Client-v1.0.36.zip",
+    "packageSha256":  "F4CCF644239C6BA68F64115A3A468D41AE3979EF114D4074AA104A2FA923283A",
     "files":  [
-                  {
-                      "path":  "D3DCompiler_47_cor3.dll",
-                      "size":  4916840,
-                      "sha256":  "A05D04A270F68C8C6D6EA2D23BEBF8CD1D5453B26B5442FA54965F90F1C62082"
-                  },
                   {
                       "path":  "KOF Online.deps.json",
                       "size":  422,
@@ -16,8 +11,8 @@
                   },
                   {
                       "path":  "KOF Online.dll",
-                      "size":  3897344,
-                      "sha256":  "44DD3184432929746BA635B28DFEC2D11EC283BCB6989B367189BF2EB655736C"
+                      "size":  3905536,
+                      "sha256":  "C18E9B7B4AE007BD28FDAFCA5C5B70C78E7819EB7D1514CC05949D155A47DACB"
                   },
                   {
                       "path":  "KOF Online.exe",
@@ -26,8 +21,8 @@
                   },
                   {
                       "path":  "KOF Online.pdb",
-                      "size":  23552,
-                      "sha256":  "6BA1526175EAC7007F704BB3394F32D9D7F8994270A3F56B60FB4A64EE9D6DDB"
+                      "size":  24256,
+                      "sha256":  "8E0C0FED6842147AB16140AAA6E989BD03336136E025FBDA057FFDF0C4233889"
                   },
                   {
                       "path":  "KOF Online.runtimeconfig.json",
@@ -35,79 +30,1659 @@
                       "sha256":  "1ECA0F0C70070AA83BB609E4B749B26DCB4409784326032726394722224A098A"
                   },
                   {
-                      "path":  "KOF Updater.exe",
-                      "size":  62434148,
-                      "sha256":  "5AF72E7C16D95966EAC90D640C16F4F01F9438B8CD5586FD4BF5C7BA8D75C97D"
+                      "path":  "game/chars/Aika/1.pcx",
+                      "size":  2634,
+                      "sha256":  "986B3F178919E2B847A4E9058F5AC7FAF9AB3A5CD9DE9F803EE43CE239F875F1"
                   },
                   {
-                      "path":  "PenImc_cor3.dll",
-                      "size":  157992,
-                      "sha256":  "E1BCD85E177302A63F63B48A8F84E3686355F5058E559086A80844C1CF0F0466"
+                      "path":  "game/chars/Aika/aika.air",
+                      "size":  78147,
+                      "sha256":  "C32B95358E56CAA640A34E1C583F90FE6EA1F46EFFFFDEEC7973FD8E09A75176"
                   },
                   {
-                      "path":  "PresentationNative_cor3.dll",
-                      "size":  1237768,
-                      "sha256":  "5DE57DBC363E91B13791C24E5DF76E1395B4256986DE4C7844594EF809F7CBEA"
+                      "path":  "game/chars/Aika/aika.cmd",
+                      "size":  24486,
+                      "sha256":  "EA2F888D4244BE1D1A6B18938977E30DF8195555E242DBB00D553F6BED838991"
                   },
                   {
-                      "path":  "vcruntime140_cor3.dll",
-                      "size":  119888,
-                      "sha256":  "02C6AA0E6E624411A9F19B0360A7865AB15908E26024510E5C38A9C08362C35A"
+                      "path":  "game/chars/Aika/aika.cns",
+                      "size":  120589,
+                      "sha256":  "CD9E064E4415D58705C51BA850FA003AA4791F0D8901475B4BE3D1E835DD5505"
                   },
                   {
-                      "path":  "wpfgfx_cor3.dll",
-                      "size":  1963816,
-                      "sha256":  "5245476EED26C58E120DBAD3CB138F8D7FAC755836B611DEF109FEE0D78AECB9"
+                      "path":  "game/chars/Aika/Aika.def",
+                      "size":  408,
+                      "sha256":  "3B29311BE06FDB71D9A448A08A84BCEA13EA6FE467ED15D67BFC463BE00B5DA8"
                   },
                   {
-                      "path":  "game/data/fight.def",
-                      "size":  97067,
-                      "sha256":  "1F9800BC021E99EDF9AE24A1E8096F55790B489851CF315657DF472B8771D381"
+                      "path":  "game/chars/Aika/aika.sff",
+                      "size":  2196968,
+                      "sha256":  "087D4DD1BFF176357544CF59B3430AC47D476B71544D36336248A31BCA17C357"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika.snd",
+                      "size":  2446233,
+                      "sha256":  "13628B9D3AB5FD73FC2FA60F324AF43FEB97F349CC2DB3F73C5E29921AA95088"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika1.act",
+                      "size":  768,
+                      "sha256":  "8D13462E9A52F2A1FBBFEDD92B3967CC39DB1D70131CB0F0B9946523BAAA7461"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika2.act",
+                      "size":  768,
+                      "sha256":  "D02F6932BAE91FF00CAB3B695F5260E13844A97DCD23B1215CAFC312DA645E69"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika3.act",
+                      "size":  768,
+                      "sha256":  "E169A2BEEADE11186A61C74F1F362EA45B6E90FFFB8C1A283B4245DF703F5045"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika4.act",
+                      "size":  768,
+                      "sha256":  "9DEA284A02A93FAF33AC6164A98BC0CB53014639C252EA274E8A4E8AAD36E2DE"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika5.act",
+                      "size":  768,
+                      "sha256":  "0EE2370170417D7C56751A423640BB2F03599A30DB00CE7FFD7C1F780F9FEE1B"
+                  },
+                  {
+                      "path":  "game/chars/Aika/aika6.act",
+                      "size":  768,
+                      "sha256":  "BAB9A21D8B3473F8054130EC96295070C9B59EFA974C4479E6A59722D746C147"
+                  },
+                  {
+                      "path":  "game/chars/Aika/common1.cns",
+                      "size":  41168,
+                      "sha256":  "529BF9C86AAC49E0AAD820BF3575F9861CF45391C5B6528579858D010183210D"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Akira_Kazakami.def",
+                      "size":  560,
+                      "sha256":  "6679D769A24492884A97B1D1945C657B5D5935D8D89BCBE9BAAF06948C8BBB30"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Attacks.cns",
+                      "size":  213937,
+                      "sha256":  "08074B820D87A954B5162413711311604D6D2506146BF066876277264ED8479D"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/cmd.cns",
+                      "size":  23148,
+                      "sha256":  "E9D5436B9FC23C6026DA9BCFEA6C40217181050C61A3639E903E066CD87D18CF"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/CommonEX.st",
+                      "size":  53865,
+                      "sha256":  "7933937BC4344E7A1A51515B4124A6512C4C52E28A129F882C0FAF1D53F4132B"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Config.txt",
+                      "size":  13563,
+                      "sha256":  "D4825D944EF5F22FA18005ECA32A564C43393C28F806F25D539EDF0C54A73D4F"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Naomi-KOFM.air",
+                      "size":  118064,
+                      "sha256":  "762595390869A791C4181A841C1E9CF53048B3F7783FC46D8D7C549A01827767"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Naomi-KOFM.cns",
+                      "size":  1773,
+                      "sha256":  "129E603D3CCD5AD0EA2FB40448B6314269A529D4ECF321114E7D93D3058CBF18"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Naomi-KOFM.sff",
+                      "size":  61666111,
+                      "sha256":  "505733C25AE2C7FC4F1C48AD336F8BA6C412D58D4B8A34A465BA19B37552B5D5"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/Naomi-KOFM.snd",
+                      "size":  29086631,
+                      "sha256":  "6CBEF98E825A8D7A40FEE5C53773D3F5D28DCE8E009F69AADB533D68B5E7FC30"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/txt+alpha/Readme.txt",
+                      "size":  2280,
+                      "sha256":  "5A41EE223B2A847494A77D63C259EC43FB7415FD1E83FBC8F88668CFE7F90481"
+                  },
+                  {
+                      "path":  "game/chars/Akira_Kazakami/txt+alpha/ポートレート.png",
+                      "size":  486120,
+                      "sha256":  "AF33A9DEE7A101776999254FAE3C68E24CF7F6B677D836342434D8B63F9E9E72"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/akira-ogake-kofa/akira-ogake-kofa/hypers.st",
+                      "size":  101150,
+                      "sha256":  "FAAD3966539CD15BE2D5637615675D9E7D69B28BF33AE172676BBAEE00D1E374"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-H.cns",
+                      "size":  29390,
+                      "sha256":  "30C005C57B2ACE49971D25ED9CA919DF75626B851BD331A8179EBC566249F000"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-MAX.cns",
+                      "size":  26041,
+                      "sha256":  "56F4417ADAE36748C186BE7DDD063DBEE471FF7678076A02D01CF58B2800BC2D"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/alou-kofa/alou-kofa/Aru-S.cns",
+                      "size":  38893,
+                      "sha256":  "F8D9C404B704A5BCD06D82DE1F6F450E2F1BA32B4465637B9B6DC840CB0B0265"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/choi-kofa/choi-kofa/Choi-H.cns",
+                      "size":  79932,
+                      "sha256":  "D83EF519755095449D8DBB382B0BD60B3EF64FB48CB16B729CDFF30EB622714D"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/Ikoku_No_Tyousakann/Ikoku No Tyousakann/kfm.cns",
+                      "size":  122972,
+                      "sha256":  "B9675AA649C57146EAF218449A516E5D405700EF773E038C976C1180486B0FF4"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/jun-lee-kofa/jun-lee-kofa/hypers.st",
+                      "size":  76347,
+                      "sha256":  "625B2E914E27D8D06A74E90083D83096C2A084866E396F2DB3F033451129A5DB"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/keith-wayne-kofa/keith-wayne-kofa/keith.cns",
+                      "size":  114658,
+                      "sha256":  "F1E3AF39F72CF9966A5EDB2F88E1F708A0AB4708664FBB7C2ED0EACB9C09E1DF"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/kira-sky-kofa/kira-sky-kofa/KS-S.cns",
+                      "size":  26967,
+                      "sha256":  "1872C1770D6006D80FC56013C13F4339762866CD4C0BC8C2C4C5D2CF8ADB01B0"
+                  },
+                  {
+                      "path":  "game/chars/AndrewPack_v1030/kira-sky-kofa/kira-sky-kofa/KS.cns",
+                      "size":  34555,
+                      "sha256":  "26A40A5CA1906C1D95294EC144015717CA21754EFA41440AB25CD09383E3E060"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/Dual-flame_Magaki.def",
+                      "size":  644,
+                      "sha256":  "6C56AAE9BB0D0902BFEFE2B9554A808AE3F9FB6E648AFB9AB70D284B02813EB9"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-2-3.cns",
+                      "size":  12420,
+                      "sha256":  "A0FFAF27054D9E4D4AECA50FA6790AD6A1A9ED8607095022DCCA0AF58CA1DA70"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-608.cns",
+                      "size":  92162,
+                      "sha256":  "B0C4B7E3280129712EA6EC0735110A634CD4A626901784A3C59DD8737A37336A"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-c1.cns",
+                      "size":  37419,
+                      "sha256":  "53716DF5F936480B4C5BBC143A1B6B6C7D099BB046A6D454DE907025C2EF5C38"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-N.cns",
+                      "size":  71489,
+                      "sha256":  "DF56B86B7D5C4852E2C3CF6A17860BAF27D27749D6B2D278FEB94F17EF21FB3A"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-S.cns",
+                      "size":  88203,
+                      "sha256":  "9912FD31EE2895D4E3D6B66F5A272C0E77B03E119B06991ADD4003565DF4F91A"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-SS.cns",
+                      "size":  113236,
+                      "sha256":  "ADB28EB4EDEE4B4B44EAEF4456B17A0210B5928B90866EDD143FD5BC285D3C05"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki-SSS.cns",
+                      "size":  178055,
+                      "sha256":  "C9F976253F59E33CA8194AE7CD4AE0C97F0DA1EE660778E84D09F6259AC4C1C4"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki.air",
+                      "size":  130942,
+                      "sha256":  "54D9C50AA48BDB856400DA066B789EEFFC3D94853DC566EF44ACD5B3724D8AF6"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki.cmd",
+                      "size":  89576,
+                      "sha256":  "753A327C62287DF0688CE16358BC2DB02CF6F9E43A1EB18945BD832051BA0025"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki.cns",
+                      "size":  71081,
+                      "sha256":  "C4D3AD292A5CD5FB92B3739CA51130336AD4897333834925F3EB87E6F13E29CE"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki.sff",
+                      "size":  33214247,
+                      "sha256":  "1904EEE29746D1AA2EA32A2FAB5A24E1D7A9EA0F2DE093CCD7181D137310350E"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki.snd",
+                      "size":  14823332,
+                      "sha256":  "CB2DE8518762EDA160F383F8C28F223FB29415E4111CD0661A3CD719E17487B7"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki01.act",
+                      "size":  768,
+                      "sha256":  "882B87EAD243447137F502ADB85AAE35064B269430B3F51810C79E028028D142"
+                  },
+                  {
+                      "path":  "game/chars/Dual-flame_Magaki/magaki02.act",
+                      "size":  768,
+                      "sha256":  "FEE80970835D77855E4C5BDD2D31F6EB2182F964382EDA397A7427D0A301122A"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester-2.cns",
+                      "size":  13535,
+                      "sha256":  "6B83CFD5F69F323BA92F417D8044C6B5AF76C65268100D27DF8F6AD74AC5387E"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester-EX.cns",
+                      "size":  23414,
+                      "sha256":  "6AA117DB8941B62C872C460D3669A384871886136725A7D45EE3E5628AA53098"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester-H.cns",
+                      "size":  47326,
+                      "sha256":  "BABCDD68D11D8284CE5A3229BA90B1ED96A02175B5B3396A066221E5C3125C0F"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester-N.cns",
+                      "size":  46774,
+                      "sha256":  "899C06FADC9A6A7597DAA8DCE55998347559865CC04CEDEE352EEAC845FEE266"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester-S.cns",
+                      "size":  39099,
+                      "sha256":  "0DB64FABE462029A0A1B164AE109205A5D120618C0CAEB67A223CE97634807F7"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester.air",
+                      "size":  123281,
+                      "sha256":  "C98FC8AB0B8B22729D5CDF6A02F68A7FA1456E08B537CCBBF9DB8866944D86E7"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester.cmd",
+                      "size":  95575,
+                      "sha256":  "824E3D5BBF149B8ED5EE705FF1689164AC606C1D1FADBA0576356B6CF611F3CE"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester.cns",
+                      "size":  62105,
+                      "sha256":  "B1B3D4E75AC664C5B3ABBE678DF923411580BEDF4400701E14CBF80B2A2C1962"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester.def",
+                      "size":  761,
+                      "sha256":  "E5512797924CA520FD6060A416FC4743CB6346085D18922E83F7DE1D46CA0E22"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester.sff",
+                      "size":  10733625,
+                      "sha256":  "95389B4C264891739D955B461CA1E578D706B5917CE27E6F0613E117ACA3CE28"
+                  },
+                  {
+                      "path":  "game/chars/Duester/Duester.snd",
+                      "size":  15697968,
+                      "sha256":  "FBD0F79F917CFFC3705988DB3C81ECE7608CF3272BC461A3DA0BEFAC8F5FC0F8"
+                  },
+                  {
+                      "path":  "game/chars/Duester/act/Duester1.act",
+                      "size":  768,
+                      "sha256":  "E4F3B95D5A8C2FBCD4E84DD231DC1EE5A1F24E1F17E5264FA06E2DB0F3C77F42"
+                  },
+                  {
+                      "path":  "game/chars/Duester/act/Duester2.act",
+                      "size":  768,
+                      "sha256":  "E99D86AC30DBE511D62E44539747CCED385BE6DD5053BE8516B7FB3967F61C9A"
+                  },
+                  {
+                      "path":  "game/chars/Duester/act/Duester3.act",
+                      "size":  768,
+                      "sha256":  "6A3937C3588581E34EC8FE975B94CF28DFD5048EA2608C98A99D1E595DE84236"
+                  },
+                  {
+                      "path":  "game/chars/Duester/act/Duester4.act",
+                      "size":  768,
+                      "sha256":  "DBE89FC205FC895480E3641717523A32E03B6173597F2C73A4C53C03D76A9831"
+                  },
+                  {
+                      "path":  "game/chars/Duester/act/Duester5.act",
+                      "size":  768,
+                      "sha256":  "6DB849A1220700F27B69875A81444D60F2832D3ACD38C389F13A20CDC5937582"
+                  },
+                  {
+                      "path":  "game/chars/Duester/act/Duester6.act",
+                      "size":  768,
+                      "sha256":  "0C198AC5CC7103D5B2B008442CE2E4D87D803C1591D2787B11A09E3E4429C79F"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/Readme.txt",
+                      "size":  6009,
+                      "sha256":  "16B2A320A1F7EADBED6208A718A2099EBBE9840DAFE6DB990C5E25E98CB69200"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/ìXÉVùÜù­.txt",
+                      "size":  2211,
+                      "sha256":  "1C9282EA08C83CD97CB6632FAD690D977717116771E6B557905A381E640E5D79"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/é╗é╠æ╝/AKOFâeâLâXâg/É^Ä└é╠ÆÃïüÄÊ.txt",
+                      "size":  8158,
+                      "sha256":  "6CD427C44F1CF57719086955A162E58452B29DB84B7DAA4D9C0E009D944366C4"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/é╗é╠æ╝/âXâeü[âW/AKOF-DUESTERSTAGE.def",
+                      "size":  3051,
+                      "sha256":  "ACAF9859B7EBEC73DE70FF69E5C2AB84B50F2D49D97C259209B5DA13DA2021BB"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/é╗é╠æ╝/âXâeü[âW/AKOF-DUESTERSTAGE.sff",
+                      "size":  470834,
+                      "sha256":  "E90DE3F3D27AD326DD757D079D805A9B53BBDE3136D327579C82523D3004FC07"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/é╗é╠æ╝/âXâeü[âW/Readme.txt",
+                      "size":  71,
+                      "sha256":  "7DAE00EBB423C6C51E992D473BF346CF78B1050D35AA30C8EB754487A09883DA"
+                  },
+                  {
+                      "path":  "game/chars/Duester/txt/é╗é╠æ╝/ùºé┐èG/ùºé┐èG.png",
+                      "size":  3249140,
+                      "sha256":  "990810EBE38EBEF0204AF625BF79018E9ADAA635C146CA635440F8F08775B054"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/0.png",
+                      "size":  2881,
+                      "sha256":  "A6DD69234324CC1110826DBA7F8212516FBB84508126BC7A69C816005D69409D"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/37.png",
+                      "size":  2215,
+                      "sha256":  "EC40C58BF1DF156E2F676BE87B6386E0BD40867E75A54BFF0A50785EF91F958E"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/9.png",
+                      "size":  5760,
+                      "sha256":  "0BB550F307C5C91F9C60732E907789E206B130695FF84B5A411A598B70C7733F"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/Ember Eputh.air",
+                      "size":  132492,
+                      "sha256":  "567167F543EA42A6BA652C88A98744D78BFE29C03026825702F40FFE503FE346"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/Ember Eputh.cmd",
+                      "size":  63304,
+                      "sha256":  "CD10BA935962597E73DC10E9163410D333E0D58E956CC2959C945C2F2D7602D6"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/Ember Eputh.snd",
+                      "size":  19689654,
+                      "sha256":  "831B48D96D558C4BC4E5EA2D8ED36F97AEE317884777905274D72FF4998FA38F"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/EmberEputh.air",
+                      "size":  134330,
+                      "sha256":  "87B9DC5DE29AE689950078A0E6D2D6444BA2FA01C53034D6184A4054690F8502"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/EmberEputh.cmd",
+                      "size":  64548,
+                      "sha256":  "1A30EBD68F87607E0BA28683FC0CF9C248E0E8F3EAA44740C67B757DFE2AA422"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/EmberEputh.snd",
+                      "size":  19689654,
+                      "sha256":  "831B48D96D558C4BC4E5EA2D8ED36F97AEE317884777905274D72FF4998FA38F"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/Eputh Blood-KOFM.def",
+                      "size":  1137,
+                      "sha256":  "5C6B78EABB07FC68E4EAF1AA3D5E57F709AFE28A718E08518954370A1E93C0B0"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/readme.txt",
+                      "size":  855,
+                      "sha256":  "66BB7C11743305D032A51EC35A55474344DAE060C24773D00F144B94A8FCA1B4"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/人物设定-余烬.艾普斯.txt",
+                      "size":  1375,
+                      "sha256":  "3F98740DFCDF5F3B334876A00031E3FFC2E653AA50797B819E1F51760EE61C93"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/关于常时AI开关.txt",
+                      "size":  184,
+                      "sha256":  "4A6CEDF4E57F01B1494BDF9995E11869122AFF8451547CBFF1DA2B930BF8C757"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/关于皮肤使用.txt",
+                      "size":  386,
+                      "sha256":  "FB2C43042FD7DCD7438C8ABE64AE6C8B60C1D21D437A34224D1B1370A87D52A9"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/关于高P说明.txt",
+                      "size":  82,
+                      "sha256":  "248E306C91DB20E9BC49A1E738F45CB25EF98A51F1829D92674ED6D454F4F174"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/出招表.txt",
+                      "size":  927,
+                      "sha256":  "5F965FD66B1FCF46680CD9A328FD98156170021E2F2952028ADF7BEC4E270432"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/备份A.sff",
+                      "size":  8092524,
+                      "sha256":  "B0EAA8F8CDD2888127668000FF2CAC3EA41A668DA96629E85E999E3866F1DFF9"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/更新表.txt",
+                      "size":  193,
+                      "sha256":  "555728190A38C8A72FBEDE1E77A15F5BCFA5FD6165046805210FCF1B3BBEB8DB"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/act/M蛟的裤子.act",
+                      "size":  768,
+                      "sha256":  "990E328DD7AD5EA04DBADE9492F3537D694A623966398730D3E3118B1D4DC959"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/act/假装自己是血炎.act",
+                      "size":  768,
+                      "sha256":  "7557ED966D14B00B23BD9E3BA19E5059D727CC889A73B69EB00EDD0DC380841B"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/act/恶海的裤子.act",
+                      "size":  768,
+                      "sha256":  "1DB6DCA604709FD402857990E121B5C6BE30C4A5C675318777F40D8F246187CD"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/act/海奥斯的裤子.act",
+                      "size":  768,
+                      "sha256":  "C7042E8CF84ACBDDCEA7204E07FA7689082F852BF28C5EDF33F2382A7014AC86"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/act/艾普斯他自己的裤子A.act",
+                      "size":  768,
+                      "sha256":  "21CF27DE33F807136AB9E3C9FA88704E48A15BF4771E204EE59C3A7D84A443E7"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/act/艾普斯他自己的裤子B.act",
+                      "size":  768,
+                      "sha256":  "AA57EBBC3557A6126A7A781E8B3736DF78F931586B32CE5A04592C9C67FA45C0"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.act/blood.act",
+                      "size":  768,
+                      "sha256":  "BFCF0EF557A8347EA1C3878A613AE02D1EA81BB200375E698B0A7C582B14F33C"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.act/element.act",
+                      "size":  768,
+                      "sha256":  "A6D114B10823631CB9169EF08F29781041AC968CCFE80EC544BB820BA13C7B67"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.act/sliver.act",
+                      "size":  768,
+                      "sha256":  "7F3FBA0E35190EB6F73B752BDDD7F146FCFA959C122DE8A55B5AF1A1227507A2"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.act/wine.act",
+                      "size":  768,
+                      "sha256":  "1D0F936AB9D1421913D30BAD8FC327FC2BA0365182A0DB7EFFACE792CB9913C6"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.cns/common1.cns",
+                      "size":  51174,
+                      "sha256":  "4BC82B94D41F66B2A98FAA97CD3046C95AB234C7440CB49F870A743269445E9B"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.cns/Ember Eputh 1.cns",
+                      "size":  320880,
+                      "sha256":  "A4721B803F165D76173C8BD0FB1EE64F3349471157ACA7AA39201F9EEC0B64AC"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.cns/Ember Eputh 2.cns",
+                      "size":  220144,
+                      "sha256":  "B085EE34C691D4D3086B2007438CE263477C9662ABAFCA33ED7909885A917CB9"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.cns/EmberEputh-1.cns",
+                      "size":  322335,
+                      "sha256":  "566C840E07292DA98AB5EAD47069DC4235D4D908F0AD7F7DFA8753664DEFC197"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.cns/EmberEputh-2.cns",
+                      "size":  252501,
+                      "sha256":  "9FF4706BA3B9CAB89F00DA544812D00CBBA6F41BEA7F60C9EAD3B878853F4E85"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.sff/Ember Eputh.sff",
+                      "size":  6268305,
+                      "sha256":  "68491C0A05DA13958DC950EF20601BFF1789A4627770D054ED45E3082866B20E"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/blood.sff/EmberEputh.sff",
+                      "size":  6256738,
+                      "sha256":  "D430A60A9D7D761D543FF6BD312D2EABDEC5F9851114561669C794CA9673BEA7"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/cns/common1.cns",
+                      "size":  51174,
+                      "sha256":  "4BC82B94D41F66B2A98FAA97CD3046C95AB234C7440CB49F870A743269445E9B"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/cns/Ember Eputh 1.cns",
+                      "size":  319937,
+                      "sha256":  "E5D58D0A40736F029A205FF154C0365FC3ACD6EDDF60E85BC8FE3E22E8886DF0"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/cns/Ember Eputh 2.cns",
+                      "size":  219961,
+                      "sha256":  "DF7496A70C48CD28CA4FFDE26E1064C1BCE79E8C793C81F677AF676EC8B11403"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/cns/EmberEputh-1.cns",
+                      "size":  321311,
+                      "sha256":  "71B44B76F2D6A1C306BFF664F720944BF2C34E715489BD54B9D39A5C63503183"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/cns/EmberEputh-2.cns",
+                      "size":  252255,
+                      "sha256":  "5ECD140AC411F100A230D3C1072BD30E9539CB33F00CFC00172784310A4E0924"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/sff/Ember Eputh.sff",
+                      "size":  6250156,
+                      "sha256":  "F8CB85B5E50D282FACC4A36FEE3026D78AD9D0B1A4A35D3511E3BAE63F50E672"
+                  },
+                  {
+                      "path":  "game/chars/Eputh Blood-KOFM/sff/EmberEputh.sff",
+                      "size":  6254526,
+                      "sha256":  "902B0A91388D70688FF2852BA73DDFE12A8357E27AA19F3DA455DC6772EB6429"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/common_felix.cns",
+                      "size":  46253,
+                      "sha256":  "42B06BBF8B96D161F4473565B5381F80836A64A6C60D36F148F0580B527F737C"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix.act",
+                      "size":  768,
+                      "sha256":  "C2F7317ABA4544409AB4F1467F963FEC84CC47A33526DA0DC09A6A9AD3BECBA3"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix.air",
+                      "size":  171114,
+                      "sha256":  "3BFEC1C16A3EAF30CA7EC732C1BD2E5496D47FB3A6B8D2121AE7B95F42348885"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/felix.bmp",
+                      "size":  17878,
+                      "sha256":  "9DEE00F261DA29C2EF1EB753B7BE9536AF8251042C305D0C40A5620280B4CEFB"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix.cmd",
+                      "size":  59228,
+                      "sha256":  "D586845542E10933413FF2DD81BDA9A382FAA4E31A1D847EB4C5E8DF0727AF6D"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix.cns",
+                      "size":  360904,
+                      "sha256":  "23111C28C060636ABF20B0BAC4548D6EB659143BAD1EA44BEB50F6207EEF200A"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix.sff",
+                      "size":  35778623,
+                      "sha256":  "D8387C9F058C0ADA2B55B29C9028DC54AC87CAC47DBE9DB755A1954B59C2AB8C"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix.snd",
+                      "size":  28852789,
+                      "sha256":  "6B2A7EEE316AF61588413D450F3CAEFBC46CB726D6E5D5E3F94AF2AFF97D76E3"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix_-2.cns",
+                      "size":  120391,
+                      "sha256":  "13F30F00E8B66EA9F2F4F0174639DD5F1C6069543218144AF804FF83CE9F1962"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix_H.cns",
+                      "size":  5921,
+                      "sha256":  "48DA35E8E91E00EB826969BBEB2112396D15EDCA9B8E81F0B022025ABB9AFF3D"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix_N.cns",
+                      "size":  8226,
+                      "sha256":  "373BAA5C7E0C4A7820DAC0706CF0E4EED67176DEFF0829AB88BE5E5D7D95DE3D"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/Felix_THird.def",
+                      "size":  586,
+                      "sha256":  "E6113E8277A9372B2BC9BE942761FEB267024E5A7F58F1E0B50193993DBAAFDA"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/helper.cns",
+                      "size":  31428,
+                      "sha256":  "4694381E61AEA4ED39DE141B4A6AF47CD057888C3596B6556BB2536A1C59933B"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/null.cns",
+                      "size":  57880,
+                      "sha256":  "70BAB7DCE26BE5DE89B9F40F717D4F210FF982C084AEF156562A53D7CD9E0B31"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/readme.txt",
+                      "size":  5160,
+                      "sha256":  "197EB6CFC141D0AE65F489761719684AFA71EC55E6FE05D48B8214BE8C9D5F3A"
+                  },
+                  {
+                      "path":  "game/chars/Felix_THird/âJâbâgâCâô/âtâFâèâbâNâX.jpg",
+                      "size":  347553,
+                      "sha256":  "6D435ABBFE5625A84422E53C5F3D3BAF75384BC8AA224F49F371DD66B6F93C52"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/Boss.pcx",
+                      "size":  7760,
+                      "sha256":  "801801F89902F2A781C27B46BA29BFBC04AE614D484DBBE5C29CA7BCD23FF2C8"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/Face.pcx",
+                      "size":  1519,
+                      "sha256":  "05F6C2C1B2F26E101F55E16083817901209BF173E0E5F7B5DACBB3AB90812CF3"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/Final-IGNIZ.def",
+                      "size":  721,
+                      "sha256":  "C4A68E4BBAFEC492FD4DD4AC8B74FD2D9BA0A5156F62FCC664877FFC273C897A"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz.air",
+                      "size":  87585,
+                      "sha256":  "9434079734CBB6657FF9080FABF6762498710ECB3D741B5514E79DE65D8B7F1C"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz.cmd",
+                      "size":  43616,
+                      "sha256":  "1AF0F946A20708F69F44DAF755C5401226EEE55FEA4514B9AF52FFADCAAB40E3"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz.cns",
+                      "size":  257545,
+                      "sha256":  "249E3FCA6A1882C2DF44715ED81E7DF1B79997B947F3D98C68AF07B6AFFB179A"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz.sff",
+                      "size":  5217965,
+                      "sha256":  "F5A043F298785A0C903651D6B54887410DFF601EBC312630796A38969914EB5C"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz.snd",
+                      "size":  5686113,
+                      "sha256":  "AAB2D141F5C5B8208DDE40F5E60CBAFC1FF16EC48A486D5EC6260468559510A8"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz2.cns",
+                      "size":  8439,
+                      "sha256":  "59675B6E3EC6826FB7A5B6CF2BA89AD9032E95B8BA12A0500117DF6232DD2057"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/igniz2.sff",
+                      "size":  5238483,
+                      "sha256":  "7D4C5D69ED69A8B670BC21D251ECFA5B2FD46E7702B24EDD81B2C68B3AD9040A"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/IgnizIntro/Igniz.def",
+                      "size":  22704,
+                      "sha256":  "10F05C349536651DB8326FD7DD00746FAA2B44D6CB19FA2DEE71A1C59CE34CF2"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/IgnizIntro/IgnizI.sff",
+                      "size":  33478959,
+                      "sha256":  "6CEF7BAF8CDBA41D105AEC8FA658748B9A5E6BCC93FF8F19F0AF0C5669147EA8"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/IgnizIntro/IntroI.mp3",
+                      "size":  1281645,
+                      "sha256":  "51350B902B98928ED1140E129418B0AEEA01E228986CC9E87A19597D8193333A"
+                  },
+                  {
+                      "path":  "game/chars/Final-IGNIZ/Paletas/Igniz-1.act",
+                      "size":  768,
+                      "sha256":  "F75F8366FFCE419C9BA10D85CE1D47A05413760E53A531F902280629295FC68E"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/Boss.pcx",
+                      "size":  4515,
+                      "sha256":  "DD834BFB62C69921EE011AC9B68C70B409F010AE623BD3DC44AB449489B81009"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/Face.pcx",
+                      "size":  1263,
+                      "sha256":  "DCB62C350C333D5B40F695357681E2964CC71AF220D4C8245CB8776ACE297A5E"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/Final-OriginalZero.def",
+                      "size":  781,
+                      "sha256":  "597CA6F3D085AF3CCF6C36C8BA8F509F461F8375ACB5F90E98694FF74829A4D6"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero-AnotherStriker.cmd",
+                      "size":  15458,
+                      "sha256":  "B831F6DF1B5CD80FEA65E4F90EA46F19B0419EE40E91E02853ECFDCB34B8B121"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero-SP.cns",
+                      "size":  71765,
+                      "sha256":  "D72CB40B009FBB33D22379E5F451E1CE4563EFFC30F6A302BDC553EEB14C40EB"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero.air",
+                      "size":  61200,
+                      "sha256":  "A61E51E3CBD687D52561C9B213FAD2741EFDEA9BF316103DCEA3FD44EDD549D3"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero.cmd",
+                      "size":  34481,
+                      "sha256":  "960360A885F972F225DD2EBE1B10F13F21F1D52AC797532E7FAEDB8361DBB13A"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero.cns",
+                      "size":  58540,
+                      "sha256":  "173D8737D2148E9716E24990E7E56C289F27FF0581933DCBA9EEF84629EAD7C0"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero.sff",
+                      "size":  2669630,
+                      "sha256":  "4CB70639F8E35BE88AC9A09B60E4149F881395F457A8E32FB0B5C068F33F3B3F"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/OriginalZero.snd",
+                      "size":  3128304,
+                      "sha256":  "76A32A509F0249F5A8674ED0AA37D8F4D6F9AAFCF039510A58FF66F2C2827923"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/Paletas/OriginalZero.act",
+                      "size":  768,
+                      "sha256":  "75E8C520D2441D3BED238CCCA726F841B571B25B8D243A5AB066F51ECB9F7270"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/ZeroIntro/IntroZ.mp3",
+                      "size":  1281645,
+                      "sha256":  "51350B902B98928ED1140E129418B0AEEA01E228986CC9E87A19597D8193333A"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/ZeroIntro/Zero.def",
+                      "size":  22241,
+                      "sha256":  "6AAB7049C84DE2E137D4F81CDA2870CE13034349AED9B810C77B501DF03E0837"
+                  },
+                  {
+                      "path":  "game/chars/Final-OriginalZero/ZeroIntro/ZeroI.sff",
+                      "size":  37894057,
+                      "sha256":  "F8A92508D1376ABF7BD70951CD3742BA083979268E85F3C52DD6219C79B083EB"
+                  },
+                  {
+                      "path":  "game/chars/Momoko/momoko_H.cns",
+                      "size":  65055,
+                      "sha256":  "EA3F50EE3833A241589F0E7DBFDA93D5336F45433E5C1355C33D094CDE0AE033"
+                  },
+                  {
+                      "path":  "game/chars/MrKarateXIII/MrKarateXIII/Hypers.cns",
+                      "size":  78926,
+                      "sha256":  "50C9DB0664548AFFADC60B35A57C37A6B353A819C35B50D1DD0BC9AB59608202"
+                  },
+                  {
+                      "path":  "game/chars/MrKarateXIII/MrKarateXIII/Specials.cns",
+                      "size":  101997,
+                      "sha256":  "6B2050686EA24EF6E58D754A2F819C134C4A3A812731AE22CBF0CD4C959F9CF6"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/-2-3.cns",
+                      "size":  42869,
+                      "sha256":  "5B9C67D881E2C0D4D122A80A38B172D7F2616FF1B06EC80D874A4735D04DD40D"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/common1.cns",
+                      "size":  44393,
+                      "sha256":  "0ED37B846C696FEC7C70678DDAA42D0A9CC3961A990887004A78591A647FEED6"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/Nao-MX 1.0.def",
+                      "size":  1466,
+                      "sha256":  "A28AF449A12CA236498F9077DF4BA18FC291432DEF54DAEBB6B50E638B0DAAEC"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/nao-mx.air",
+                      "size":  155038,
+                      "sha256":  "75EB148E6F18C9BA16AF6DAEB1D30D85709589518479121C562C60364D43C656"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/nao-mx.cmd",
+                      "size":  29742,
+                      "sha256":  "9F2F61DDC4BC06FA2724F04B2EDB6AAA7108554F8CB2EB2CF85956FEEA85990D"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/nao-mx.cns",
+                      "size":  324550,
+                      "sha256":  "14A019BE5198C9BDCE3BFD966A3B967A828BFA768D84E1F4B4D207997C5B2D11"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/nao-mx.sff",
+                      "size":  103617452,
+                      "sha256":  "5142A86D125E99D71854CA53F910161F83A896DA3134A5F78DB55001FDAA6E6C"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/nao-mx.snd",
+                      "size":  14821760,
+                      "sha256":  "FC9E7D083C22B979446BD7152431C75C65B50C78066DD87EE42C8BBF4FEA7F50"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/nao-mx2.cns",
+                      "size":  389743,
+                      "sha256":  "AFA44435FAD73BC5931436BC99EC02528EB33563D63ABAB57E2C49BB4E581E3E"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/p2.cns",
+                      "size":  19390,
+                      "sha256":  "C31F39C94425FA7913BF4AC2D3A8CE88E35F4440CB74BAF5F66CDB52271D76C3"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/Readme.Dee.txt",
+                      "size":  914,
+                      "sha256":  "92FC668DDC48BFB0622D77109C684AFABB7B70CF929EF35C2F6A7FD8D0A93B1A"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/人物强度说明.txt",
+                      "size":  233,
+                      "sha256":  "43FD4E3F1750A0D7C919A1F4FFC0E388565F6F97F01646236F6D2C79CE62DA79"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/pal/12233.act",
+                      "size":  768,
+                      "sha256":  "64516E7D1C7A28A27FF77A493C43888752B757D583F1129BF69A254FBA378AEB"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/pal/999999.act",
+                      "size":  768,
+                      "sha256":  "371C11801EAA68BE83E08B739A7D64EA44032240719020088B7C3C0726BDD7FC"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/pal/沐溪色表.act",
+                      "size":  768,
+                      "sha256":  "78C2101F939472610AEB57F17F7947025DDF4A0E1D60AA4E224965B77F2FA364"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/小银的话/人物档案.txt",
+                      "size":  917,
+                      "sha256":  "9A336A13CEA339014C70F316A1D738E0F7D944C22AB089111D1A935D09674276"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/小银的话/使用说明.txt",
+                      "size":  451,
+                      "sha256":  "21827E5FFA539D0980239EB7CC34309198A3944C5BEC6C6776DB4F75DDBB010B"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/小银的话/加小银的群.txt",
+                      "size":  72,
+                      "sha256":  "A8873979DC43740B18C421B1C6995D3F38BE0D40C991E55DA3D946E26E4F7FE9"
+                  },
+                  {
+                      "path":  "game/chars/Nao-MX 1.0/小银的话/特别鸣谢.txt",
+                      "size":  162,
+                      "sha256":  "76346DE45699CFA3D3818B93B6F1B93D3FC757FE392EC8EE587D50CD82F7EE91"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/O.Zero-Prominence.def",
+                      "size":  768,
+                      "sha256":  "E2057F810253E24BEB3417EFB03AA2383039F5DDDCE4279B522D6CB41EE36982"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero.air",
+                      "size":  218455,
+                      "sha256":  "B0D84D990675497E0B22D732BA052C24AE008E319DDDE249E0CC449057D7511D"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero.cns",
+                      "size":  47573,
+                      "sha256":  "1C55F15337BDD8081206E9506AD863230002AD5D3A407575AEA227F4795C40E5"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero.sff",
+                      "size":  131342988,
+                      "sha256":  "50004769C7D142FE082907E5531A6F42DA99C0AB8857201EEDB30760CF75DA1F"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero.snd",
+                      "size":  34496222,
+                      "sha256":  "4B03335A5C93234AD41DD62A8C8D275B2CE9E2DB686288D2710EEB30DC33AACD"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero_cmd.st",
+                      "size":  94322,
+                      "sha256":  "19D552DB90BD7CAF7AAF337BE0EC1AA1238FB2F435EE1134528A43D0F58A8C93"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero_F.cns",
+                      "size":  217428,
+                      "sha256":  "9B02F537C1A685B1E2F264EC6DA242870648EE01D05663C3F2F49C707201964B"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero_H.cns",
+                      "size":  204176,
+                      "sha256":  "CB654CD46E77EF350E5FC99677BFC9FB75A1592B24F71154EE0ED2F30967ABB6"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero_N.cns",
+                      "size":  26537,
+                      "sha256":  "5100B65D1731FB72464A52763E0AD8711CD3EB73FA789F6661960E05878FE054"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Original-Zero_S.cns",
+                      "size":  124504,
+                      "sha256":  "3060C495BFA5150E16973FDF6A4EA300FB9DECB62E84733E556B0D619F125714"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/Readme （original_zero_UM).txt",
+                      "size":  6340,
+                      "sha256":  "C983E566599AB5FF0D3AC343B3E955218DA15D9B3CD2AA8DE43EE9BDFC8ACBD2"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/act/Original-Zero.act",
+                      "size":  768,
+                      "sha256":  "B1AB564FBC3EE69CFB8FD47A03BC7E6C292FC81BC3D130AB27DF9EB829D08A4B"
+                  },
+                  {
+                      "path":  "game/chars/O.Zero-Prominence/act/Original-Zero_Black.act",
+                      "size":  768,
+                      "sha256":  "7C7A3A152555A43603BAF1E9DD0D17047F9B41EB81DBC1B392CD32D0752BE0E1"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi-2-3.cns",
+                      "size":  18587,
+                      "sha256":  "1FF7AAC34C1E7C07B440F6123F345D0D9281B15E97FFC7FC7438CB6112EB1686"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi-H.cns",
+                      "size":  90850,
+                      "sha256":  "363900963D25C26940F33E361A0507338E18D212D599E50C70D81F0E63320D3E"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi-N.cns",
+                      "size":  26414,
+                      "sha256":  "29E19B3A7C17A55BB341F3015DE33D0DCD3C60C5A93FAC31F0D77702D4AC91D4"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi-S.cns",
+                      "size":  38524,
+                      "sha256":  "756FEDE7DD2C1F6D8FEEE31C8978A86831FC7B6EA17723E1E54FDFB432328A8E"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi.air",
+                      "size":  104951,
+                      "sha256":  "1B88104DF8F6A122A088FAC6ECEE53BB908C3F91AC1ECD2C1CF819D6FC7F0F63"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi.cmd",
+                      "size":  21008,
+                      "sha256":  "C2B4173EF76F1A342D6038232A06B875B90B656F390D3EB48D27F0A45E1C3B9A"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi.cns",
+                      "size":  30402,
+                      "sha256":  "C76EA854E952B88B1A64D25219A65F8F8B23FF720013257371C1964584269794"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi.sff",
+                      "size":  9326791,
+                      "sha256":  "5AD84F91CC76170C4B1871AE5CB1A39874AB81C3D46AD228C3FC898C6CAA170D"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Iori-Orochi.snd",
+                      "size":  7867758,
+                      "sha256":  "8D0AF744954156BED41C0D000FA68BF8CE57063ED6528F0B211FBAFAFDE76E95"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/orochi-iori.def",
+                      "size":  722,
+                      "sha256":  "46A1BA63A7D0D1E66C03F9FF679267143A2B437621639C75C083FB4F03FFF68A"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Paletas/Iori-98-1.act",
+                      "size":  768,
+                      "sha256":  "658EC8FD77DF1B264D8ED1895F0542B31732B059DA1F4DC206D9E007675F6EA5"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Paletas/Iori-98-2.act",
+                      "size":  768,
+                      "sha256":  "D05FCE223025F7E1CC958876CD7ABCB89197FD5ED6F7491AD095DFEC97223364"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Paletas/Iori-98-3.act",
+                      "size":  768,
+                      "sha256":  "D1031344640E951BB6287D541AA93BFB4285A00F25ED1D49D2334F10A3E94CF0"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Paletas/Iori-98-5.act",
+                      "size":  768,
+                      "sha256":  "011E39B0D49DF4CD4570FE13F240529D7D9E527E6F23237715F8475FC13374E1"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Paletas/Iori-98-6.act",
+                      "size":  768,
+                      "sha256":  "314E6ACC353A6377E52B25A240E11726768A286A6B0F8249F593F4FFB1BCF26A"
+                  },
+                  {
+                      "path":  "game/chars/orochi-iori/Paletas/Iori-98-Original.act",
+                      "size":  768,
+                      "sha256":  "141570B24582713799AE1782861D932FC07AAEF29842887ED67658B91F5C799D"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Config.cns",
+                      "size":  37338,
+                      "sha256":  "60496CCD2891A21B2CED4F12EDF0EA8A4FC5A1535F29E1E48E74B6BEAA899883"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/desktop.ini",
+                      "size":  75,
+                      "sha256":  "678468D7F4C82922913B1EC48EA0EA75BAE043D5439F4A11F28F30CA0C38D6EF"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/ThunderMiss.Shermie.def",
+                      "size":  883,
+                      "sha256":  "BC586CB62BFD8E61816F2FCE6ED9E61A4C55D928D9B0D75F692DDF351A6F9077"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/ThunderMiss.Shermie_charicon.ico",
+                      "size":  34174,
+                      "sha256":  "20EE22EEC41787AB9102A7CE9792949D32394FF9088851F1D5C15EF740229694"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/婚活戦士ゼクシィシェルミー(ReadMe).txt",
+                      "size":  4012,
+                      "sha256":  "6380DF258762FD7EDA60DA1F99CA56270826E8D83C7AB5F66A77261C08288BA8"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Defalut_Orochi_Shermie2.ACT",
+                      "size":  768,
+                      "sha256":  "A8EEC0999C54B87D1A37B2F592C93853C858B1FED192EB96F1FFB5D67EC3A888"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Default_Orochi_Shermie.act",
+                      "size":  768,
+                      "sha256":  "CC09A36637BDE300EDD259FC0F018095C92B3BEFEC1AD8A88D98A6DAD33EDE40"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Default_Orochi_Shermie3.ACT",
+                      "size":  768,
+                      "sha256":  "970A405D67C37E74E0DE1FA7DEEAF8AB29CCD7675F0C6B0EE1EFF4F38C4E66FA"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Default_Shermie.act",
+                      "size":  768,
+                      "sha256":  "A73C9871F47807D18AF61F09ABF75AA4310DA575AD1B3DC85AFC945BB7BA8B81"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Orochi_Shermie.act",
+                      "size":  768,
+                      "sha256":  "119AAD571A8F2675F1CF36031ABE128646F049611046D8F2EA9C6201D931ED35"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Orochi_Shermie2.act",
+                      "size":  768,
+                      "sha256":  "956FE2DF6A33F830ED8611E9F0C772506DF72C73F12A61CF996682301E371129"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Orochi_Shermie3.act",
+                      "size":  768,
+                      "sha256":  "3DBCA600E296714B7AE96131E177411BB35EF1589A440DD08AFCC6F04306CCD1"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Orochi_Shermie4.ACT",
+                      "size":  768,
+                      "sha256":  "43C6C9EE1B2FF70A38DDC057B28A702E65A078FEC12447F96729E2CFBA7BFCDE"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Orochi_Shermie5.ACT",
+                      "size":  768,
+                      "sha256":  "0FEA8A96C75E5FFB6A9F76925683D99408E38F194F5CEE373FA642F8B521A0BB"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Orochi_Shermie6.ACT",
+                      "size":  768,
+                      "sha256":  "23F8E6DB3EA4BEFAA4DC687C8220087D1D594E59012BA66C32E42587E778C8E3"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Shermie.act",
+                      "size":  768,
+                      "sha256":  "5A0AA85C0E84C6748AB75948C83170310F1271928A45DD5EF96E469AD5478161"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Shermie2.ACT",
+                      "size":  768,
+                      "sha256":  "51F09F9B7DD0EAB0A437904F47C8E446B528B296783D6771740C5DFB336EE531"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Shermie3.ACT",
+                      "size":  768,
+                      "sha256":  "3738C384D7D7E081FEB43AE26CD8938C77005BA120F2E24DFEFEBFC91D134DB1"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Shermie4.ACT",
+                      "size":  768,
+                      "sha256":  "C50F00A94A5AC5E7E061A49DC11D8A1527CD61DE3B5FB0D0F62EDC1893313678"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Shermie5.ACT",
+                      "size":  768,
+                      "sha256":  "AF9EEB9C59B52B50C1F29A5FD91B0104BE84F32157AED39DB6942D9B36AE1ED2"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Act/Shermie6.ACT",
+                      "size":  768,
+                      "sha256":  "B0B8584A9EEC7381C01F18C3A0EAFDA5087495CB97054EAA97050AD733A48A6C"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/-3.cns",
+                      "size":  5008,
+                      "sha256":  "B609C69DE724672C9B3C4B8395E6B3869A3AEE76D78448897A7468580ECCB911"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/common_S.cns",
+                      "size":  41627,
+                      "sha256":  "C2B06A6F1F0DB5F2CE205157BFDF8FE94CB701EEB18701A5C63935DC15B3B019"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/helper.cns",
+                      "size":  41473,
+                      "sha256":  "8A4CAEFDADE479644DEEB66F4E6FFD801F67C253D6BDAB4B4ADEFE30C2B752A6"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/intro_win.cns",
+                      "size":  23868,
+                      "sha256":  "956B866D30EA776186EBA489731F57D12961A1897CEB1B2FA4B0AC0AC7063D69"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/Shermie.cmd.cns",
+                      "size":  37460,
+                      "sha256":  "165BB450E27321B730106B0893ECD15FA2CE498A97C5A97B606FD007BB6CD262"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/Shermie.cns",
+                      "size":  149978,
+                      "sha256":  "41C1A5E18425426669C84B1FB0F9250B107DB8B44A610180529C4B357029CAF0"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Cns/Shermie2.cns",
+                      "size":  156535,
+                      "sha256":  "834D6CD28FDD2BE96710B3DF412B80D20BD99DF04BEFF9C022A3A0ED078CB25A"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Sys/Shermie.air",
+                      "size":  198170,
+                      "sha256":  "52FB04A94940D1BDE1AFF2CCF1D9AF2A6A3086BB4B47440A1CBD274174C2EC10"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Sys/Shermie.sff",
+                      "size":  8421312,
+                      "sha256":  "AE2EDE2D38B3B90267147398C0E30725E7EDD3069A0D2A0D7A730D8B87365D7F"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Sys/Shermie.snd",
+                      "size":  8516388,
+                      "sha256":  "7249BE07E9CF2AEDC8A727043C98FF19343FA5ABD401FDD4A623C0E4EB6B5174"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Txt/てきとうに.txt",
+                      "size":  325,
+                      "sha256":  "0527E72D3273F394679976F0C998EDAB76618F0699BABB172D7BF0B403DDAAB1"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Txt/キャンセルルート.txt",
+                      "size":  551,
+                      "sha256":  "548131EB4212352EC3097C3D577E5BEC27EB442923337F45141ED3331C4F0B86"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Txt/コマンド.txt",
+                      "size":  7607,
+                      "sha256":  "BC5681194541349AD78D903DD333FA4B8CFE6A41A12767BF1F61236F6FB2D79D"
+                  },
+                  {
+                      "path":  "game/chars/ThunderMiss.Shermie/Txt/更新履歴.txt",
+                      "size":  260,
+                      "sha256":  "63BF4CE4456377DA4147FE218AFC235B317FCEAA2985CF36B578AC7E78D409DC"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen-2-3.cns",
+                      "size":  22035,
+                      "sha256":  "BE773915AFE78FC3B70B77BA4F9996E5080854990B0D1266BC39BB7735A0C0F8"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen-H.cns",
+                      "size":  264508,
+                      "sha256":  "1B6011511CF8D9F0033E6F00021C172D87B77A22FA46DB7B214BE98E8BBC0240"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen-N.cns",
+                      "size":  35674,
+                      "sha256":  "1A538085FD1BBA55085E3BC768C592AB86A9C42C88A82CD906071C5E328C3EC3"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen-S.cns",
+                      "size":  147148,
+                      "sha256":  "18F3A98205ACEDD62DB68BD92BC403AB012A5A4574DEF6929820B646E8B102A1"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen.air",
+                      "size":  205527,
+                      "sha256":  "FDE539CB98899607C241CD0C70D98907EB696413E1F6C5C2B7F65280E0EDD236"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen.cmd",
+                      "size":  110213,
+                      "sha256":  "6C4369906428688E50DE10DCD4EE762AF79F315F2E8CF39992ED2B8D8D869B09"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen.cns",
+                      "size":  90316,
+                      "sha256":  "3C33DA3197B27BD575D2C7E563CB78FD35424C4B15003564AACC30F5AF9FEC0B"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen.sff",
+                      "size":  22805530,
+                      "sha256":  "EED6A60B83885F11728CB249B8E44F620AF478A913F49ADC12BA0E21013CDDDC"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Gustab-Munchausen.snd",
+                      "size":  7363304,
+                      "sha256":  "E257D96CD790C2F2A4E793CE1B4C413FE4D046BECE90B06F0C1EA3791D0B59BA"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Unfailed Gustab.def",
+                      "size":  1147,
+                      "sha256":  "3C31440E97A7326352ECA13683C0E23B710376D111B9D152B705BF88439BA0D8"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/关于人设.txt",
+                      "size":  4799,
+                      "sha256":  "348A9559C64587B5CF13B1E49F0F999AA044B2F3093613F04BA02CBAEAE30A55"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/特别鸣谢 \u0026\u0026 更新日志.txt",
+                      "size":  2181,
+                      "sha256":  "796880DBBFCAA550325B64D3EFBFF5BB3FEA6B206EA1CF933BFA3B33A99AEC60"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/1.act",
+                      "size":  768,
+                      "sha256":  "0594C1A06C645BC09FC509ACA0E5F519224B2A95C6C9F61DA0611EBC4B8D1E8B"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/2.act",
+                      "size":  768,
+                      "sha256":  "83685E8A8BBA3E4352D4C255FC9E8D96841C4B8507ABCBCEFCBFA67E9D2CCD3E"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/3.act",
+                      "size":  768,
+                      "sha256":  "E74143BB40BA4BE9EBC171D305BF9ACA31FD878BDFC384205F3D1647B8DEDD39"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/4.act",
+                      "size":  768,
+                      "sha256":  "83685E8A8BBA3E4352D4C255FC9E8D96841C4B8507ABCBCEFCBFA67E9D2CCD3E"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/B.act",
+                      "size":  768,
+                      "sha256":  "4F3F156296B08FD03679D701A3365CE74D41949677D23BF481233DC977CC68D8"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/bai.act",
+                      "size":  768,
+                      "sha256":  "E9127EA988F1C30624ECE1D57AC86C37602F2EBCCB3387CA7A9C08F0E6BA18D2"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/black.act",
+                      "size":  768,
+                      "sha256":  "0F85DD52D64A532BB955AD91673382C930717C465D42911AE288285FF4EBE5E6"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/black2.act",
+                      "size":  768,
+                      "sha256":  "918FA75389404A51B369322E2E7FF829840D70D1BA796682FDA0A1B00D852A0A"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/blue.act",
+                      "size":  768,
+                      "sha256":  "F1A7103FF14350E4591ADC2BE1E740D515F40E0380F5D18A119F1E11F11471AE"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/green.act",
+                      "size":  768,
+                      "sha256":  "4E122A34A8CA68A8200B30AFAC6C3A7335567A6FA929B36E634916046D8045D2"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-1.act",
+                      "size":  768,
+                      "sha256":  "94E962AF40564F45127ECB6F3EC8A6886EF9EE4C4D4C463DF4E7FA76BA078A04"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-2.act",
+                      "size":  768,
+                      "sha256":  "9A39111ADA71911E2064BB2FFE2F630E60DA3D7E82C3B113FCA58B8203E095AC"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-3.act",
+                      "size":  768,
+                      "sha256":  "D0B08CB4F80205E0072CCF41776920AEDAD3521CE8495DB1A1DDBFA31474DFA6"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-5.act",
+                      "size":  768,
+                      "sha256":  "F73ACAB02BC862B3495E9456EEDDA8E63F42DE183AB96D366A76283AA1396C69"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-6.act",
+                      "size":  768,
+                      "sha256":  "56C47DC6C60CC19A9A9BF420BE78B7750E87A4C23B198E70A7E786BBB4352BB4"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-7.act",
+                      "size":  768,
+                      "sha256":  "0B942701D11ABE9403BFEF8DAA8218149BA9A2FAADF029A6E58978F41D5F7B30"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-EX.act",
+                      "size":  768,
+                      "sha256":  "B226AB906045D07D68C21116A037EFE5FCC85138450BB1587061EBE41C49A702"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-Munchausen.cmd",
+                      "size":  103011,
+                      "sha256":  "7216398E0E9CB43A660E98B4E15BAF85F94D401A8416663F363C34BAB2F3CDCC"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/Gustab-Orignial.act",
+                      "size":  768,
+                      "sha256":  "4E122A34A8CA68A8200B30AFAC6C3A7335567A6FA929B36E634916046D8045D2"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/JB.act",
+                      "size":  768,
+                      "sha256":  "622E50EB1993776F4CB6CCDFDF73A4337FB4343039FCD0FA12AB2D59DE550A99"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/JB2.act",
+                      "size":  768,
+                      "sha256":  "A7DDFBF346DEBD1940D907EE9CF36BDEC07480AFF41176A337C8198E6512B227"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/LEEME.txt",
+                      "size":  37867,
+                      "sha256":  "8B234FA0A06E9872D5D0E98FB486685F9B73503224D328C3968585CF1B982DFC"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/lv.act",
+                      "size":  768,
+                      "sha256":  "D6816AF1690E9D7E8EE333E0254EBFEBAC69C534A26703BEA279A07DBBCD6B70"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/pal11.act",
+                      "size":  768,
+                      "sha256":  "20DEAB5A5433ACE351A172999045A7F939254171383A74327E8EBBDBBB4A1FE1"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/purple.act",
+                      "size":  768,
+                      "sha256":  "BDFB191C355CE3C08A9859587172EE72F074A697321685991FF220BC31010C3C"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/white.act",
+                      "size":  768,
+                      "sha256":  "75F2924C9E2145C9118ED247B94D73175E8DFB963D1FB4E696B4DA4124ADF3CD"
+                  },
+                  {
+                      "path":  "game/chars/Unfailed Gustab/Paletas/新建 文本文档.txt",
+                      "size":  5268,
+                      "sha256":  "F7518BAF0EB96B079B05875C8468D1FD32387294681C53564C08B614A592ED1F"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Commad List.txt",
+                      "size":  2931,
+                      "sha256":  "A0C1224548CB77CE2D05109C87648E42380B3ADE4648ACB3FBBD2F390EDB61D0"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar Rugal.def",
+                      "size":  552,
+                      "sha256":  "6D633D5E11CA6A324C1FF0B50500EF61F2E0AA9FD11D0B47B9419492DC2CDCFD"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar-Rugal-cmd.cns",
+                      "size":  96912,
+                      "sha256":  "9186C5CBDBA928FE901DEC09DD8074BEC00D07F1B7C0D1AF19966286034FB64D"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar-Rugal-common.st",
+                      "size":  152127,
+                      "sha256":  "8DF8BE6E0E9FBB23747C37CAC531D8581F85AD26D335AF4DFDE5B9D293F94FBD"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar-Rugal.air",
+                      "size":  432305,
+                      "sha256":  "5AB4F6A4E28FD2446B1F8CDCCA3C3DA67C11929E02E066D8CC517F6B101D243C"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar-Rugal.cns",
+                      "size":  635727,
+                      "sha256":  "7ECABB8DB3BA53150BACB019A7B9BBE1247E9D436F644AF35AD74EBB0F56D21F"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar-Rugal.sff",
+                      "size":  224472030,
+                      "sha256":  "90C09063A727383E18BD1FC3F31FFF9134EF39FE71631A389AC8832EC6E356BA"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/Valmar-Rugal.snd",
+                      "size":  52785329,
+                      "sha256":  "EC82D3DC36D17951FEF05B63751B4DCA0B1CA9174CC343C50E62E2DA77D106DE"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/製作日記.txt",
+                      "size":  6265,
+                      "sha256":  "53ED0E2974CC7601867F1B625C70AD0CF4CFD41EEADBE6A60B0EFD659B7C8957"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/ぽとれ/1.bmp",
+                      "size":  18598,
+                      "sha256":  "665EC9FD88DC4C4E1039C841A7430DCB63330CB89DB6FC94852BB14A5B1BE7DC"
+                  },
+                  {
+                      "path":  "game/chars/Valmar Rugal/ぽとれ/2q.bmp",
+                      "size":  341278,
+                      "sha256":  "8D45AE314FE8761C93C18D075D14FF31DE929BE7462B7A7BCE1DBDE9ADC07AF7"
+                  },
+                  {
+                      "path":  "game/chars/vandals/ai强度与视频要求.txt",
+                      "size":  209,
+                      "sha256":  "C3C842CBEA6A912DD068DBE5EA9CD5A83C3FCE438B99A310C1A0B489AE8A271F"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals win.sff",
+                      "size":  30851311,
+                      "sha256":  "B3ECF131FC27635123F89E53F4E01D386B514DA17A6D2F0DD875C98C88E1B0DB"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals-2-3.cns",
+                      "size":  120171,
+                      "sha256":  "F753F9EF20952E13532260899F0EFAAD99A160896FD2ED41D8C47129621F65A3"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals.air",
+                      "size":  373230,
+                      "sha256":  "91B7386F009308A4B10D8DF81704B7EA5A745A61A84A440DDEA2BEFED00A4970"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals.cmd",
+                      "size":  34183,
+                      "sha256":  "6B0159B8EAD74B606F77AD46271CC5A1052FA9DAFFE16CEFFE433A4B21D34B1E"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals.cns",
+                      "size":  135903,
+                      "sha256":  "6C50D2797FF7D75C21B4FEC73F1DBF01AE7C35C11694D50F40F44F54046E0577"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals.def",
+                      "size":  838,
+                      "sha256":  "30C2D69EFC90A3CA97A9BC25B86D3BAA0E468EE6CC8B67ED770F3FBFED30CA84"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals.sff",
+                      "size":  79388898,
+                      "sha256":  "78B4DA26D172523BA6020A9F920473256809E9F4D6F2355CACC1AFE6982EB9F8"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals.snd",
+                      "size":  28237106,
+                      "sha256":  "ABABAB1C94791B1EB0DE16E00BBCA054B56C46365ECDF5518D5FACA4F81D02D1"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals1.cns",
+                      "size":  175462,
+                      "sha256":  "30943A6B0FFB9047F27C33464919A4DE4A2FB4CD3E2425102848014995BA084C"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals2.cns",
+                      "size":  155426,
+                      "sha256":  "470C0961EE55681C6711CBA3C7CFBCF83F46424421D126542761FAFCD06732EC"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals3.cns",
+                      "size":  335494,
+                      "sha256":  "C2126CC20C755E07CE229AB0E01C970520A28A0D2376D9AE29730FD24E3624B5"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vandals4.cns",
+                      "size":  28344,
+                      "sha256":  "DAB991C02BC39AD5F4C3248D241259EB3C95511FDA0DBEBABEC952604BD173C1"
+                  },
+                  {
+                      "path":  "game/chars/vandals/vcommon1.cns",
+                      "size":  67554,
+                      "sha256":  "D9F5C03DB6E044ED8CD8258D7F3EC7FAA7970A22B79DC0B5D65A5751F660CEEF"
+                  },
+                  {
+                      "path":  "game/chars/vandals/人物设定(走过路过不要错过_(з」∠)_）.txt",
+                      "size":  3338,
+                      "sha256":  "17D3C61608419BF7C60495AB529D2F5F8106260578202E1784520723FF6121AF"
+                  },
+                  {
+                      "path":  "game/chars/vandals/使用说明(绝对要读!).txt",
+                      "size":  1619,
+                      "sha256":  "8BCB75D337A52643A25A09AFA277F8B39DF4BC70E1DB3BD41CCC082B130844CE"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/common1.cns",
+                      "size":  129902,
+                      "sha256":  "7E7DE75F0A31459E994F18E8EC2F31DEDD83C619B66B9897E1C186CAF3F8FDC2"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain.act",
+                      "size":  768,
+                      "sha256":  "3A5F264C154235AEFD0DE9B0C655EC9EC1EBC8D8183791FEA663DE357C37AE1A"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain.air",
+                      "size":  164788,
+                      "sha256":  "393FC87EFB6060CDFC718F4693E06B4EBE8A8661278D136391B37FDB0BBED645"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain.cmd",
+                      "size":  9717,
+                      "sha256":  "CBB9A3CFFBEE1DA6450C28A61C94514075980BD86ADB3A3018BD847C0598B2B7"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain.cns",
+                      "size":  171439,
+                      "sha256":  "3F47D37B2900A24C3B596E26EB847EAE0D195EEDBDC57C2398D9076AD313F319"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain.sff",
+                      "size":  43826372,
+                      "sha256":  "44238E2F38D5469DF71C53B253459F69B3A3634FD1C533A5EE779FEE2E6BE7D2"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain.snd",
+                      "size":  14744028,
+                      "sha256":  "6310C042C8321C28D01DD31ABFA6677B714FDD65AAAE36434CD315579605EC14"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain2.act",
+                      "size":  768,
+                      "sha256":  "D44E151C9871F8CF0D4FF7FC06411F0265BDA1A0E8F9D6C8C4090F5DB09388F3"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain3.act",
+                      "size":  768,
+                      "sha256":  "7A8230F44A26374F0FFF93BA27237874BCD5CD561D00E82160E27EDB28474FA0"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain4.act",
+                      "size":  768,
+                      "sha256":  "FAB67F8950BA0B866FA665423DCDDE6D2C956E02F99C7A92ECABA26700A9CBD2"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain5.act",
+                      "size":  768,
+                      "sha256":  "04EEACEA72B3F343DA031421555923000755549401ED99AC2CF5311E5055FE63"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/kain6.act",
+                      "size":  768,
+                      "sha256":  "3A2535C2C7A4DF0AB6EA85B54F9314ECCDA39934E15CE37A5B09B80AD277F4BE"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/null.cns",
+                      "size":  56975,
+                      "sha256":  "BA97D1B168EBEDE50716F54FB68685EA1CE58853A07B149C1BD6C0AF7CFE330B"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/readme.txt",
+                      "size":  3082,
+                      "sha256":  "60FE541A15B8864C8386B2150BD879C432FE78EB84D29C1C6D250DBB98F5691F"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/_ArchiMurderer.def",
+                      "size":  634,
+                      "sha256":  "97C9F70321185757AFE711A24A1505B5A44B0B50A3B235415F10992F20D6FB6D"
+                  },
+                  {
+                      "path":  "game/chars/_ArchiMurderer/òëé»îóé+ùpé-û¦éó.txt",
+                      "size":  3151,
+                      "sha256":  "1E7740B8B5961ED9F31E5097D3D9559A7F62F572966D7176C4F885545D45A8D8"
                   },
                   {
                       "path":  "game/data/select.def",
-                      "size":  7822,
-                      "sha256":  "A66E64BADAD6D355D0AE979DE95C966BF990B9C06C6D2C121A1284BE68D21DA5"
+                      "size":  5262,
+                      "sha256":  "572AD8A1318730B2F1C5EC4AEAC5C1CD9E0ED6B077B5C805B9EBC42228051BC2"
                   },
                   {
                       "path":  "game/data/ikemen1/system.def",
-                      "size":  70957,
-                      "sha256":  "FEE3C83E645136C9F7FF81010B14248D769434249F96DBEF72D795213A847178"
-                  },
-                  {
-                      "path":  "game/external/script/debug.lua",
-                      "size":  7585,
-                      "sha256":  "50297E0FE1CC84DEF296387AFB07DD3875F095BBB63207A07E888628AEB47E60"
+                      "size":  70923,
+                      "sha256":  "40C32FBF1F5A3B7982145C1F1D1D11906FD78923E1A40E8DEFB323FAE84D618A"
                   },
                   {
                       "path":  "game/external/script/default.lua",
-                      "size":  884,
-                      "sha256":  "A4677C6B2748F109D3A75F5A06C7B491642A3566C1103F93A2125ED75215C737"
-                  },
-                  {
-                      "path":  "game/external/script/main.lua",
-                      "size":  149162,
-                      "sha256":  "D033C56F413231DEB94004CA456F2C139252B056143322A613D71AD384DB0E1E"
-                  },
-                  {
-                      "path":  "game/external/script/menu.lua",
-                      "size":  35000,
-                      "sha256":  "7300CC8E0275069B0DE730AD77BEA71C7D40B765F3DDD9E33E7FB7CDCA8D51AA"
-                  },
-                  {
-                      "path":  "game/external/script/options.lua",
-                      "size":  101093,
-                      "sha256":  "BA0AF6BCD3AD24F536EA21483FBE30BE72A561211EBB92AEB1EA90EFC29951DC"
-                  },
-                  {
-                      "path":  "game/external/script/start.lua",
-                      "size":  163424,
-                      "sha256":  "164EEC3BFE6C1E423D9F509B1B176C5CD85DA2190BF36F079916E5A1FDFC13D6"
-                  },
-                  {
-                      "path":  "game/save/config.ini",
-                      "size":  20365,
-                      "sha256":  "679ABF2A479B9B399E8DB10544F3A0C12BC9B64046F0C94F8AFDB2CDD5241877"
+                      "size":  1260,
+                      "sha256":  "49E38A6ACB6903A4816F7EAD2C1899E834702175E4033DB8429C7C24B52247C7"
                   }
               ]
 }
