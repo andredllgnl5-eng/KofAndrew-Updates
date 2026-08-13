@@ -1,22 +1,22 @@
 {
     "version":  "1.0.37",
-    "publishedAt":  "2026-08-13T01:40:55.4131959Z",
+    "publishedAt":  "2026-08-13T01:48:40.7765579Z",
     "packageUrl":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37.zip",
-    "packageSha256":  "31C45A207ED4CF8AB737DAE0521D70772130F4CBDEDA7321BCFA25C92CFC8F27",
+    "packageSha256":  "6321434B236EB0D6E6A829D66E0980CC79813987F01368C1F0CECE218B4122E3",
     "packages":  [
                      {
                          "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37-part1-of-3.zip",
-                         "sha256":  "31C45A207ED4CF8AB737DAE0521D70772130F4CBDEDA7321BCFA25C92CFC8F27",
+                         "sha256":  "A99578EDA96F53E0472C23E5E2D639D133DAFC5F440709A87C3B07C1B844921A",
                          "size":  1035085925
                      },
                      {
                          "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37-part2-of-3.zip",
-                         "sha256":  "5A96B7F8726C3EB05A00C07EC1F42C24B3C8B4590A9518FF49D2F6CC7ED32DD7",
+                         "sha256":  "5BBF389AFB347AF7DEB09942AB130D24063FF0AB900782EF5852598DD0748ED2",
                          "size":  1177768392
                      },
                      {
                          "url":  "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.37/KofAndrew-Client-v1.0.37-part3-of-3.zip",
-                         "sha256":  "BDE5184E39E38705F61E93AD36152D8497D75D295A353C0E42108B82C88104E8",
+                         "sha256":  "C5702A2CC8328BA16702CCA09FC2A1E22AB5D809032ACC1F85AD748736B97083",
                          "size":  1163762550
                      }
                  ],
