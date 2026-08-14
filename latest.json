@@ -1,18 +1,18 @@
 {
-  "version": "1.0.40",
-  "publishedAt": "2026-08-14T12:24:26.5070278Z",
-  "packageUrl": "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.40/KofAndrew-Client-v1.0.40.zip",
-  "packageSha256": "81F7F1F15AFE7DC19F7330B0161FD9EF050452B28F072E8C2E66FC31D9B3A48B",
+  "version": "1.0.41",
+  "publishedAt": "2026-08-14T12:49:35.1125939Z",
+  "packageUrl": "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.41/KofAndrew-Client-v1.0.41.zip",
+  "packageSha256": "E64BDEB8DEA0CE997A7BF35D8EE85D26329DE955E493076702844BA69AF3EE9B",
   "packages": [
     {
-      "url": "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.40/KofAndrew-Client-v1.0.40-part1-of-2.zip",
-      "sha256": "8F3BE5AB91C44664B9691243A0C48A22178A0F7150FEE934AF67F35997596315",
-      "size": 1365267494
+      "url": "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.41/KofAndrew-Client-v1.0.41-part1-of-2.zip",
+      "sha256": "2A870C968E96A5E37193619D7B2E434EF7EFE7DFB9E940C65B2DAE3547792922",
+      "size": 1365267434
     },
     {
-      "url": "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.40/KofAndrew-Client-v1.0.40-part2-of-2.zip",
-      "sha256": "006B2EF0FA0CEF45358E26CDBF55D4EC98A41878570573FEDEC291A4CB26CBA7",
-      "size": 504865478
+      "url": "https://github.com/andredllgnl5-eng/KofAndrew-Updates/releases/download/v1.0.41/KofAndrew-Client-v1.0.41-part2-of-2.zip",
+      "sha256": "45D9F72FD3AFDDC7FBDB98D1E9F2FD02F30B693996E230A04F7F0DF83D9119FE",
+      "size": 504865479
     }
   ],
   "files": [
@@ -2103,138 +2103,138 @@
     },
     {
       "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/Iori_Yagami_XIII.Def",
-      "size": 1467,
-      "sha256": "36F01AE692452E924EB6E0CDEA5D0743FBF8198A24B8AB1911F5C016A4EE63DF"
+      "size": 1507,
+      "sha256": "35DABE8BF5AB6DD455585D2C7EFACF4E5EE7B45F8AD6BD9D5EEE9A6373E5E4B2"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_[-2].Cns",
-      "size": 5426,
-      "sha256": "0916C90FF65FF356A0F3628913F9C74F13766F6CE4D072789F6F8E10AC18B3DF"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_[AI].Cns",
-      "size": 87449,
-      "sha256": "9DA6630030139017D0D1C45F87432D51ADD8238085DA12470ECCA7AC091D6F9A"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_[Helper].Cns",
-      "size": 58296,
-      "sha256": "0C4314859BB8589121202BCC7326563CA797795CB102039B56DB62B9E71F93E6"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_[Option].Txt",
-      "size": 66110,
-      "sha256": "56B3B7C7B016B1469E77C993058A069D21F3DADC2AF947878B68914F85FEA934"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_[P2].Cns",
-      "size": 22138,
-      "sha256": "6E82A52D7F9B1A571ADA7ACA64B4A157165443808A87EFF1E245F14AD751BE4E"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_Common.Cns",
-      "size": 107837,
-      "sha256": "A2A5AEE8722DFEDA816D4DB08AF0E1F329780DE7FCB8EC2816229AAC62FA0BC0"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_Constants.Cns",
-      "size": 1085,
-      "sha256": "57EA717B749B941C94ADC83CC1C872AFFB1487A1DF09EB0D2DA08A7CC41788BD"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_H.Cns",
-      "size": 92519,
-      "sha256": "972BC11BC69CD9C65692728863931C4B6374468518727422E9078630FB0BDEDE"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_N.Cns",
-      "size": 79735,
-      "sha256": "245D6EDB81067F361EAB9ADED93568C728ED0649E4B27F4446E4DA86D7D22ABD"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_S.Cns",
-      "size": 142142,
-      "sha256": "8E9C8F093511653CED5EE70C95895A26A6D995DA99D4E838C806C1DE9E1D7D35"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/代码/Iori_Yagami_Start.Cns",
-      "size": 1700,
-      "sha256": "1A97F7D5C9BBB4B130539A7C6237F0ABCF92EBED2093B830FCA94CF61F8C8151"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/动画/Iori Yagami.Air",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/anim/Iori Yagami.Air",
       "size": 136041,
       "sha256": "89C628F104B96E249427FF17BE2799A4AACF2B4FEF86D10DA6F7AC1CF17DE9F7"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/指令/Iori_Yagami.Code",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_[-2].Cns",
+      "size": 5426,
+      "sha256": "0916C90FF65FF356A0F3628913F9C74F13766F6CE4D072789F6F8E10AC18B3DF"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_[AI].Cns",
+      "size": 87449,
+      "sha256": "9DA6630030139017D0D1C45F87432D51ADD8238085DA12470ECCA7AC091D6F9A"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_[Helper].Cns",
+      "size": 58296,
+      "sha256": "0C4314859BB8589121202BCC7326563CA797795CB102039B56DB62B9E71F93E6"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_[Option].Txt",
+      "size": 66110,
+      "sha256": "56B3B7C7B016B1469E77C993058A069D21F3DADC2AF947878B68914F85FEA934"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_[P2].Cns",
+      "size": 22138,
+      "sha256": "6E82A52D7F9B1A571ADA7ACA64B4A157165443808A87EFF1E245F14AD751BE4E"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_Common.Cns",
+      "size": 107837,
+      "sha256": "A2A5AEE8722DFEDA816D4DB08AF0E1F329780DE7FCB8EC2816229AAC62FA0BC0"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_Constants.Cns",
+      "size": 1085,
+      "sha256": "57EA717B749B941C94ADC83CC1C872AFFB1487A1DF09EB0D2DA08A7CC41788BD"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_H.Cns",
+      "size": 92519,
+      "sha256": "972BC11BC69CD9C65692728863931C4B6374468518727422E9078630FB0BDEDE"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_N.Cns",
+      "size": 79735,
+      "sha256": "245D6EDB81067F361EAB9ADED93568C728ED0649E4B27F4446E4DA86D7D22ABD"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_S.Cns",
+      "size": 142142,
+      "sha256": "8E9C8F093511653CED5EE70C95895A26A6D995DA99D4E838C806C1DE9E1D7D35"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/code/Iori_Yagami_Start.Cns",
+      "size": 1700,
+      "sha256": "1A97F7D5C9BBB4B130539A7C6237F0ABCF92EBED2093B830FCA94CF61F8C8151"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/command/Iori_Yagami.Code",
       "size": 48691,
       "sha256": "1BF7F75893F3E85D0F360041CBB6B2B8B8E6455E40DB6637C5578B288ADFB19D"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/素材/Iori_Yagami.Sff",
-      "size": 47613206,
-      "sha256": "50EA005219B8831DC8F7677EDE10F6695B73A8449AEA5946D58EF53C26DCD54D"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/音效/Iori_Yagami.Snd",
-      "size": 16459644,
-      "sha256": "12A36F6C8B2AABBA3E776E55FE11EE11CE03F13A07ACF45F0F33E321417DE678"
-    },
-    {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_1.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_1.Act",
       "size": 768,
       "sha256": "C90F00B954DB0BAA4D117AB6950BAC0E926EABAA47F1DA7F6B04D0AD7E2E9BCB"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_10.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_10.Act",
       "size": 768,
       "sha256": "0A2FADE70C275A70F10610B1FB1A141A4D409C5D8792F8CEF711E326512B101A"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_11.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_11.Act",
       "size": 768,
       "sha256": "EAE1F26D6407617EC2F230E1C1A2C97BC3F2282822487DC16357D5A250AC8132"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_2.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_2.Act",
       "size": 768,
       "sha256": "AB509456394B96B1965907E9C7A9CFAB2874B7261B5EDFA90D668FE9B8A6B9F1"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_3.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_3.Act",
       "size": 768,
       "sha256": "3DB717CCCEBFE092C25E879EBD260A9F1C3CEFCBC6599BEE25CFAF202A01F78F"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_4.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_4.Act",
       "size": 768,
       "sha256": "806C68F0EB04ECCAF38F9E6028925FAF87F8D2CC9E46D9020943382DD5C60897"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_5.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_5.Act",
       "size": 768,
       "sha256": "A5C9C230574A1C65E345496F905CB4BCB8C318C4B1EA539C505ECC4854C1D1B6"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_6.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_6.Act",
       "size": 768,
       "sha256": "F4BCFC8C4106EDD5E6D3E22D9C7AF3327CF4DFB03A171100F236F3C0FB37ECE8"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_7.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_7.Act",
       "size": 768,
       "sha256": "EDA9947E6C1AABC7E8CF3313E829E89F6C50A1AAB35EC4835D81D7478DDE9E67"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_8.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_8.Act",
       "size": 768,
       "sha256": "9AB9D00FC6E90EF50F27711CD0C68750A9141D7155BD4379623FB913D7F9D562"
     },
     {
-      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/颜色表/Iori_Yagami_9.Act",
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/palettes/Iori_Yagami_9.Act",
       "size": 768,
       "sha256": "903C0086E2D3951A27F5F6834E379FF88D35259690803860E8CC679B49F98AFA"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/sound/Iori_Yagami.Snd",
+      "size": 16459644,
+      "sha256": "12A36F6C8B2AABBA3E776E55FE11EE11CE03F13A07ACF45F0F33E321417DE678"
+    },
+    {
+      "path": "game/chars/Iori_Yagami_XIII/Iori Yagami XIII/sprite/Iori_Yagami.Sff",
+      "size": 47613206,
+      "sha256": "50EA005219B8831DC8F7677EDE10F6695B73A8449AEA5946D58EF53C26DCD54D"
     },
     {
       "path": "game/chars/Jhun/Jhun_XI/Jhun_XI.def",
@@ -9434,7 +9434,7 @@
     {
       "path": "game/save/config.ini",
       "size": 20365,
-      "sha256": "8967B8C70C902CF22F54CEBF5664E5A127C12276E635E752FE7A6AD1B4154DFA"
+      "sha256": "347BAF34D064B8F48B6F684325263C6BE65BAA133F1C95476FB3879A041EDC9E"
     },
     {
       "path": "game/sound/.keep",
